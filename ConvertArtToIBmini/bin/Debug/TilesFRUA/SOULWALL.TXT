@@ -1,0 +1,21 @@
+WALL OF TRAPPED SOULS
+
+Original artwork was taken from background of website of S.A.T.A.N. guild
+messageboard in Lords of Empyria game. With Paint Shop Pro I made a primary
+wallset with these demonic twisted faces, carved in stone. It worked well
+with Rock-A palette, so this file - w_faces0.pcx - should be placed with
+Walledit on slot 0 (well, leftmost one) of Rock-A wallset. Other files
+are secondary elements of original wallset (gate, ladder, door) slightly
+altered for use with my primary wall (brick frame removed from last 2
+elements, and gate is made little smaller). 4th slot (3, counting from zero)
+of original wallset was left completely unchanged, so i didnt included it.
+Combine this with original lava wallset, and you will get ultimate walls of
+Hell!
+
+Thanks to Primedemon and SATAN guild for making original demonic faces
+available to me..:)
+
+Enjoy!
+And dump aol.
+
+Ghaaroth

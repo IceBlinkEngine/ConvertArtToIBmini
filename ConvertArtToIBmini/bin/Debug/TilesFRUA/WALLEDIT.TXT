@@ -1,0 +1,306 @@
+WALL IMPORT UTILITY v2.00
+
+WARNING!!!  Before using this utility, please make backup copies of your
+8X8DB.TLB and 8X8DC.TLB files within the DISK2 subdirectory.  That way,
+if Something Goes Disasterously Wrong, you are not Up a Creek Without a
+Paddle (and while my 13-15 Xeen disks are still good after a year, I have
+no such trust of SSI's trio of disks).  I am not responsible for accidental
+damage that may occur on your system from running this program.
+
+
+CONTENTS
+
+1.  INTRODUCTION
+    1.1.  Changes From Version 1.xx
+
+2.  WALLSEE
+    2.1.  Overview
+    2.2.  Features/Limitations
+    2.3.  Examples of Use
+
+3.  WALLEDIT
+    3.1.  Overview
+    3.2.  Features/Limitations
+    3.3.  Command Line Arguments
+    3.4.  Examples of Use
+
+4.  TEMPLATE
+
+5.  NOTES FOR THE FUTURE
+
+
+1.  INTRODUCTION
+
+This package should contain the following files:
+	WALLEDIT.EXE - The wall editor itself.
+	WALLSEE.EXE - The wall viewer and template creator.
+	LEGEND.TGA - That little color legend that appears in all
+	  templates.  If you delete this, things will still work
+	  but your templates won't include the legend.
+	WALLEDIT.TXT - This file.
+        W_SNOW#.PCX - A sample wall set suitable for replacing
+          UA's current Adobe wall set with snowy walls.
+
+There are really 3 utilities in this package:  WALLSEE to view currently
+installed UA wall sets and create templates for replacing them, and
+WALLEDIT to actually import wallsets.  The general idea is to use WALLSEE
+to decide what to replace and create templates for the indicated wall set.
+Then the templates are modified by some sort of paint program that can deal
+with PCX files.  Then run WALLEDIT one or more times (five times is normal,
+for reasons you will see later) to actually plug in the walls.
+
+The third utility is totally new:  WALLCOPY.  It allows you to copy one wall
+set to another.  If you want to make a standard template size, it is now
+perfectly OK to copy a single wall set into all 16 sets.  While WALLEDIT is
+unable to add color cycling to a wallset, you can now copy a cycling set over
+to a previously non-cycling set THEN use WALLEDIT to change cycling values.
+WALLCOPY is a VERY useful tool!
+
+None of this would have been possible without Sarlegant's excellent
+article in UANL#11, and looking at the Backdrop Editor's source code
+to figure out how the graphics are stored.  And if it weren't for
+Kaviyd's articles in UANL#5, I would have never gotten into hacking this
+stuff at all.  Enough of this Oscar speech; I bet you want to know how to
+use this thing without seriously damaging UA (the worst I've managed to do
+is hang up the machine; I haven't yet corrupted any files).
+
+1.1.  CHANGES SINCE VERSION 1.xx
+
+The major version change is due to the fact that I rewrote WALLEDIT from
+scratch.  Why?  Because a hard drive crash took out my old source code, and
+a lot of my stuff took a permanent vacation.  Not to worry, though, I have a
+Zip drive now, and I'm not going to lose it again...
+
+There ARE some definite improvements in the program.  The old WALLEDIT had a
+memory leak that is now plugged.  There are also substantial improvements in
+the prompts for wall data.  You now see a list of default wall set names when
+choosing a wall set to edit (exactly like WALLSEE did before).  When prompted
+for color cycling start, run, and period, you now can see what the current
+figures are so you can play with the numbers a little bit.
+
+WALLEDIT now instantly senses which sets color-cycle, making it compatible
+WALLCOPY.  Old versions of WALLEDIT would not quite work properly.
+
+TEMPLATE has been removed from the package.  It had its uses, but it has also
+caused problems, so I nixed it.  WALLEDIT no longer pays any attention to
+embedded data.
+
+2.  WALLSEE - The UA Wall Viewer that Does Templates Too
+
+2.1.  OVERVIEW
+
+Why do a wall viewer, when UA lets you view walls just fine?  Well, for
+one thing my program doesn't do a doc check.  However, the real reason is
+that it forced me to learn the format of the graphics files (which I needed
+to do anyway to write the editor).  Later, I altered it so it would dump to
+PCX files as you're viewing, so you don't have to fire up Screen Thief to
+capture the screens.  Why capture the screens?  Because the PCX files make
+great wall templates!
+
+See my discussion in section 3.2 to learn why you have to get a separate
+template for each wall set you want to replace.
+
+2.2.  FEATURES/LIMITATIONS OF WALLSEE
+
+I've made it about as easy as it can get.  Choose a wall set to view by
+entering its corresponding number, enter a 5-letter name to help name the
+output PCX files, and press a key each time you want to view the next wall.
+The program even tells you what filenames to expect the PCX files to have.
+
+Limitations:  The WALLSEE program will die a horrible death unless you
+run it from your FRUA main directory.  Unlike the very first version of this
+thing, you don't have to install UA in D:\GAMES\FRUA for proper use...
+
+2.3.  EXAMPLE OF USE (WALLSEE)
+
+Aw, c'mon!  You need an example for THIS thing? <sigh!> Okay...
+
+Enter this command:
+
+WALLSEE
+
+A screenfull of text rolls up listing the names of the original 16 UA wall
+sets.  In this example, type 1 and press Enter.
+
+It asks for a 5-letter name.  Since this is the Rock A wall set, might as
+wall call it ROCKA.  Enter that and press Enter.
+
+It tells you to what to expect the PCX filenames to be, then prompts you to
+press a key.  Do so.
+
+Look at that wall!  And from all angles, too!  When you're done gaping at it
+in awe, press a key to look at the next wall group.  Repeat until you've
+looked at all 5 wall groups.  Press the "any" key one more time, and you're
+looking at a DOS prompt (unless you ran this thing from Windows 95, of
+course).  If you look at a directory listing (DIR *.PCX works good).  You
+should see 5 files:
+
+	ROCKA0.PCX
+	ROCKA1.PCX
+	ROCKA2.PCX
+	ROCKA3.PCX
+	ROCKA4.PCX
+
+If you use a PCX viewer on them, you'll notice they look a lot like those
+screens you looked at.  That's because they ARE exactly what you looked like,
+including that color guide on the bottom.
+
+
+3.  WALLEDIT - The Wall Import Utility
+
+3.1.  INTRODUCTION
+
+Enough looking, you wanna change something, don't you?  Well, it's more
+complicated, and like the other art stuff it kinda helps if you know how
+to either snag wall pics from elsewhere or draw walls.  Once you have the
+walls, the editor performs the final job of sticking it in to UA's wall
+files.
+
+3.2.  FEATURES/LIMITATIONS OF WALLEDIT
+
+Remember those PCX files created back when you ran WALLSEE?  Well, that's
+where you put your wall pics.  You have to stay within the pink frames,
+and you can only mess with palette colors 32-68.  The legend at the bottom
+should change colors with your palette, so it's good for setting up a
+smooth color cycle.  At any rate, it's your job to draw the walls; I'm
+just here to plug them in.
+
+Limitations:  This is the fun part.  You may wonder why there isn't just
+one template that's good for all wall editing.  My best answer is that I
+made a design decision to keep the size of the wall files the same, so I
+wouldn't have to put a big loop in there to re-write the entire file each
+time a change is made.  If the walls change in size, so does the wall files.
+So the walls have to have the same size as their originals.  Guess what?
+SSI thoughtfully made just about every wall a different size!  So we need
+to make our own templates for each wall set to be replaced... thus the
+WALLSEE improvements.
+
+With the advent of WALLCOPY, things get a bit more complicated.  The bad news
+is that wall sizes are no longer fixed.  If for some reason you think Rock A
+is always the same size (true with earlier versions), please note that some
+other set may now be copied over it.  The good news is that you can now
+replace that lame WASTELAND set with something more useful, like LAVA.  Or if
+you have a lot of "wall sets" of free-standing objects, maybe you want MORE
+Wasteland-sized slots to store the data in.
+
+How to run this thing:  There are 2 main ways to run this program.  You can
+just type in WALLEDIT and the program will ask you a bunch of things, or
+you can add extra stuff to the WALLEDIT command to answer those questions
+ahead of time.  The second way allows for neat things like batch files,
+while the first way is perhaps easier to use.  If you add some arguments,
+but the program thinks you left a thing or two unanswered, the program
+will prompt you for the stuff you missed.
+
+
+3.3.  COMMAND LINE ARGUMENTS
+
+FILE=    (F=):  Specify path, filename, and extension of PCX file to be
+imported.  While it's sometimes a pain to keep typing in the directory name,
+it's nice to be able to put the template anywhere.  The easiest way is to
+copy the wall files to the FRUA main directory (COPY them; don't RENAME
+them!), use WALLEDIT, then delete them when you're sure they're in.
+
+WALLSET= (W=):  Specify wallset number.  Valid range is usually 1-16, though
+if one of Peter Kos' utilities get a hold of the wall files this may be
+different...
+
+GROUP=   (G=):  Specify wall group number (ie: which set of 9-10 wall maps
+you are replacing).  Valid values are 0 to 4 like before.
+
+CYCLE=   (C=):  Specify cycle flag.  Valid values are 1 for no cycling, or
+3 to enable color cycling.  If the wall set does not support color cycling,
+the program will say so and automatically turn cycling off.
+
+START=   (S=):  If color cycling is on, this argument tells the program
+what color index to start cycling at.  The torch effect in the Rock B set,
+and some others, starts cycling at color 64.  Valid Values are 32 to 67.
+
+RUN=     (R=):  If color cycling is on, this argument tells the program
+how many colors after the START color to cycle through.  The torch has a
+run value of 5, which tells us that it cycles through 5 colors (from the
+START value, we know these colors are at index 64, 65, 66, 67, and 68).
+
+PERIOD=  (P=):  If color cycling is on, this argument tells the program
+how fast the colors are to cycle (ie: how many times the main UA loop is
+processed before a color change).  The lower the number, the faster the
+cycling.  1 or 2 is unbeliveably fast, and advisable only if you WANT the
+walls to be an eyesore.  Anything above 20 is really slow, though I'm
+allowing up to 255 for those who believe in real subtle changes...
+
+3.4.  EXAMPLES OF USE (WALLEDIT)
+
+I don't think I need to show an example that uses no arguments; the
+program itself walks you though rather well.  I'll include an example
+that has some but not all arguments, and two examples with all the
+right arguments (one for no color cycling and one with color cycling).
+
+INCOMPLETE ARGUMENT EXAMPLE:
+
+WALLEDIT FILE=ART\W_ROCKS2.PCX WALLSET=2
+
+Since you told it what file and wall set to use, the program won't ask
+you about it.  However, it still needs to know the group number and color
+cycling information.  It will ask for a group number, then ask you if you
+want color cycling at all.  If you enter N for the second one (meaning NO),
+or if the wall set does not support color cycling (in this example, it
+does), it will not ask you for START and RUN.  On the other hand, if you
+enter Y, it will ask for cycle start index and run value.
+
+NON-CYCLING EXAMPLE:
+
+WALLEDIT FILE=ART\W_BUCK0.PCX WALLSET=1 GROUP=0
+
+This is enough to replace the first wall of the Rock A wall set with the
+contents of W_BUCK0.PCX from the ART subdirectory, with no color cycling.
+Rock A (normally) does not support color cycling, so it won't ask for CYCLE,
+START, RUN, or PERIOD.  This example may not work properly if WALLCOPY was
+used to cover set 1 with something else...
+
+COLOR CYCLING EXAMPLE:
+
+Say you made some minor alterations to the Rock B wall set, but you still
+want to keep the burning torches.  The alteration is in the first wall, which
+itself does not cycle.  If you are making no further alterations (ie: this is
+the LAST alteration of the Rock B set you are planning to make), you will
+need to re-specify the color cycle options to avoid losing them.  If you
+plan on making other alterations, you can temporarily leave/turn cycling off.
+The cycling stats are only necessary on the last group entered for that wall
+set.
+
+The command will look something like this:
+
+WALLEDIT F=ART\WALLS\NEWWALL0.PCX W=2 G=0 C=3 S=64 R=5 P=11
+
+Note the shortened arguments, which the program is equipped to handle.  The
+S(TART) and R(UN) arguments are needed to describe the cycling behavior of the
+torches.
+
+
+4.  WALLCOPY - UA WALL SET COPY UTILITY
+
+Very simple to run.  Enter WALLCOPY, then select wall set number to copy from
+and wall set number to copy to.  You may also enter the to and from numbers
+from the command line.  For example "WALLCOPY 15 9" copies set #15 to set #9.
+Now sets 9 and 15 look like 15.
+
+5.  NOTES FOR THE FUTURE
+
+FEEDBACK WANTED
+
+If you think of something in this program that irritates the heck out of you,
+and you think you know a better way of doing it, do not hesitate to E-mail me.
+I may say NO, but I won't ignore you...
+
+My E-mail address is JGB4907@aol.com.
+
+
+POSSIBLE FUTURE PROJECTS
+
+Now that I have all these hacks written, it's just about time to actually
+work on that sci-fi mod (which is, after all, the reason I wrote these
+things).  So my UA hack writing is going to slow down a while.  However,
+perhaps by Feb 97, look around for my mod.  Tentative working title is:
+"Falseheart".  I am also laying down plans for two follow-up adventures,
+tentatively titled "False Start" and "The Six-Fingered Hand".  Since a mod's
+suspense is kinda ruined by giving away the plot, I'll shut up now!
+

@@ -1,0 +1,18 @@
+CAVEB.ZIP:  New walls for use with UAShell and the wall editor.  These
+replace the "Coral B" set -- I call them "Cave B" because they augment
+the Cave set.  I didn't really draw any of the pieces that make up the
+set, I just put them together so they look nice.  The cave walls are
+from the original FRUA cave wall set, shrunk slightly to fit in the
+Coral B slot.  The chest I took from a pic of a chest done as part of
+a "traps" set.  The niche is from SSI's Dungeon Hack.  The fungus is
+what's left of the Coral set after recoloring it.
+
+        W_CCAVE0.PCX:         Cave wall [from old cave set]
+        W_CCAVE1.PCX:         Cave archway [from old cave set]
+        W_CCAVE2.PCX:         Chest against cave wall
+        W_CCAVE3.PCX:         Shelf or niche in cave wall
+        W_CCAVE4.PCX:         Fungus on cave wall
+
+-- delaney@psy.fsu.edu
+
+

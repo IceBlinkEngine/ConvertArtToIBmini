@@ -1,0 +1,61 @@
+                     ASIAPCS2.ZIP
+                       By hans
+
+I'm finally getting around to uploading the individual icons 
+which I used to create my 'Asianpcs' Cbody.tlb!  However, that 
+was my first upload, and I no longer feel it's up to my current 
+artistic standards.  So, I revamped the old Cbody, and I'm 
+including the new version here, along with all of the improved 
+or replacement icons.  I'm also including 2 'icon maps' to aid 
+in locating a particular favorite:  one map shows the 49 icons 
+from my 'Asianpcs.zip' Cbody, and the second showing the icons 
+from the enclosed, revamped Cbody.  
+
+Since I've replaced some icons (and those might have been some 
+folks' favorites), I'm including this new Cbody as an alternate 
+rather than simply overwriting the original.  I've paid closer 
+attention to the 2-step animation effects on this one.  Some 
+changes were to eliminate such things as 'swingy-arm syndrome'; 
+that is, when an icon moves nothing but his sword-arm in combat.  
+So, the actions in this Cbody will appear much more natural, 
+I believe, during battle. 
+
+To use the enclosed Cbody:  Make a back-up copy of the Cbody.tlb
+file located in Disk 3 of UA.  Then you can replace the one in 
+your Disk 3 file with the enclosed Cbody.tlb --now when you play 
+the game, and are selecting an icon for a player character, you 
+will have my new set of 49 icons to choose from.  
+
+(For instructions on how to use the enclosed Cbody with UAShell, 
+you'll have to look elsewhere. --I'm no expert on that program, 
+I'm afraid...)  
+
+Specifically, 'Asiapcs2' includes (aside from this .txt file):  
+
+c_asia1.pcx - c_asia49.pcx  These are the original icons used in 
+                            my 'Asianpcs.zip' Cbody.  
+
+x_asia1.pcx - x_(etc.)      These are either modified original 
+                            icons or complete replacements; note 
+                            that the majority of the original 
+                            icons graduated to the new Cbody 
+                            untouched, so there are only 21 'x' 
+                            icons.  
+
+iconmap1.pcx                This is a screen-cap of the original 
+                            'Asianpcs' Cbody icons as they appear 
+                            during UA's selection process.  
+
+iconmap2.pcx                This is a screen-cap of the enclosed 
+                            Cbody's icons.  
+
+Cbody.tlb                   This is the alternate Cbody of Asian 
+                            characters ready for an Oriental 
+                            Adventure!
+
+         
+                     ***********
+
+     hans
+     DHanson111@aol.com.
+

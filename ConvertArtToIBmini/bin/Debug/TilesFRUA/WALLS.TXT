@@ -1,0 +1,11 @@
+New Wall Set
+Autumn Leaves -- originally intended to be a burning forest, but I couldn't
+                 make it cycle correctly. Intented to replace Trees A (11).
+Red Marble --    A companion to PCCJohnR's Red Marble backdrop on AOL.
+                 Replaces Marble (10).
+
+To use, consult the documentation that came with the WallEdit package.
+If you don't have WallEdit, GET IT!!! You need it to use these wall sets!
+Happy FRUAing!
+
+-Jules

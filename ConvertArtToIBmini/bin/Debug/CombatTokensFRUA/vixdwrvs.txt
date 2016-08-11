@@ -1,0 +1,55 @@
+Vix's Dwarves (Combat Icons)
+
+All of these icons are based off Dan Autery's wonderful dwarven and duergar icons.
+Most are recolors, but a good portion have major differences from the originals.
+
+If you are curious as to how these dwarves came about, feel free to read the short,
+short story included with this zipfile... vixstory.txt! ;>
+
+Now for the file list:
+
+c_dwf001.pcx:	Male fighter with axe and shield; horned helm; brown beard
+c_dwf002.pcx:	Male fighter with axe and shield; horned helm; blond beard
+c_dwf003.pcx:	Male fighter with axe and shield; horned helm; red beard
+		(Darow Blackaxe, a pre-gen fighter in Thunderdelve)
+c_dwf004.pcx:	Male fighter with axe and shield; horned helm; red beard
+		(Drandar Hammerstone, a cleric/fighter P&P character of mine)
+c_dwf005.pcx:	Male fighter with axe and shield; leather armor; red beard
+c_dwf006.pcx:	Male thief with short sword and dagger; leather armor; blond beard
+		(Delfi Ironboot, a pre-gen fighter/thief in Thunderdelve)
+c_dwf007.pcx:	Male fighter with hammer and shield; red beard 
+c_dwf008.pcx:	Male fighetr with packaxe; leather armor; bald w/ graying beard
+c_dwf009.pcx:	Male fighter with pickaxe; brown beard
+c_dwf010.pcx:	Male thief with dagger; leather armor; blond beard
+c_dwf011.pcx:	Male fighter with sword and shield; horned helm; brown beard
+c_dwf012.pcx:	Male thief with long dagger; caped; bald and blond beard
+		(Goin Cleftfist, a pre-gen thief from Thunderdelve)
+
+femdwf01.pcx:	Female fighter with sword and shield; brown hair
+femdwf02.pcx:	Female fighter with sword and shield; plumed helm; brown hair
+femdwf03.pcx:	Female fighter with sword and shield; plumed helm; blond braids.
+femdwf04.pcx:	Female fighter with sword and shield; plate mail; blond topknot
+		(Taurus Steelsinger, P&P PC of my daughter)
+femdwf05.pcx:	Female Cleric with flail and shield; blond hair
+		(Nanli Fullbrow, a pre-gen cleric in Thunderdelve)
+femdwf06.pcx:	Female fighetr with crossbow; blond hair
+femdwf07.pcx:	Female cleric with mace and shield; red hair
+		(Nara Crystalmace, a pre-gen cleric/fighter in Thunderdelve)
+femdwf08.pcx:	Female cleric with mace and shield; blond hair
+femdwf09.pcx:	Female fighter with axe and shield; leather armor; red hair
+femdwf10.pcx:	Female thief with long dagger; caped; blond hair
+		(Silicia Shadowstone, a P&P PC of a friend)
+
+My thanks to:
+
+Dan Autery, for the wonderful and awesome original dwarves and duergar
+hans      , for general support and encouragement (and putting up with my e-mails)
+Feleyra   , for putting up with me at home while doing these suckers...  
+
+aaaaaannnnndddddd to the wizard who reminded me about how I could easily make male 
+dwarves into female ones! ;> (see story for details)
+
+
+As Always... Enjoy!! :D
+
+Questions, Comments, Complaints?  e-mail vixenkitty@aol.com

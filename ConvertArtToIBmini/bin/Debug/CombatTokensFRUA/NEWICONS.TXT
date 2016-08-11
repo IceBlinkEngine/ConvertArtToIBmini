@@ -1,0 +1,18 @@
+Here are 8 new icons that I either captured from other SSI games, modified
+from existing icons, or created myself. Included are:
+
+stingray         c_stngry.pcx
+huge toad        c_htoad.pcx
+giant ram        c_ram.pcx
+giant crab       c_gcrab.pcx
+animated fungus  c_fungus.pcx
+strine           c_strine.pcx
+rampager         c_rmpgr.pcx
+andropshinx      c_asphin.pcx
+
+I hope you enjoy using this set as much as I enjoyed putting it together.
+
+-XT32
+
+
+

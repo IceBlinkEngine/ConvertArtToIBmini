@@ -1,0 +1,31 @@
+Wellmet, seeker of New Art!
+
+Herein, you will find enclosed the following wallset:
+
+w_stone0-4.pcx -- New fitted-stone walls (with open entry, door, writing)
+
+* (w_mount0.pcx -- a test subject for... mountains?  I need feedback on this
+                one so I can complete the wall -- thanks!)
+
+* (b_mountd.lbm
+* (b_mountn.lbm -- day and night backdrops with mountains that are set to
+                match the test wall for w_mount0.pcx)
+
+  Some of you may recognize the fitted-stone wall... taken from the Eye
+of the Beholder series and recolored, fitted, and retouched!  Behold, the
+power of Screenthief, Dpaint, and objectivity!  If it so pleases, I have
+more pieces based on this set, including: unfitted peasant stone wall,
+stone wall with wooden roof, mossy stone wall, climbing ivy stone wall,
+and spell-shattered stone wall.
+  As always, I welcome all feedback/comments -- 'tis the only way I can
+help you get that special or specific art piece that you just cannot find...
+
+  Look forward to the new wilderness set 2, including water-based walls (and
+a bridge!) and the new ship set, which is a vertical wooden plank set that
+includes a single post usable as ship mast or bridge support and, of course,
+any applicable backgrounds.
+
+  Until we meet again, enjoy!
+
+Kaz-Keith
+(warehouse6@AOL.com)

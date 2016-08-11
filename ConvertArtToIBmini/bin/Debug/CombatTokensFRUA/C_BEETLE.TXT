@@ -1,0 +1,27 @@
+This file contains these pieces of artwork intended for use with Unlimited Adventures as Combat
+Icons. To my knowledge all original artwork is free of any charges as all were either downloaded
+from AOL (AmericaOnline) or the Internet.
+Combat Icons: Beetles
+
+I give no credit to any artists, retouchers, recolorists or anyone who in some way, shape or
+form had anything to do with this artwork. This is not to demean anyone or to claim credit myself,
+but to avoid a lot more research and paperwork on my part. Unless otherwise noted, none of the
+artwork is my doing.
+
+For those who may be intersted: I used PaintShop Pro 3.0 <shareware> and UA256 to work on
+these pictures and then convert them. All artwork has been tested to look as intended from within
+UA itself. If it does not, don't blame me. They looked fine in my copy!  :)
+
+What follows is a listing of the files contained in this archive and thier descriptions <as best as I
+could describe them in so many words):
+
+NOTE:  All of these icons have been recolored or modified in some way by myself. I was flipping through my Monster Manual and noticed all the beetles that were offered to gamers. We UA users have only the one, lonely Boring Beetle. And I have not run across him in any mods that I know of. So I decided to make the rest of them, using the Boring Beetle as a template. The descriptions for them were lacking except combat and ecology, so you'll excuse my artistic license, please...  As always... Enjoy! :)
+
+C_BEETLE.PCX :	The template I used. Basically, the Boring Beetle w/out the coloring
+C_BOMBTL.PCX :  Bombardier Beetle
+C_FIRBTL.PCX :	Fire Beetle
+C_RNOBTL.PCX :	Rhinoceros Beetle
+C_STGBTL.PCX : 	Stag Beetle
+C_WTRBTL.PCX :	Water Beetle
+
+Questions, Comments, Complaints?  e-mail VIXENKITTY@aol.com

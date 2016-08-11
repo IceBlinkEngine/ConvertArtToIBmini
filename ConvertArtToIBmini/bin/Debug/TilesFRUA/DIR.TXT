@@ -1,0 +1,22 @@
+UANL16--Let's celebrate! Here's what you should have found in your
+ZIPfile:
+
+instr    ad          4,662  For Kaviyd's hacks
+uanl16   com         1,277  Starter for UANL
+items    dat         2,048  For Kaviyd's hacks
+musplay  dat        22,580  Music driver
+show     dat        28,612  Graphic viewer for UANL
+uanl16a  dat       281,798  UANL 16 information and data
+uanlrun  dat            27  UANL running data
+item     dif           724  For Kaviyd's hacks
+title    gph        50,915  Title screen
+uanl16   mus         5,852  Music for title
+genmidi  op2        11,908  Music driver
+bk_dsrtd pcx        10,994  UAGansta's backdrop
+bk_dsrtn pcx        10,404  UAGansta's backdrop
+figure1  pcx        16,139  Dika Wolf's sample
+p_realbd pcx        12,461  JohnR's "bad" sample image
+p_usgst1 pcx        10,281  JohnR's redone "good" sample image
+wd_desrt pcx        32,194  UAGansta's wilderness art
+w_fence1 pcx         9,151  UAGansta's wall art
+diff     tbl        19,966  For Kaviyd's hacks

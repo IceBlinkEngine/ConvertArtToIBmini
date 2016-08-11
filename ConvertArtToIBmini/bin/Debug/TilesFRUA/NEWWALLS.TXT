@@ -1,0 +1,40 @@
+<HTML>Here are two new wallsets, both intended to go in the "Bricks" slot (#5). The<BR>
+first is a red brick set (modified from PCCJohnR's recolored bricks set) and<BR>
+the second is a set for an iron fence (modified and expanded from Ghaaroth's<BR>
+grate set, originally captured from SSI's Secret of the Silver Blades).<BR>
+<BR>
+You'll need WALLEDIT to use these files.  WALLEDIT is a freeware utility that<BR>
+allows the importation of wall art for use with FRUA.<BR>
+<BR>
+Instructions for importation:<BR>
+<BR>
+1)To make things as easy as possible, place the contents of this file in the<BR>
+FRUA main directory.<BR>
+2)type walledit at the dos prompt.  When the program asks you for the name of<BR>
+the pcx file you want to import, enter the name of one of the files below, WITH<BR>
+EXTENSION.<BR>
+3)the program will ask you which wall set you wish to import the file into.  Both<BR>
+of these pieces go in the #5 set (bricks).<BR>
+4)the program will now ask you in which of the five slots you wish to place the file.  w_rdbrk0.pcx and w_fence0.pcx go in slot 0, w_rdbrk1.pcx and w_fence1.pcx in slot 1, and so on.<BR>
+5)the programs should now exit and the wall art should be installed the next time you run FRUA. <BR>
+<BR>
+The files are:<BR>
+<BR>
+w_rdbrk0.pcx            basic red brick wall with dark gray mortar<BR>
+w_rdbrk1.pcx            stone archway set in red brick wall<BR>
+w_rdbrk2.pcx            stairway in red brick wall<BR>
+w_rdbrk3.pcx            weathered wooden door in red brick wall<BR>
+w_rdbrk4.pcx            wooden door in red brick wall<BR>
+<BR>
+w_fence0.pcx            a wrought-iron fence<BR>
+w_fence1.pcx            an archway through a wrought-iron fence<BR>
+w_fence2.pcx            a gate with a lock, set in a wrought-iron fence<BR>
+w_fence3.pcx            dead vines growing on a wrought-iron fence<BR>
+w_fence4.pcx            wrought-iron fence with weeds growing at the base of it.<BR>
+<BR>
+The first wallset should be good for a town or city, the second for a park,<BR>
+graveyard, etc.  Enjoy!<BR>
+<BR>
+~<BR>
+<BR>
+</HTML>

@@ -1,0 +1,130 @@
+ABOUT 'UNLIMITED ADVENTURES':
+You need to purchase SSI's 'Unlimited Adventures' to play the modules on 
+AOL. This program uses an engine similar to AOL's "Never Winter Nights" 
+but the files are NOT interchangeable.
+   Here's some ordering info and a program description from the UANL:
+
+>    UA is, without a doubt, THE best game-design program on the 
+commercial market.  It creates high-quality VGA role-playing games using 
+classic AD&D rules.  Designers are able to create their own art, maps, 
+text, and combat sequences in a complex and dynamic universe.  The only 
+limitation is your imagination and the size of your hard drive...
+    UA was used to create the commercial 'Gold Box' games by SSI.  These
+include such classics as 'Dark Queen of Krynn' and 'Pools of Darkness'.
+However, this version of the Gold Box engine requires no programming 
+skill or technical ability.  With it, many would-be game designers, 
+artists, and budding writers have been able to produce the games of their 
+dreams that would not have been possible otherwise. 
+    Even if you are not a designer, I would recommend getting UA.  It is 
+one of the most versatile RPG systems on the market: there are hundreds 
+of games to play -- games that cost nothing!  If you tire of one module 
+or finish it, just download one of the many others available.  There are 
+modules of all sorts on AOL: traditional dungeon-crawls, epics, 
+hack-and-slashes, and interactive novels.  Like the pen and paper AD&D, 
+this system can be enjoyed over and over again.  And lately, many UA'ers 
+have been adding to the original code (with SSI's permission, of course).
+We now have Sci-fi, Oriental, and gothic horror add-ons!  
+    There is never an end to the fun with UA; the options truly are 
+Unlimited.   
+
+TO ORDER:
+    **UA is now available on a special CD-ROM bundle!  For a low price, 
+you get UA, D&D Stronghold, Fantasy Empires, and Dungeon Hack!  Other 
+users have reported that the disk-based UA is still available in most 
+computer stores at a ROCK-BOTTOM price.** 
+                        
+UA is now being sold and supported by Slash Inc. You can reach them at 
+(612) 941-4497. You can also pick up UA at your local software retailer.  
+The number of copies of UA are limited; you may have to hunt to find one.  
+You may also check with the mail-order software companies (who usually 
+have a large number of any title and can get you the most obscure of 
+disks with relative ease).  Try Chips & Bits, one of the largest of the
+gaming mail-order companies, at 1-800-753-4263. 
+
+                                **
+A BRIEF EXPLANATION OF UA COSTS:
+   All of the files uploaded to AOL are downloadable free of charge (that 
+is, they don't cost anything more than your normal access fee).  Some 
+files are 'Shareware' and others are 'Freeware'.  Shareware files 
+(DOOM, PKZIP, etc.) require users to register their free copies for a fee 
+that varies from program to program.  If you are satisfied with a 
+shareware program and wish to keep it, you are required (in most cases) 
+to register for a slight fee.  If you don't like it, you can delete the 
+file and are under no further obligation.
+   UA files are 'Freeware' -- you can d/l them and play them free of 
+charge, forever.  However, the original UA program is 'Commercial', and 
+you need to purchase it before *any* of the UA mods. can be played (see
+above).  
+                                 **
+LOADING UA MODULES:
+    The files in the UA libraries are downloadable free of charge.  
+    After the file has downloaded, sign off and unzip the files. 
+Following is the step-by-step procedure necessary to load in a module:
+
+1) make an appropriate subdirectory with a .DSN extension.  e.g. 
+"MD \FRUA\EXAMPLE.DSN", where EXAMPLE is the name of the mod.  This 
+subdirectory *must* be contained in your original UA directory.  
+
+2) make a save game directory: "MD \FRUA\EXAMPLE.DSN\SAVE".  It must be 
+entitled 'SAVE' to work properly.  This is where all of your characters
+and save data will be held.
+
+3) Unzip your file with PkunZip or QExtract and into the .DSN 
+subdirectory.  
+
+4) Load FRUA
+
+5) At the main menu, click on 'Select Design.'  Then pick the 
+title that you just loaded in and away you go!
+
+                                **
+LOADING UA ART:
+    There is a wide variety of artwork available for UA, ranging from
+big-pics of heroic battles to combat icons of vile monsters.  All of these
+files can be copied into your own UA modules with a few clicks of your
+mouse:
+
+1) You need to download the appropriate art files from AOL (naturally).
+All UA pics are in the .PCX or .LBM format; UA cannot handle .GIF's, 
+.BMP's, etc.  
+
+2) Unzip the art package, if necessary.
+
+3) Copy the files to your UA art directory.  e.g. 
+"COPY UAPIC.PCX C:\FRUA\ART" or "COPY *.LBM C:\FRUA\ART", where UAPIC.PCX
+is the file you want to import.
+
+4) Load UA.
+
+5) Choose the module that you want to add art to.
+
+6) Click on 'Art Gallery'.
+
+7) Choose the appropriate type of pic from the menu (the download
+description should tell you what type of art you downloaded -- combat 
+icon, pic, bigpic, sprite, or backdrop).
+
+8) Find a picture/icon that you don't think you'll need in your design
+(say you're doing an undead module.  You probably won't need pics of 
+dragons or kobolds).  Your new art *will copy over the default only in
+your module*.
+
+9) After choosing a slot, click on 'import'.  A list of pics will come
+up.  Again, click on the pic that you want to import.  
+
+10) If all went well, your new picture will now be in the default slot!
+For your sanity's sake, 'rename' the slot (using the old example, erase
+'Blue Dragon' and type in 'Giant Skeleton').
+
+11) Repeat the process as necessary.  NOTE: art files in UA are stored as
+.TLB's, not .PCX or .LBM.
+
+12) If you *don't* like the added art, you can remove it easily.  Click
+on 'Unimport'; the faulty art will be deleted and the system will revert
+to the default pic (that is, your giant skeleton will be removed and
+the blue dragon will take its place).
+
+                                  
+     
+
+    

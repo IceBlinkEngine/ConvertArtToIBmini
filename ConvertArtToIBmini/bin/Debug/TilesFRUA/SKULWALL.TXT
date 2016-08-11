@@ -1,0 +1,10 @@
+WALL OF SKULLS Wallset
+
+by Ghaaroth
+
+Wallset is made for Adobe slot. W_skull0.pcx is original work, made from
+background of Lords of Empyria website of U.D.L. guild. Other 4 files are
+default elements of Adobe wallset, with palette changed to shades of grey to
+fit the wallset.
+
+Made using Wallsee and Paint shop pro 32bit shareware.

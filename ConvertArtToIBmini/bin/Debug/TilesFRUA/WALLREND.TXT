@@ -1,0 +1,47 @@
+WALLREND - v2.0 Wall Rendering Utility
+
+OVERVIEW
+
+This utility takes a 56x56 PCX of a "flat" wall, and tries to render it into
+a WALLEDIT-compatible PCX file.
+
+INSTRUCTIONS FOR USE
+
+This program must be placed in the main UA directory for it to work.  Once
+Kaviyd integrates it into UASHELL, it may also reside in the PROGRAMS
+subdirectory.
+
+The program uses 4 command line arguments: any missing values will be
+prompted for when the program is run, but be aware that it will expect the
+arguments to be in order (ie: if you leave some off, leave the LAST ones off).
+
+WALLREND <input PCX> <wallset num> <group num> <output PCX>
+
+The <input PCX> must be a 56x56 frontal wall graphic.  No other size will
+work (ie: don't try to process a full 320x200), and it doesn't care what
+its palette is (WALLEDIT will care, though!).  Color 255 (transparent) is
+a perfectly valid color.
+
+The wallset and group num are the same values that you will plan to use when
+you run WALLEDIT.  These values determine how big the walls are (the size
+values are pulled straight out of the wall files).
+
+The <output PCX> will be created when you run the program.  It will look
+like a WALLEDIT template, hopefully because it IS a WALLEDIT template.
+
+A couple of sample wall tempates are included for you to test.  Both appear
+to work very well, especially with the larger wall groups.
+
+LIMITATIONS/CAVEATS
+
+On ten-wall groups, the first map is placed on both sides of the second map.
+Because of this, there is no sensible way to render the first map.  So I
+put a "fudge factor" in there that may make the first map look inapproprate.
+It is strongly advised that you touch-up this first map to make it look
+better (there is really nothing I can do about this...).
+
+Just about all of the limitations of the first version have been addressed.
+You may want to touch-up the walls after they have been rendered, especially
+if your walls are not intended to be flat.
+
+Enjoy!

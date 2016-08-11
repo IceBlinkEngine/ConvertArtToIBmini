@@ -1,0 +1,40 @@
+IT_BATCH : V1.1 Item String Batch Inserter
+
+Changes Since v1.0:  Strings are packed a bit better in this version, in
+particular how it handles a string made up of a piece of another string.
+Basically, this means the file can be a little bigger, and the default
+doesn't have to be changed as much to get a legal group.  For example, the
+sample strings vary from the defaults in only one string:  "Cute Yellow
+Canary" got replaced with "Fob" (which IMHO is slightly more useful).
+
+OK, OK, a fob is a watch chain, way back when watches were worn in shirt
+pockets rather than wrists.  Look it up; it really IS a word!
+
+
+OVERVIEW
+
+This little utility takes a list from a text file called STRINGS.TXT and
+inserts them as a set of item strings in the current CKIT.EXE file.  The
+main advantage of doing this is that you now have a list of item strings
+that you can print out and refer back to as you are editing items.  If
+you number the items on your printout, you can assign names in the current
+item editor a lot faster.
+
+You edit STRINGS.TXT, replace the current data with new item strings of your
+choice, and run IT_BATCH to store them in CKIT.EXE.  It's that simple.  Well,
+not QUITE that simple... STRINGS.TXT must be 1158 bytes (ie: 16 less than
+default amount) or smaller, and it must contain at least 125 lines (blank
+lines are acceptable).  Given these conditions, the program should work fine.
+
+
+FUTURE PROJECTS
+
+I am working on a sort of compiler for item records.  Like this program, it
+will take a file with words in it and use those words to specify various
+things about each object.  For instance, if a line in the text file has
+"PLUS 1" in it, the current item will have its magic bonus adjusted to 1.
+Also like this one, the text file serves as a record for what you did.
+
+This might require a bit of a learning curve, a lot more than my other
+utilities.  However, I think it is a more robust system that will benefit
+people who know what they're doing very much.

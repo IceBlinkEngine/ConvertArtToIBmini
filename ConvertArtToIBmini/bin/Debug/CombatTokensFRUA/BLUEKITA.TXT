@@ -1,0 +1,58 @@
+
+BLUKITA.TXT
+
+Artwork from the D&D Forgotten Realms Unlimited Adventure module, 
+Blue Kitten by Suzanne M. Ferree 
+
+This file includes 31 smaller files art files in pcx format.
+Feel free to use this artwork in any other FRUA mod or modify
+for it as needed.  It'd be nice if you'd also mention that you got 
+the pictures from this file in your module text file (so others
+would know where to look), but not required.  Also, if you're 
+looking for something that you saw in the game but isn't in this 
+file, check my BLUEKITT.TXT file that came w/ the game--that 
+mentions everything that I had borrowed from other art files & 
+where each of *those* files came from.
+
+Also most of the small character icons came from the character
+icon maker in some of the Gold Box games (or were modifications
+of them).
+
+BG_LAVAN.PCX     Lava & Ash                     Backgrounds
+BG_MARBD.PCX     Marble (Day)                       "
+---              ---                            ---
+C_BRIER.PCX      Brier Rose (P)                 Small Combat Icons
+C_BRIERF.PCX     Brier Rose as candy apple              "                 
+C_HETHR.PCX      Heather Hawk (F/Mage/T)                "
+C_HEATHF.PCX     Heather Hawk as a radish               "
+C_KIMBR.PCX      Kimberly Cure (C)                      "
+C_KIMBRF.PCX     Kimberly Cure as toast                 "
+C_MISTY.PCX      Misty (Mage)                           "
+C_MISTYF.PCX     Misty as a blueberry                   "
+C_MORTM.PCX      Mort Mouseheart (small R)              "
+C_MORTMF.PCX     Mort Mosueheart as a banana            "
+C_RANDY.PCX      Randy (ranger)                         "
+C_RANDYF.PCX     Randy as a lime                        "
+C_WMELN.PCX      Watermelon                             "
+---              ---                            ---
+C_BKITY.PCX      Blue Kitten                    Big Combat Icon
+---              ---                            ---
+CI_SPKY1.PCX     Brooms, Pumpkins, Anvils       Combat Sprites
+---              ---                            ---
+P_BKITN.PCX      Blue Kitten (incomplete)       Pics
+P_GRGEM.PCX      Green Gem [not in game]         "
+P_PGEM.PCX       Purple Gem                      "
+P_RATS.PCX       Rats w/ bone                    "
+P_SALDT.PCX      Salad Tipping                   "
+P_SORDN.PCX      Baby Amethyst Dragon            "
+P_SORDN2.PCX    Baby A. Dragon 2 [not in game,   "
+                 a little more detail] 
+P_YOYO.PCX       Yo-Yo                           "
+---              ---                            ---
+S_BARIER.PCX     Construction Barrier           Sprites
+S_BKITY.PCX      Blue Kitten                      " 
+---              ---                            ---
+WD_CHESS.PCX     Chess                          Wildernesses
+WD_LAVA.PCX      Lava                                "
+WD_VULT2.PCX     Vulture World 2 [lighter blue]      "
+WD_VULTR.PCX     Vulture World 1 [dark blue]         "

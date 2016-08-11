@@ -1,0 +1,104 @@
+DUNGEDIT :  v1.1 Combat Wall Art Import Utility
+
+Do I need to tell you to back up your DUNGCOM.TLB file within your DISK2
+subdirectory if you want some possibility of going back to the old walls?
+If not, too late!  If so, well, now you know... I sincerely do not believe
+this program will spindle, fold, and/or mutilate any part of your system,
+but I must make you aware that I am not responsible if your system does
+just that, even if my program somehow played a part in its demise.
+
+This program allows you to alter the walls that get set up in a combat
+situation.  Like Peter Kos' WILD utility, the walls are actually a series
+of tiles.  These tiles will (hopefully!) fit together into walls when
+assembled at the start of a UA combat.
+
+This utility is very simple to use if you are used to my WALLEDIT program,
+because the arguments all mean the same thing!  The only difference is that
+this program has no "groups", so it does not use that parameter.  Just in
+case you don't have (or have never used) WALLEDIT, this is the list of legal
+command line arguments:
+
+FILE= or F=     Indicates the filename of the PCX being imported.  As usual,
+please include full path name and the PCX extension.
+
+WALLSET= or W=  Indicates which combat wall set to replace.  Currently, there
+are 5 legal wall sets, numbered 1 to 5.
+
+CYCLE= or C=    Like the other walls, combat walls can also color cycle.  To
+preserve file size, I only allow cycling in the sets that allowed cycling
+before.  In this case, this means sets 3 and 5.  If your WALLSET argument is
+something else, no cycling is allowed and this arg is ignored.  Oh yes, a
+value of 1 means NO cycling, and 3 means cycling.
+
+START= or S=    The first color index of the color cycle.
+
+RUN= or R=      The number of colors in the cycle.  Generally, the more
+colors that cycle, the smoother it looks (assuming proper color arrangment).
+
+PERIOD= or P=   The speed of the cycle.  The lower the number, the faster the
+cycle.  In this case, any value below 10 is insanely fast unless there are a
+lot of colors in the cycle.  The current sets are more like 30.
+
+As with WALLEDIT, if you forget any arguments, DUNGEDIT will ask you for
+any information that it requires.
+
+PREPARING YOUR GRAPHIC
+
+To aid in your design efforts, I will describe how the color palette works in
+a combat situation.  Slots 0-31 are global color slots that are defined in
+FRAME.TLB and ALWAYS.TLB, and cannot be changed by this program.  You can
+probably get away with using them, but expect to use what UA will give you
+in this situation.
+
+Slots 32-63 are safe to change with this program.  When designing your PCX,
+try to place your entire range of wall colors in this range.
+
+Slots 64-96 are shared by Combat Icons and Combat Sprite Graphics, and CAN be
+used for wall graphics.  It is NOT a good idea to change these color slots
+unless you want to change the appearance of every combat icon and combat
+graphics in the game.  However, you CAN change these colors via DUNGEDIT.
+
+Slots 97-255 are used almost exclusively by Combat Icons.  The same rules
+apply as last paragraph, including the fact that DUNGEDIT can change these
+colors if you're sure that's what you want to do...
+
+NOTE:  There is NO transparent color in DUNGEDIT!  The walls are put up
+FIRST when UA sets up a combat screen, so in a sense they ARE the background
+for all the other effects.  This is analogous to Backdrops in 3D mode.
+
+What this all means is that it is now possible to re-define the palette for
+combat icons!  The problem is that old icons would no longer work unless
+translated to the new color scheme.  This would mean that someone (read: I)
+will have to write a program to convert existing icons to the new color
+scheme.  If there is enough demand for such a program, I will write it.
+A similar situation exists for combat sprite graphics.
+
+I have included a sample wall set for you to play with.  It's basically the
+Lava set re-colored blue for the "Mr. Freeze" effect.  It cycles.
+Use these arguments:
+
+DUNGEDIT F=DUNG.PCX W=5 C=3 S=59 R=5 P=20
+
+With some careful work, you could probably make this thing look like you're
+fighting in a blizzard (though the PC's and monsters being clearly visable
+might spoil the effect somewhat).
+
+CHANGES SINCE LAST VERSION:
+v1.0 did not allow color cycling to be turned off.  This version (v1.1) does.
+
+Some error checking was also added to hopefully keep the size of DUNGCOM.TLB
+reasonable.
+
+CREDIT WHERE IT IS DUE:
+
+Kaviyd: For stimulating my interest in hacking UA in the first place.
+Sarlegant: For working out the original wall file structure, which is the
+   basis for my knowledge of the rest of the files.
+Peter Kos: For coming out with WILD and proving to me that a graphics editor
+   was possible.
+Many Others in the AOL UA forum: For urging me to write a dungeon wall editor
+   at last.
+
+See you next editor!
+James Blair
+jgb4907@aol.com

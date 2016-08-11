@@ -1,0 +1,30 @@
+            Dungeons & Dragons: Warriors of the Eternal Sun Walls
+                     by Mike Ring (Ringo062@aol.com)
+
+On the suggestion of one of the FRUA mailing list members, I downloaded
+a Genesis emulator and Warriors of the Eternal Sun to see if I could get
+any wallsets and backdrops for use in UA. These are my first 3 sets.
+
+These walls weren't that easy to convert- the walls of Warriors of the
+Eternal Sun are something like 128x56 (UA's are 56x56). I brought the color
+up to 16 million, resampled, then reduced to the number of slots available
+for walls. This worked out well, as the resampling made the walls look even
+better than the game versions, in most cases.
+
+DD1:    These walls and backdrop are from the castle guard towers.
+        Anyone know what the thing in W_dd1-4 is? I don't.
+        The walls go in ROCK A.
+DD2:    These walls and backdrop are from a cave south of the castle.
+        I think W_dd2-4 is supposed to be a pool of water.
+        The walls go in ADOBE.
+DD3:    These walls and backdrop are from several caves.
+        The backdrop doesn't look that good... sorry.
+        The walls go in ROCK B.
+DD4:    The green caves are located deep in the Burrower's lair.
+        The walls go in ADOBE.
+
+There are 2 wall sets from Warriors of the Eternal that I have not yet
+converted, the Azcan and Drow Temples (really the same wallset, only
+recolored).
+
+Email me at Ringo062@aol.com and let me know what you think.

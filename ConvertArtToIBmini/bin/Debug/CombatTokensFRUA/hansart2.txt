@@ -1,0 +1,36 @@
+Subj:  Combat icons and 1 hacked Cbody.tlb file
+From:  hans
+
+File:      hansart2.zip
+AUTHOR:    hans (DHanson111@aol.com.)
+EQUIPMENT: IBM PC/Comp, VGA
+NEEDS:     IBM PC/Comp, VGA, UA or PCX file viewer, PKUNZIP, and, very 
+           likely, UA SHELL
+Type:      Freely distributed
+
+After creating my first "hanspcs" Cbody, with which I planned to play 
+many a mod using my own characters, --it suddenly dawned on me that I 
+had neglected to include icons for many of my favorite Paladins!  So, 
+I've taken another break from my "Asian" efforts to remedy the problem.  
+Here's my new, general-fantasy Cbody with all of the new icons that I 
+used to create it, as well as several other combat icons that had been 
+collecting on my hard drive.
+
+The zip contains:
+
+33 combat icons in .pcx format, and 1 Cboby.tlb with an Icon_map.
+
+
+WARNING:  If you decide to use the Cbody.tlb file outside of UA SHELL 
+(or in a manner other than that prescribed for UA SHELL users), PLEASE 
+make a back-up copy of your original Cbody.tlb file located in Disk 3 
+of UA.  You can then replace the one in your Disk 3 folder with my  
+enclosed Cbody.tlb (which will give you 49 new player icons to choose 
+from) --and if you don't like the new set, you'll still have your 
+original Cbody file to swap back again.  
+ 
+
+Please feel free to use any of these icons any UA way you like, and 
+make any changes you like.
+
+hans.

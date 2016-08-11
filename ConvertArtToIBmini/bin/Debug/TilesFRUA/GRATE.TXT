@@ -1,0 +1,22 @@
+GRATE from SSB
+
+by Ghaaroth
+
+This wallset brings into FRUA one of most missed things from original goldbox
+games (at least by me) - delicate iron grates. I loved them a lot in such
+games as COK or SSB, and lack of them in FRUA really bothered me (specially
+while they have *2* useless underwater wallsets). And finally, here we go...
+little "grate" wallset made from freshly grabbed screenshots of Secret of
+Silver Blades (Well of Knowledge surroundings).
+
+w_grate0.pcx - solid iron grate. Replaces solid wall from slot 0 of "bricks"
+               wallset.
+w_grate1.pcx - iron grate arch. Replaces arch from slot 1 of "bricks"
+               wallset.
+w_grate3.pcx - transparent with crawling vines, resized from last slot of
+               "adobe" wallset. Replaces grey door from slot 3 of "bricks"
+               wallset.
+
+Slots 2 (ladder) and 4 (brown wooden door in stone frame) are left intact,
+and look pretty neat in surroundings of iron bars...
+               

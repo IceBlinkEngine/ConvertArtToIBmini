@@ -1,0 +1,33 @@
+                                Cove Wallset
+
+        Introducing a new wallset for FRUA. This set is specifically 
+        designed to fit in the CoralB wallslot.  
+        This wallset does not cycle colors.
+
+        So what is this wallset. In my mind, it is a supplement to the 
+        standard Cave wallset.   
+        
+        wxcove0.pcx is the same as the standard cave main wall.
+        wxcove1.pcx is an arch type pcx. basically it is a brace and beam.
+        wxcove2.pcx adds a standard tunnel/stairs entry to cove.
+
+        coves 3 and 4 are not needs as they are only color changes...
+
+        IF you feel comfortable, you could use wxcove0.pcx over the 
+        w_cave0 spot. This will change caves pallette to match exactly. 
+        For my own uses, I've removed the purple hues from caves....
+        In my set, caves is still the exact colors I used for the 
+        Enhanced wall set, which I believe was also included in another
+        wallart upload by PCCJohn....   just remember, Caves does cycle
+        colors, info I don't have because I use a hex method myself.
+
+        wxcove1.pcx can also be used with woodb settings, as its pallette 
+        is almost the same.  A decent match.   As far the brace and beam, 
+        my thought was whats the differance between a cave and a mine.
+        Bracing.... 
+
+        To use this art, you must have Unlimited Adventures by SSI...
+        you also must have the Walledit hack found in the UA library at 
+        AOL.com written of course by a UA god JGB4907......
+
+        Sarlegant  Ranger of the Realms, Charter Member of the Hackers Guild.

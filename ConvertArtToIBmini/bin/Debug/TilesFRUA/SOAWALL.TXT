@@ -1,0 +1,29 @@
+WALLS for FRUA!
+
+by Rob Kendzie (WOLFSNAP@AOL.COM)
+
+
+Here we have a few wall sets, some of which have you may
+have seen in "Sword of Archania".  An altar, a library
+set, and a new set - a coastline!! :)
+
+First off:  W_altar3 is designed to replace the wooden
+door in the "Brick" set. (slot #3)
+
+Next: THe "library" set from "Sword of Archania".  Okay,
+It's not the greatest, and the "Table" slot isn't too
+great, but overall it gets the point across.
+
+It's designed to replace the "Coral A" slots. (0-4)
+
+Finally, a wall labelled "W_Shor0".  This wall fits into
+slot 0 of "Trees A" and when used properly will provide
+you with a coastline.  Use it with the "Outdoor Grass"
+backdrop and you have an ocean!  I'm looking for ways to
+improve this, so if anyone has any ideas, please let me
+know.
+
+Comments are always appreciated. :)
+
+Rob
+Wolfsnap@AOL

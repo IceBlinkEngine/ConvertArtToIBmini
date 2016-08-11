@@ -1,0 +1,32 @@
+icons01.zip
+
+		Combat Icons for Unlimited Adventures
+			by Julian Romane
+
+This zip file contains more of my npc and pc icons.
+
+c_estre2.pcx	Estrella of the Golden Horde in armor.
+c_f003.pcx	female in armor and red hair
+c_f004.pcx	female in armor, red cape and brown hair
+c_f005.pcx	female in armor and red hair with helm
+c_f006.pcx	female in armor and red hair w/h helm and cape
+c_f007.pcx	female in black. blond hair. casting
+c_f010.pcx	female with yellow shirt, blond with sword and shield
+c_fem01.pcx	female with dagger. purple shirt.
+c_fem02.pcx	female with dagger. purple shirt. cape.
+c_m001.pcx	male in purple and blue. casting.
+c_m002.pcx	male, bald. brown shirt.
+c_m003.pcx	male, black hair. red shirt.
+c_m004.pcx	male, bald. blue shirt.
+c_m005.pcx	male, brown hair. blue shirt, vest.
+c_m006.pcx	male, brown hair. blue shirt, vest. red pants
+c_m007.pcx	male, red shirt. long sword.
+c_m008.pcx	male, armor and helm. no weapon.
+c_m009.pcx	male, armor and helm. sword and shield.
+c_m010.pcx	male, armor,helm and cape. sword and shield.
+c_m011.pcx	male, blue shirt,red vest. pike or pole.
+c_m012.pcx	male, armor and helm. axe.
+c_m013.pcx	male, armor, no helm. round shield and sword.
+c_m014.pcx	male, armor,helm and cape. round shield and sword.
+c_m015.pcx	male, bald with black cape, hiding dagger
+c_m016.pcx	male, hooded with black cape, hiding dagger.

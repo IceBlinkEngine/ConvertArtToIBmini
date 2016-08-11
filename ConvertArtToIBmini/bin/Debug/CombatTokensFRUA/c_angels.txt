@@ -1,0 +1,16 @@
+File Name: C_Angels.zip
+Version: 1.0
+Author: Halfscan
+E-Mail: Halfscan@aol.com
+
+Description:
+  
+  4 Angelic combat icons.
+
+c_angel1.pcx   Female angel with flaming sword.
+c_angel2.pcx   Female angel, unarmed
+c_angel3.pcx   Female angel with scithe
+c_angel4.pcx   Female andel with sword
+
+  These icons all use the "wide" icon slot.
+  These icons are reworked from images by MWillett and AbbotH. Additional assists by Autery.

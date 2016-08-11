@@ -1,0 +1,16 @@
+This archive contains a new wall set-a sewer wall covered with slimy green
+plants!  It is intended to be placed over the "bricks" default set (#5).
+The basic wall and the arch were captured from SSI's Treasures of the Savage
+Frontier and the palettes were changed around a bit... The stairway and the doors
+are simply the original "brick" items overlayed onto a new master wall, with the
+palette adjusted accordingly... I hope you enjoy these!
+
+TO USE:
+
+Place the contents of the NEWWALLA.ZIP archive in your FRUA master directory...
+type WALLEDIT at the dos prompt.  The program will ask you for the name of the
+file you wish to import-enter W_Sewer0.pcx first, then repeat with W_Sewer1.pcx
+and so on.  When the program asks you which set you wish to import these to, answer
+5 (or, if you've copied the "bricks" template to another wallset, you can enter
+the number of that wallset).  W_Sewer0.pcx goes in slot 0, W_Sewer1.pcx on slot 1,
+and so on.

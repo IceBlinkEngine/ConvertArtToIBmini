@@ -1,0 +1,29 @@
+Nautical Themed Walls for FRUA!
+
+WARNING: YOU NEED TO PURCHASE SSI's Forgotten Realms
+UNILIMITED ADVENTURES to use this art.
+
+Okay, here are yet more new walls, hot off the presses
+(literally!).  I'm presently working on a nautically
+themed mod, and the included artwork is some of the
+early results.
+
+W_ADBRK0-4.PCX This wall set fits in the "Brick"
+set.  It's my attempt to reproduce the "Clay brick"
+style archetecture that you find in some parts of
+the Carribean.
+
+BG_SHIPD.PCX & BG_SHIPN.PCX - Day an night backgrounds
+for the deck of a ship at sea.  I modified these
+from the "Wooden Floor" backgrounds which you can find
+on the upload boards-- Thanks to the artists, whose
+names escapes me. :(
+
+W_SHipr1.pcx - This is the railing of a ship at sea,
+for use with the backgrouds above.  The effect is quite
+good, and it could probably also be used for a dock.
+
+Thanks and good luck!
+Comments to WOLFSNAP@AOL.COM
+
+Rob

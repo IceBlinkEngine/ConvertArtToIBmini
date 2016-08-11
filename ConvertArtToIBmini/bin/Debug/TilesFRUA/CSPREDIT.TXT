@@ -1,0 +1,25 @@
+CSPREDIT - v1.0 Combat Sprite Editor
+
+OVERVIEW
+
+This program allows the user to import combat graphics, like arrows, fire
+effects, etc.  It is easy to use.  Use your favorite paint program on
+CSPR.PCX to draw the graphics, re-name it with some other name, and import
+it by typing:  CSPREDIT <filename>, where filename is the name you gave the
+file.  The entire set of combat graphics will immediately be switched in.
+
+LIMITATIONS
+
+The biggest limitation is that YOU CANNOT CHANGE THE PALETTE when editing
+your combat sprites.  While the COMSPR.TLB file has palette info in it,
+UA apparently ignores it.  You'll have to make do with the colors that
+CSPR.PCX has in its palette.  Certain colors in the palette may change
+with differing wilderness maps and combat walls, so not all colors should
+be considered reliable.  Colors 64-95 should be safe, since these are the
+colors COMSPR.TLB should allow changes in.  I think SSI was just careless
+and did not bother to properly update their palettes for everything, or this
+thing would be a lot more versatile.  Colors that I KNOW are UNSAFE are
+colors 32-63, since the wilderness maps use these colors.
+
+I included a sample set of combat art in CSPR1.PCX, which has a re-colored
+fireball effect replacing the arrows.  Enjoy!

@@ -1,0 +1,105 @@
+
+WEIRDR.TXT
+
+Suzanne M. Ferree (suz@cyberspace.org, ev322@cleveland.freenet.edu)
+
+
+Misc. weird artwork for D&D Forgotten Realms Unlimited Adventures. 
+ 
+This file includes 60 art files in pcx or lbm format.  Feel free to 
+use this artwork in a FRUA mod or modify them as needed.  It'd be nice 
+if you'd also mention that you got the pictures from this file in your 
+module text file (so others would know where to look), but not required.  
+
+This file includes 23 dungeons, 6 sprites, 2 wallsets, 2 wilderness files,  
+9 pics, 8 backdrops, 2 cpics, and one part of a title page.  All 
+the backgrounds and walls come straight from Gateway, as does one of 
+the dungeons and one of the wilderness files.  (FYI the Gateway 
+version of the river file has slightly different tree trunks from 
+FRUA.)  (G) after the filename means it comes from Gateway w/ little 
+to no modification.
+
+Almost all of these dungeons are ones I've created from existing walls
+(either walls existing w/ in this file or from other people's walls).
+The Grate dungeon is based on walls from Secret in Ghaaroth's grate.zip.  
+The Decrepid wood ones are based on the default FRUA wallset.  Blue
+Pebble & Volcano are based on Gateway walls (which are included in
+this file).  The orange slices, apple, peacock, and pie dungeons are 
+ones I created brand-new from scratch, so they're new to everyone.
+The rest are based on various walls found in Merlin's walls-sf.zip 
+and wallssf2.zip.
+
+The lbms are color cycle pics (all ready for import) & therefore, 
+some programs might not be able to view them.  Therefore, I've also 
+included their pcx counterparts (For the pcx counterpart of s_barir2.lbm,
+see bluekita.zip).
+
+BG_CGNS1.PCX     Green Ceiling (G)                Backgrounds
+BG_CLDS1.PCX     Clouds (G)                           "
+BG_CRDS1.PCX     Red Ceiling (G)                      "
+BG_MRNS1.PCX     Morning (G)                          "
+BG_NGTS1.PCX     Night (G)                            "
+BG_SNLS1.PCX     Sunrise at left (G)                  "
+BG_SNLS2.PCX        "     "  "   2 (G)                "
+BG_SNMS1.PCX     Sun at Middle (G)                    "
+---              ---                              ---
+C_CANDS.PCX      Candle Sprite                  Big Combat Icon
+C_ELRAT.PCX      Electro-rat                   Wide Combat Icon                
+---              ---                              ---
+DN_APL1.PCX      Apple                          Dungeon
+DN_CMNT0.PCX     Cement                            "
+DN_CMNT1.PCX     Cement Stripes                    "
+DN_COMP0.PCX     Computer Panel                    "
+DN_DWOD.PCX      Decrepid Wood w/ black trim       "
+DN_DWOD2.PCX     Decrepid Wood w/ white trim       "
+DN_GATB0.PCX     Gateway Blue Pebble               "
+DN_GRAT0.PCX     Dark Blue Grate                   "
+DN_GRAT1.PCX     SoSB Grate                        "
+DN_GRAT2.PCX     Thin Grate                        "
+DN_GREY.PCX      Grey Metal                        "
+DN_GTSTN.PCX     Gateway Stone                     "
+DN_HRB0.PCX      Highrise                          "
+DN_HRB1.PCX      Pillers w/ windows                "
+DN_ICM0.PCX      Ice Mines                         "
+DN_ICM1.PCX      Blue Sheet Ice                    "
+DN_ORN1.PCX      Orange slices                     "
+DN_PECK1.PCX     Peacocks                          "
+DN_PIE1.PCX      Pie                               "
+DN_PIPE0.PCX     Pipes                             "
+DN_PIPE3.PCX     Pipes w/ control panel            "
+DN_SLM.PCX       Blue Sheet Ice w/ Slime           "
+DN_VOLC1.PCX     Gateway Volcano                   "
+---              ---                               ---
+P_ACLAW.PCX      Alien Claw                        Pics
+P_BURP.PCX       Pudding catching a man             "
+P_BURP2.PCX      Pudding (black) catching man       "
+P_CANDS.PCX      Candle Sprite                      "
+P_CAVFI.PCX      Campfire in a cave                 "
+P_CAVFI.LBM      Campfire in a cave (burning)       "
+P_DOG1.PCX       Beagle                             "
+P_DOG2.PCX       Collie                             "
+P_PORTL.PCX      Watermelon Portal                  "
+P_PORTLA.LBM     Watermelon Portal (swirling)       "
+---              ---                               ---  
+S_BARIR2.LBM     Construction Barrier (blinking) Sprites
+S_BEDCN1.PCX     Purple Canopy Bed                  "
+S_BEDPL1.PCX     Bed w/ pillow                      "
+S_CRANO.PCX      Origami Crane                      "
+S_NEST.PCX       Nest                               "
+S_PIE1.PCX       Pie w/ cherry & custard            "
+---              ---                              ---
+T_PARK5.PCX      Amusement park rides            Title (slot 5)
+---              ---                              ---
+W_GATB0.PCX      Gateway Blue Pebble (G)         Wall Set (Brick)
+W_GATB1.PCX      Warfs (G)                        "   "
+W_GATB2.PCX      Door  (G)                        "   "
+W_GATB3.PCX      Door  (G)                        "   "
+W_GATB4.PCX      Purple Door (G)                  "   "
+---              ---                            ---
+W_VOLCA0.PCX     blank (for the right colors)    Wall Set (Wasteland) 
+W_VOLCA1.PCX     Volcano (G)                      "    "
+W_VOLCA2.PCX     Volcano (G)                      "    "
+W_VOLCA3.PCX     Volcano w/ door (G)              "    "
+---              ---                            ---
+WD_GATE.PCX      River (G)                       Wildernesses
+WD_GCLD.PCX      Ghosts & Clouds                      "

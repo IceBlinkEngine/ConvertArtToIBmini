@@ -1,0 +1,129 @@
+TEXTEDIT and STR_EDIT - Two CKIT.EXE Text Editing Tools
+
+This package should contain a total of 5 files:  this text file, TEXTEDIT.EXE,
+TEXTMENU.DAT, STR_EDIT.EXE, and STR_MENU.DAT.  The TEXTEDIT utility is an
+easy way to edit entire lists of text, and STR_EDIT is for those difficult
+strings that lack pointers (or those we don't know pointer values for).
+
+WARNING/DISCLAIMER:  This is that legal thing I have to put in to cover
+myself.  I am NOT responsible for any damage these programs may do to your
+UA files, so use at your own risk.  I assume you will keep a backup copy of
+your CKIT.EXE file somewhere; it IS, after all, the main executable for
+UA, and thus is very important.  As far as I know, this program is very
+stable, and should cause no irreversible problems.  Unfortunately, contrary
+to PCC JohnR's comments about me I don't know everything...
+
+CHANGES SINCE LAST VERSION
+
+The strings are packed a bit more tightly than they were in the first version,
+so negative "bytes left" figures for default data should be a lot smaller.
+This makes small changes more feasible.
+
+CREDITS:  The program itself was written by me, but without the work of
+many people on AOL and the Internet none of this would be possible.  Without
+David Knott's (aka Kaviyd) UANL articles and other information, you would
+not be seeing this thing for another year.
+
+
+TEXTEDIT - Text List Editing
+
+The operation of this program is simple.  Use up/down arrows, page up/down,
+home, or end keys to move the cursor around.  Press Enter to select an item
+and edit it.  Press s to save, and q to quit.  If you messed up after
+changing a string, and you want the old string back, press r to revert to
+last saved set.  NOTE:  If you saved that mistake, you're out of luck.  If
+you remember the old name, you could always change it back.  If you're using
+this thing with the TEXTMENU.DAT file provided with the package, this is all
+you need to know!  Just make sure that "bytes left" area is positive before
+saving it.
+
+The real beauty of TEXTEDIT, though, lies in changing the TEXTMENU.DAT file
+As you discover more pointers (you're unlikely to find any that Kaviyd and I 
+missed, but stranger things have happened), you can add another line to the
+file (it's ASCII text) describing the new list.
+
+If you know 4 things about a block of strings buried in CKIT.EXE, you can add
+a line to the config file with any ASCII text editor, and add menu options!
+Actually, there are 5 things, but I assume you can handle the name...
+
+Here is a sample line:
+
+Spell_names 138 554132 12859 14546
+
+The first field is a name for the table.  It must be one word, but as you can
+see, underscores can be used to good effect.
+
+The second field is the number of strings in the table.  In this case, there
+are 138 spell names, so this value is 138.
+
+The third field is the hardest one to get.  It's the offset of the pointer to
+the first string.  One way to get it is to take the offset of the first letter
+of the first string, subtract 544864, and do a Numeric Search for that value
+in UGE.  Another way is to look it up in Kaviyd's UANL12 CKIT.EXE article.
+
+The fourth field is the minimum pointer value, generally the value associated
+with the first string.  You already did all the work; the value is the one
+you were searching for in the third step.
+
+The fifth field is the maximum pointer value.  Take the offset of the final
+zero after the final string, and subtract 544864.
+
+CURRENT LIMITATIONS:
+
+The program violently objects to strings of more than 71 characters in
+length.  I haven't found any yet, but they might be there.
+
+You might notice that the "Bytes Left" field when editing default UA data
+might be negative.  This is because UA is slightly more efficient in storing
+its text pointers than I am, sometimes because it decides to use a piece of
+another string or a string from another list.  This program attempts to fit
+everything into the space UA allocates for it.  Usually this means you have
+to shorten the strings a bit.  Be sure to null out strings you won't use, or
+use a duplicate name (the program recognizes that duplicate names can use
+the same pointer value).  You will not be able to save until the value is 0
+or greater.
+
+
+STR_EDIT - Editing No-Pointer Strings
+
+There is quite a number of useful strings not accessible to TEXTEDIT because
+they are not nice enough to have pointers (or SSI hid them real well, which is
+a possibility).  It functions much like a single TEXTEDIT list, except that
+the STR_MENU.DAT file has one line per string, not one line per list.  The
+interface in STR_EDIT should look familiar if you've already looked at
+TEXTEDIT, because it is exactly the same (except you don't select a list to
+edit; all STR_EDIT strings are in one big list).
+
+STR_MENU.DAT requires only 3 values:  a one-word name (underscores allowed;
+15 chars max), a file offset for the start of the string, and the length of
+the string (Note to C guys: don't add 1 for the zero at the end; I've already
+accounted for it).
+
+String editing in STR_EDIT has one major downer compared to TEXTEDIT strings:
+EACH replacement string must be equal or shorter than the original string
+(the only reason I required string length in STR_MENU.DAT is that I want the
+ORIGINAL size of the string).  This is because I can't affect the start
+location of these strings, and I must leave room for the next string to avoid
+conflicts.
+
+Those who own UGE might wonder what makes this program better than UGE, which
+at least gives you help in finding the offset values.  My best answer is: not
+much.  STR_EDIT is less of a pain with strings of >20 characters than UGE is,
+and MANY UA strings are that big.  That's about it.  Of course, if you don't
+have UGE, this thing is a LOT better than nothing.
+
+
+NOTE ON CLASS/RACE/ALIGNMENT STRINGS:
+
+Classes, races, and alignments (and possibly others) have two sets of
+strings:  one set has pointers and the other set doesn't.  The no-pointer
+ones are the parts you see when you create characters, and the ones with
+pointers are the ones you see when VIEWing a character during a game.  When
+editing these or similar strings, I suggest that:
+
+1.  You pick a set of names that are no larger than the originals, so they
+can be changed in both areas with no problem, or ...
+
+2.  Abbreviate the names in the less flexible no-pointer section, and put
+what you want in the other set.  If the abbreviations are good enough, the
+player will probably never notice (or if they do, they'll forgive you).

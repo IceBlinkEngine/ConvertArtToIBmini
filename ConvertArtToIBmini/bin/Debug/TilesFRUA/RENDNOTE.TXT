@@ -1,0 +1,59 @@
+Using WALLREND with Paint Shop Pro for Nice-looking Walls
+
+Definitions:
+  "w_ file" - Wall PCX used by WALLEDIT, usually called w_name#.pcx.
+  "wt_ file" - A standard name I've come up with to refer to the
+56x56 pcx file used by WALLREND (wt_name#.pcx).
+
+For best results, draw the pic in the front-close slot of the wall
+template (the w_ file) as if you were going to draw all the walls
+yourself, then re-size it to 56x56 and put into its own file (the
+wt_ file).  It will probably look funny, but WALLREND will then do
+things the way you intended (ie: your half-height wall won't be cut
+in half again when it tries to put it into a small slot).
+
+In Paint Shop Pro, this would be:
+
+1.  Select close-front image from w_ file (not including frame).
+2.  Ctrl-C to copy it.
+3.  Create a new 56x56 image.  Ctrl-A to select all.
+4.  "Paste into selection".
+5.  Be sure the palette of the 56x56 looks okay (save pal from old
+    and load into 56x56 if necessary).
+6.  Save the 56x56 as a 256-color PCX (give it a wt_ name).
+7.  Run WALLREND with wt_ file as first argument and w_ file as last
+    argument.
+8.  The w_ file will be over-written by the finished walls.  Touch
+    up as needed.
+
+This version of WALLREND produces much better images than the old
+version, because it uses double-precision numbers when determining
+what pixel on the 56x56 it should be using for each pixel of the
+w_file... the old version used integers (yuk!).
+
+BTW, there's nothing keeping you from doing the 56x56 in full
+256-color glory, running WALLREND, then reducing the colors in the
+w_ file.  Keep the last color transparent, though.
+
+If you cut-and-paste your 5 intended 56x56 walls to a single file,
+you can work out a palette that works with all of them ... this
+means you'd color-reduce first, then apply WALLREND (the opposite
+of the last paragraph).  Then you can split them back up and be
+assured they share the same palette.
+
+To properly reduce colors to WALLEDIT compatibility in Paint Shop Pro:
+
+1.  Load w_ or wt_ file (depending on when you decide to reduce),
+    choose Colors/Reduce Color Depth/X Colors.
+2.  Reduce to 38 colors (37 if no transparent color).
+3.  Save the palette; remember the file name you gave it.
+4.  Start up a text editor, and open the palette file.
+5.  Cut 32 rows of triple-zeroes from end of palette and paste right
+    after the line with the single 256 value.  If you used the
+    transparent color, cut the last non-zero row and paste it to
+    the end.
+6.  Go back to Paint Shop Pro, select your pic again, and Load
+    Palette.
+7.  Save your pic.  It shouldn't look any different than before you
+    loaded the palette, but now it is WALLEDIT-legal.  A bit of
+    trouble, but not as much as changing 37-38 slots by hand...

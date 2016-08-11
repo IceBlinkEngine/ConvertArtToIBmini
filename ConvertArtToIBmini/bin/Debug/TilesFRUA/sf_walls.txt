@@ -1,0 +1,38 @@
+Subj:  PCX WALLS: Science-fiction Walls
+Date:  September 7, 1997
+From:  Merlin (James Upp)
+
+File:      sf_walls.zip
+AUTHOR:    Merlin (jservey@clemson.edu)
+EQUIPMENT: IBM PC/Comp, VGA
+NEEDS:     IBM PC/Comp, VGA, UA or PCX file viewer, PKUNZIP,
+           wall and background hack.
+Type:      Freely distributed
+
+Ta-da, a set of semi-original science-fiction walls for Unlimited
+Adventures! There are four walls, and four backgrounds.
+
+The Cement series (replaces Fire brick)
+Cement walls, one with giant black and yellow caution stripes, another
+with a radiation sign, and two doors.
+bg_cemnt    The background.
+w_cemnt?    The five walls.
+
+The Computer series (replaces Lava)
+Metallic, computer walls, including a set of wires hanging from the
+ceiling. Two walls have computer panels, and another has a broken vent.
+bg_comp     The background.
+bg_comp?    The five walls.
+
+The Grey series (replaces Rock A)
+Grey metal/plastic walls. One has a window with a view of a starfield,
+another with blue electronic panelling. Also has two doors.
+bg_grey?    The five walls.
+
+The Piping series (replaces Wood B)
+Brown horizontal piping and circuitry. Includes floor pipes, one wall
+with a read-out panel or joint system, one set of pipes leaking green
+stuff, and a metal door.
+bg_pipe1    Background with normal floor.
+bg_pipe2    Background with a floor covered in green goo/liquid.
+bg_pipes?   The five walls.

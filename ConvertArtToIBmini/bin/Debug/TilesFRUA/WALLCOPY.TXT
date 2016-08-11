@@ -1,0 +1,41 @@
+WALLCOPY - v1.0 Wall Copy Utility
+
+One of the most annoying limitations of the UA wall editor is the fact that
+you cannot change the size or color cycling statistics of the various walls.
+This program partially redresses this problem by allowing you to copy entire
+wallsets from one slot to another.  The new slot ends up with the same image
+data, the same size data, and even the same color cycling data as the
+wallset you decided to copy.
+
+HOW TO USE
+
+It's very simple.  Run WALLCOPY from your main FRUA directory, and choose the
+slot numbers you want to copy to and from.  You even get to see a listing of
+the original slot names so you can keep track of what's what.  After the
+program is over, you have a wall file in your FRUA directory that matches the
+name of one of your actual wall files.  In order to copy this file over to
+where the "official" wall files are, enter the DOS command:
+
+COPY 8X8DB.TLB DISK2
+or
+COPY 8X8DC.TLB DISK2
+
+depending on which file just got created.  This is a security measure that
+I will impose until I am sure this thing works;  later versions may do the
+copy without your help.
+
+KNOWN BUGS
+
+I haven't figured out why yet, but there's 1 extra byte at the end of each
+wall file.  Since UA appears to totally ignore it, I don't consider it a
+problem.
+
+WALLEDIT aggressively forces sets that did not originally color-cycle to
+turn color cycling off.  This includes any walls that now DO color-cycle
+due to WALLCOPY's interference.  Sooo, to work around this, don't use
+WALLEDIT to edit any wall set that originally didn't color-cycle and does
+now.  If you want a lot of color-cycling sets, copy the current color-cycle
+sets to other slots, and edit the slots that ORIGINALLY color-cycled (since
+WALLEDIT allows these to be turned off and on at will).  At least until I
+get another edition of WALLEDIT done...
+

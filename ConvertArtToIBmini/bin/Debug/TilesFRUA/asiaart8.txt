@@ -1,0 +1,95 @@
+Subj:  A variety of Oriental Adventures art. 
+From:  hans
+
+File:      asiaart8.zip
+AUTHOR:    hans (DHanson111@aol.com.)
+EQUIPMENT: IBM PC/Comp, VGA
+NEEDS:     IBM PC/Comp, VGA, UA or PCX file viewer (like Dan Autery's 
+             SHOW program), PKUNZIP, Dan Autery's TOOLBOX program, and 
+             possibly WALLEDIT.
+Type:      Freely distributed
+
+
+Here's a bunch of art I did for the Oriental Adventures milieu.  Much of it was used 
+in my "Unspoken Dream" (unspoken.zip) mini-mod.   
+
+This .zip contains (aside from the document you are now reading):
+
+ALWAYS ICONS: 
+
+Japanalw.pcx:      A more Japanese version of my Asian always set.  The biggest 
+                   difference is that the sword has been changed to a samurai's 
+                   katana.
+
+
+BACKDROPS: 
+
+Bamboo.pcx:        Bamboo forest backdrop for use with my bamboo forest wallset.
+
+Cheryday.pcx:      Daytime backdrop for use with my cherry blossom forest wallset. 
+
+Cherynit.pcx:      Nighttime backdrop for use with the same cherry blossom wallset. 
+
+
+COMBAT DUNGEON: 
+
+D_ripped.pcx:      A Japanese-style, rice-paper-walled interior, which has been 
+                   torn and damaged. 
+
+
+COMBAT ICONS:  
+
+Bakemono.pcx:      A bakemono, a Japanese goblin. 
+
+Kakashi.pcx:       The hero of my "Unspoken Dream" mini-mod.  "Kakashi" is Japanese 
+                   for "scarecrow." 
+
+Kakashi2.pcx:      An alternate version of Kakashi, where he's had time to put on 
+                   some leggings.  
+
+Rokuro.pcx:        A rokuro-kubi, a very long-necked Japanese ghost/monster; the 
+                   ghastly fate of a woman who has died from hanging herself...? 
+
+Yokai.pcx:         An original monster I created for my "Unspoken Dream."  Japanese 
+                   fantasy and horror art has always been littered with strange, 
+                   conglomerate monsters--that is, bits of different creatures and/or 
+                   things pieced together in nightmarish fashion.  I created this one 
+                   along those lines, and called it a Kimyo-Yokai.  "Kimyo" means 
+                   "odd" or "bizarre" in Japanese, and "yokai" means "monster."
+
+
+COMBAT WILDERNESS: 
+
+Grnbambu.pcx:      A very green bamboo forest wild. 
+
+
+FRAMESET:  
+
+Drawfrm1-2.pcx, 
+Drawgen.pcx, 
+Drawmenu.pcx:      My "folding fans & dragon scales" frameset, originally for an 
+                   aborted sentai/kaiju/futuristic-ninja mod, but finally used in 
+                   "Unspoken Dream." 
+
+
+WALLSETS:
+
+w_bambo(0-4).pcx:  Very green bamboo forest wallset; 
+		   --Replaces "Tree B" wallset.
+
+W_ctree(0-4).pcx:  Cherry blossom forest wallset; 
+		   --Replaces "Tree B" wallset. 
+
+W_grave(0-4).pcx:  Asian gravestones wallset; 
+		   --Replaces "Marble" wallset.
+
+W_japan(0-4).pcx:  Japanese-style rice-paper wallset;  
+		   --Replaces "Firebricks" wallset.
+
+W_newj(0-4).pcx:   Asian-style wood wallset; 
+		   --Replaces "Wood A" wallset. 
+
+
+Enjoy,
+
+hans.

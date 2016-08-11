@@ -1,0 +1,57 @@
+The Icewind Dale Collection, by D. Autery (autery@aol.com).
+
+This collection is based strongly on the "Icewind Dale Trilogy," by 
+R.A. Salvatore (whose novels also include "The Dark Elf Trilogy," 
+and "The Cleric Quintet," all of which are well worth reading :). It 
+consists of the following .pcx files:
+
+c_bar1  female (wolf-clan) barbarian
+
+c_bar2  male (wolf-clan) barbarian
+
+c_catbri  Catti-Brie, adopted human daughter of the dwarf, 
+Bruenor Battlehammer.  Catti-Brie doesn't play the role of a major 
+heroic figure in the earlier stories, but proves well able to take care 
+of herself, even more so after Bruenor gives her the magical bow, 
+Talmuril, "the heart seeker." ;).
+
+c_dwaxe2  female dwarven fighter/noble (of Bruenor 
+Battlehammer's clan), armed with a battle-axe.
+
+c_dwaxe3  female dwarven axe-woman
+
+c_dwftr4  female dwarven swordsman
+
+c_panthr  black panther -- Drizz't DoUrden's magical companion, 
+Guenhwyvar.  I noticed a minor glitch in the combat graphics of 
+the previous icon I'd uploaded of Guen, so I touched it up and 
+added a claw slash. I hope you enjoy the results. ;]
+
+c_regis  Regis, a halfling (fighter?)/thief, and long time friend of 
+Drizz't Do'Urden, as well as the other major Icewind Dale heroes.  
+Trouble seems to follow Regis wherever he goes -- notably 
+(throughout most of the story), this trouble takes the form of the 
+assassin, Artemis Entreri...
+
+c_rtemis  Artemis Entreri, a cunning, evil, human fighter of 
+virtually unsurpassed skill -- Artemis makes his living as an 
+assassin... and he's quite good at his job. ;)
+
+c_rtmis2  Artemis Entreri (again;), dressed in "working" clothes.
+
+c_wulfgar  Wulfgar, initially a member of the wolf-clan, Wulfgar 
+was captured by Bruenor in the battle of ten towns.  Bruenor 
+taught the young barbarian the value of friendship before releasing 
+him, and Wulfgar proved to be a valuable friend and ally in return.
+
+Notes:  If you're looking for more icons I've done relating to 
+Icewind Dale, you can find Drizz't DoUrden in the "Exiles" set, 
+while Bruenor Battlehammer, Thibbledorf Pwent, and the dwarves 
+of Bruenor's clan are uploaded under the title "Dwarves!"...I'd be 
+more than happy to see them in your mods, whether they're based 
+on the Icewind Dale trilogy, or anything else, for that matter. :D
+
+If you liked this collection, feel free to drop me a note or post a 
+message on the boards. I'm always happy to hear what ya' think. :]
+
+Have fun, happy gaming, and enjoy! :D

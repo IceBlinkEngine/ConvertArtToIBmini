@@ -1,0 +1,108 @@
+Various unsorted combat icons
+By Ghaaroth
+
+I continue my annoying tradition of making completely random and chaotically
+assorted art collections :-) This one contains only (thank Satan) combat
+icons, but all sorts of them ;/ Oh well..
+
+In order of groups rather than alphabetic:
+
+1) Priests
+
+Normal pose is based on icon from "cast spell" button in excellent shareware
+RPG, Aethra Chronicles by Michael Lawrence. Of course, heavily retouched.
+
+c_prist1.pcx - an initiate cleric, in green, with black hair and wooden staff
+c_prist2.pcx - typical church priest or adventuring cleric, in blue, with
+               brown hair and wooden staff with silver tip
+c_prist3.pcx - a cardinal-sorta type, in red robe and cape, with long black
+               hair and wooden staff with golden tip
+c_prist4.pcx - a pope-sorta type, in white robe and cape, with short black
+               hair and completely golden staff
+c_prist5.pcx - a patriarch/hermit guy, with grey hair and beard, in yellow
+               robe with rope belt and with crooked wooden staff
+
+2) ...
+
+Perhaps I am going to get my butt kicked for that, but here are icons made
+from animated gifs of monsters from upcoming Interplay AD&D game, Baldur's
+Gate. They aren't exactly fitting for UA (rendered, first, and isometric,
+second), but I simply couldn't hold myself. All icons are large, even
+kobold
+
+c_basil.pcx  - a basilisk. It sucks.
+c_bear.pcx   - a large bear. Good one.
+c_kobold.pcx - a giant kobold. Call it gnoll..:-)
+c_ogre.pcx   - mace-wielding ogre.
+c_ogriln.pcx - an ogrillon, whatever is it.
+c_stone.pcx  - same ogrillon, but made black'n'white. Would work as stone
+               golem or giant.
+c_tasloi.pcx - spear-wielding tasloi, whatever is it.
+c_xvart.pcx  - dagger-wielding smurf, err, xvart, once again whatever is it.
+
+3) ...
+
+Once again my butt is in danger. Once I converted few combat icons from
+Warlords-3 by Broderbund. Most of them sucked so I got rid of them, but two
+are too good not to use them...
+
+c_undbs2.pcx - an undead beast. Well, it doesn't look exactly like undead,
+               but it's lovable nonetheless...
+c_worm.pcx   - a "cave wyrm".
+
+4) A tribute to Armand Mordeth
+
+These are some of the icons prepared for cbody.tlb of my design-in-work. It
+will contain a single prerolled PC, and cbody will consist of 49 icons of
+same man in same clothes but with different weapons :-) All icons are based
+on Dan Autery's elves. Why I upload them? Well, someone might find them
+useful as guardsmen, soldiers and other cases where men in same dress but
+with different weapons are common...
+
+mordet01.pcx - standart icon, with long sword
+mordet02.pcx - with short sword
+mordet03.pcx - with broad sword
+mordet04.pcx - with scimitar
+mordet05.pcx - with bastard sword
+mordet06.pcx - with hand axe
+mordet07.pcx - with wooden club
+mordet08.pcx - with dagger
+mordet09.pcx - with flail
+mordet10.pcx - with warhammer
+mordet11.pcx - with mace
+mordet12.pcx - with two-handed sword
+mordet13.pcx - with battle axe (love this one)
+mordet14.pcx - with halberd
+
+5) Inspired by TSR artwork
+
+Here are some of the icons I did after jpg's of TSR (ex)staff artists.
+Originally I had lots of plans to do many of them (enough for separate
+collection), but didn't had time now for several months, and so decided to
+upload whatever I already did. They are too good to keep in desk :-))))) j/k
+
+c_alias.pcx  - I love her. I loved the Finder's Stone novels, I loved her
+               character, I loved Caldwell's covers, I loved Harri's Jade who
+               used same picture in ASTTEOJA. The only thing I didn't loved
+               was combat icon in UA/CAB. So I did my own, dressed as per
+               Caldwell's "Azure Bonds" cover and loosely based on one of
+               Hans' cbody icons.
+c_dkcler.pcx - this is based on IIRC one of Dan Autery's fighters, as well as
+               on nasty-looking fellow from one of Caldwell's covers to D&D
+               Gazeteer series. This one is present in UA as "Dark Cleric",
+               but for cleric his weapon reminds too much of a twohanded
+               sword..:-)
+c_drizzt.pcx - yeah, I uploaded him yet again ;x I hate him, and consider
+               Salvatore's books extremely overrated, but...
+c_goatcu.pcx - a fellow in goat cape by Elmore, known as half of "Sword vs
+               Staff"
+c_liriel.pcx - a drow sorceress, based on Elmore's picture which, as I once
+               thought, portraits Liriel Baenre. I am no longer sure in it,
+               but well...at least it is obvious it's drow sorceress :-)
+c_lirold.pcx - first version of previous. She was reaaaally skinny back then,
+               and only recently gained normal weight. It's quite different
+               from previous, so someone might find it useful too..
+c_rikus.pcx  - the nasty mul barbarian with just as nasty typical Athassian
+               armor and weapons is back. Based on Brom's cover of "Crimson
+               Legion". Damn, I cannot draw the bald head..;-(
+

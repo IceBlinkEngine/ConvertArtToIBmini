@@ -1,0 +1,58 @@
+In this file, you will find the following:
+	@Abolth2		@BC-Vet2 thru BC-Vet3
+	@BletRD2 thru @BletRD7	@Captn01 thru @Captn06
+	@Firshd2 thru @Firshd3	@Genrl01 thru @Genrl15
+	@Guard16 thru @Guard28	@harpy01
+	@Jagres2		@Minion1
+	@Minion4		@Raist02
+	@Spy04 thru @Spy11	@Valgmn1 thru @Valgmn3
+	@Web01 & @Web02
+
+@Abolth2, originally by Louminator, is recolored to look
+	more 'natural', with earth tones.
+@BC-Vet2 is a wide icon of a Black Circle Vet firing a 
+	fireball.
+@BC-Vet3 is a wide icon of a Black Circle Vet firing a
+	lightning bolt.
+@BtleRD2 thru @BtleRD7 is an assortment of recolored icons
+	of a mage riding a bullete
+@Captn01 thru Captn06 is an assortment of Guard Captains.
+@Firshd2 is recolored to appear as an ice shade rather than
+	a fireshade. Also usable as a water shade.
+@Firshd3 is recolored to appear as a gas shade rather
+	than a firshade.
+@Genrl01 thru Genrl15 is an assortment of war generals.
+@Guard17 thru @Guard23 is an assortment of city guards 
+	originally done by ITB Yilbro (I really like the
+	way ITB's name looks on the icon sheet. Don't you?)
+@Guard24 thru @Guard28 is also an assortment originally 
+	by ITB Yilbro. These are another set of city guards.
+@Harpy01 is an icon of a harpy that actually flies! Ok,
+	she really just kind of jumps...
+@Jagres2. She has skin colored skin now!!! Thanks ITB Yilbro
+@Minion1 is a retouched icon of a red minion of bane.
+	I think it looks better totally red and w/o the
+	green and blue spots.
+@Minion4 is a recolored icon of an orange minion of bane.
+@Raist02 is originally by Silvermaine.  This icon was
+	fun to redo. I think the lightning looks better
+	with an art viewer than it does in the game,
+	but either way it looks pretty good.
+@Spy04 thru @Spy11 an assortment of Luskan spy icons originally
+	by ITB Yilbro.
+@Valgmn1 thru @Valgmn3 are icons of that evil baddy Valgamon.
+	I have made this icon into a large icon with
+	red armor and a blue cape.  You can choose between
+	Valgamon with a magical long sword or Valgamon
+	with a magical dagger.
+@Web01 thru @Web02: I've redone and done so many spiders,
+	I figured it was time we had some spider webs.
+	I couldn't figure out how to make them 'hang' on 
+	something, so they kind of just float in space,
+	but this is just a game, so use your imagination!
+
+I hope you like and use these redone icons in your modules.
+I have really enjoyed redoing them, and I hope the original
+artists don't mind. If any of you do, PLEASE let me know.
+Thanks for downloading,
+Gray Druid @Aol.com

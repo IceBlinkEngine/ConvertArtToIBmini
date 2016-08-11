@@ -1,0 +1,138 @@
+      The "Siege and Conquest" collection,  by Autery
+
+This directory contains combat icons for use with SSI's Advanced 
+Dungeons & Dragons' Unlimited Adventures (tm).  Some of these 
+icons will be used in Kaviyd's upcoming module, Culwych and 
+Owen. To demonstrate the uses of the siege icons and the sprite of 
+the jouster, Kaviyd has also created a demo, Jousts and Siege, which 
+is both useful... and entertaining (and will showcase in UANL11 ;).
+
+The following descriptions and suggested stats are based almost 
+entirely from the work Kaviyd has put into using these icons:
+
+  C_BATRAM;  Combat icon of a battering ram with crew.
+  Class: fighter, Lvl: ftr 4, hit points: 40, THAC0=15, Morale: 30, 
+AC: 4, Move: 6, Special: may be held/charmed, immune to 
+death/vorpal, #ATT: 4/2 for 1d2, Items: flail +5, Special #2: half 
+damage weapons.
+
+  C_BLISTA;  Icon of a manned ballista.
+  Class: mage, Lvl: ftr 4, hit points: 30, THAC0=15, Morale: 30, AC: 
+4, Move: 0, Special:  may be held/charmed, immune to death/vorpal, 
+#ATT: 2/2 for 1d2, Items: lt. crossbow +3, 20 bolts +5, longsword, 
+Special #2: half damage weapons, vulnerable to fire.
+
+  C_CATPLT;  Icon of a light catapult w/crew.
+  Class: mage, Lvl: ftr 6, hit points: 40, THAC0=14, Morale: 35, AC: 
+3, Move: 3, Special:  may be held/charmed, immune to death/vorpal, 
+#ATT: 4/2 for 1d8, Items: sling +5, longsword, Special #2: immune 
+to fear, half damage weapons, vulnerable to fire.
+
+  C_HVYCAT;  Icon of a heavy catapult w/crew.
+  Class: mage, Lvl: ftr 8, hit points: 50, THAC0=12, Morale: 40, AC: 
+2, Move: 0, Special:  immune to death/vorpal, #ATT: 6/2 for 1d8+3, 
+Items: staff-sling +5, Special #2: immune to fear, half damage 
+weapons, vulnerable to fire.
+
+  C_M60;  Icon of... yup, a machine gun -- for those really tough 
+monsters. ;)
+  Class: mage, Lvl: ftr 6, hit points: 30, THAC0=10, Morale: 30, AC: 
+3, Move: 0, Special:  may be held/charmed, immune to death/vorpal, 
+#ATT: 2/2 for 1d6+3, Items: Dart of the hornet's nest x5 (or more), 
+dart +2 (as desired), Special #2: half damage weapons, immune fear.  
+Note:  unless you have access to the item editor, the dart of the 
+hornet's nest is the only one I know of that will simulate the multiple 
+attacks of this icon.
+
+  C_SIEGE;  Icons of unmanned heavy catapult, light catapult, and 
+ballista. As animated objects, these make reasonably believable foes.
+
+  C_WALL2;  Icon of a defended wall section.  ***Note*** this 
+icon uses colors beyond the combat palette, so it's colors will mutate 
+when you import it into the game.  However, when you use it, choose 
+"rock" for indoor combat art (p2 of dungeon Global Info screen), and 
+the colors will turn out well (in the combat).
+  Class: mage, Lvl: ftr 10, hit points: 100, THAC0=10, Morale: 50, 
+AC: 2, Move: 0, Special: immune to death/vorpal, #ATT: 4/2 for 
+1d6, Items: shortbow, 100 arrows, Special #2: 1/2 damage f/cutting  
+weapons, +4 full damage, immune weapons <+3, immune to fear.
+
+  C_WALL3;  Same icon as above except that this uses the normal 
+palette. While the icon doesn't look quite as good with the rock 
+combat art as wall2, it can be used with other combat art fairly well.
+
+Notes:
+  Class: making the moster (p.1) a "mage" keeps it from moving in 
+combat. It's actual saving throws (and the weapons it is allowed to 
+use) are calculated from the class chosen on page 2.
+  Level: This could vary, depending on the crew and the saving throw 
+benefits it should receive. Since it represents one (or more) figures, 
+plus the siege machine, it should be at least 2 levels higher than the 
+actual crew.
+  Hit points:  varies, according to crew level and defenses of the siege 
+machine.  I've used the figures from Kaviyd's demo (or a best guess 
+for icons that weren't used).
+  THAC0:  varies by level of crew.
+  Morale: varies -- represents the crew's confidence in the power of 
+the weapon, but should usually be higher for larger crews.
+  AC: varies, depending on what the party is expected to destroy (the 
+siege machine or the crew...) -- your choice. ;)
+  Move:  Some machines can't be moved -- while setting their class 
+(p.1) to mage prevents them from moving forward, their movement 
+must be set to 0 to prevent them from fleeing when losing a battle or 
+affected by fear.
+  Special:  varies, for the same reason AC does.
+  #ATT:  This mainly effects melee (up close) combat. It could vary, 
+depending on the number of crew members, their level, and the 
+weapons you've decided to give them.
+  Items:  These are the special weapons required to make the icons 
+"work."  For the ballista and wall, any bow will work for the combat 
+graphics.  Catapults work well with slings or staff-slings -- the high 
+magical value is intended to represent the massive damage potential 
+of the weapons (though you could certainly be more accurate by 
+creating special weapons via the item editor).  Since the walls (in 
+this case) are meant to be invulnerable to player attacks, only siege 
+machines should have any chance to damage them.  The special 
+defenses of the walls and the high value of the weapons used by the 
+siege machines help to ensure that.  To prevent players from getting 
+the siege weapons, the combat should be set to "no treasure from 
+monsters."  Add a "combat treasure" event before the combat (with an 
+appropriate number of weapons/armor for the opponents), and you 
+can keep the player from ever knowing about this. Weapons of +3 
+(or better) value should be rare or impossible to find in a game that 
+uses the wall icons.
+
+  C_FIGHTER (1 thru 3):  Two fighters & a knight.
+  C_FIGHTER (4 thru 10):  My crusader collection, this set contains 
+6 fighters and 1 knight, all with a cross on their shields.
+  C_FIGHTER (11 thru 13):  One fighter & 2 knights with a serpent 
+on their shields.  These may be generic enough to be used as allies or 
+foes -- the shield device is the same as one used for a player icon.
+  C_FIGHTER (14 thru 16):  Three "sword" knights.  I had the 
+Dragonlance setting in mind when I made these.
+  C_FIGHTER (17 thru 19):  Three knights of the Grail -- these have 
+a golden chalice upon their shields.
+
+  The fighter icons originated in much the same way as my dwarven 
+icon collection;  a few people mentioned liking the dwarves and 
+asked for icons of fighters (funny how that works, isn't it... ;).  That 
+was just the start, though.  The majority of the icons were created for 
+(and hopefully play a key role) in Kaviyd's adventure, "Culwych and 
+Owen" -- a medieval campaign where knights, fighters, siege 
+machines, and perhaps some advice from Sir Robin (run away, run 
+away... ;), play a prominent role.  I've created a mixture of knights 
+and fighters with different shield devices, mainly to give designers 
+the ability to create their own armies (without having to rely upon 
+the dissimilar icons already in the game).  Barring that, some of them 
+might even make good NPC's. :P
+
+  S_JOUST2;  Sprite of a jouster (heavily modified from a pic in the 
+Xeen (tm) collection).  The one, and only, non-original in this 
+collection -- Among other things, I drew most of the horse's lower 
+body, though I'd like to beg forgiveness from any horse lovers out 
+there if it's (ummm...) a wee bit out of proportion... :p
+
+Have fun!  And, by all means, send me your comments, tips, 
+criticism, and/or compliments (the latter "is" preferred, of course :P).
+
+Autery

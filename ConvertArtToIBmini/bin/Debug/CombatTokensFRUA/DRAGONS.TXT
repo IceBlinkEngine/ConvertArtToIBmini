@@ -1,0 +1,564 @@
+This text file has what I recommend as the stats for the dragon combat icons in this collection.  You may adjust them as you see fit - for the most part, however, these are the "official" stats from the Monstrous Manual.  Intelligence (INT, below) includes both intelligence and wisdom - treat all other scores as 10.  PROT. FROM DRAGON BREATH is not listed in any of the monster descriptions - this is so you can have dragons face off against each other in battle - have some dragons as the enemies in an encounter, and others as allies.  It also means that the computer has to be more careful, especially when there are those nasty blue wyrms breathing lightning all over the place - it can't just have the dragons attack indiscriminately, or it will end up killing itself off.  Most of the dragons you can just add PROT. FROM DRAGON BREATH to if you want - for those with full slots you can just replace their SEE INVISIBLE ability, and give them the *detect invis.* spell.
+
+DRAGON-KIN (not true dragons)
+
+BEHIR
+NE (Neutral Evil)
+AGE 144
+HP 54
+MR (Magic Resistance) nil
+INT 7
+F12 (Fighter 12)
+ML (Morale) 38
+NA (Number of Attacks every two rounds) 2/12
+DMG 2D4/1D6
+THACO 9
+AC 4
+MV (Movement Rate) 15
+I (immunities) POISON
+EXP 7,000
+
+DRAGON LIGHTNING, IMMUNE TO ELEC, OWL BEAR HUG
+
+The behir is rare, and can live in any above-water terrain.  It is usually active during the day.  Behirs hate dragons with a passion, regardless of alignment.
+
+*
+
+FIRE LIZARD
+N
+AGE 75
+HP 45
+MR nil
+INT 3
+F10
+ML 30
+NA 4/2
+DMG 1D8/2D8
+THACO 11
+AC 3
+MV 9
+EXP 3,000
+
+IMMUNE TO FIRE, HELL HOUND BREATH
+
+Sometimes known as false dragons, these creatures are avoided by real dragons.  They can live in any warm climate (i.e. not in mountains or the arctic wastes), and tend to be active during the day.
+
+
+*
+EVIL DRAGONS
+*
+
+
+BLACK HATCHLING
+CE
+AGE 5
+HP 36
+MR nil
+INT 10
+F8
+ML 40
+NA 4/2
+DMG 1D6+1/3D6+1
+THACO 9
+AC 4
+MV 30
+EXP 4,000
+I poison
+
+DRAGON ACID, SEE INVISIBLE
+
+Black dragons usually live in swamp, jungle, underwater, or subterranean settings.  They are abusive, quick to anger, and resent any kind of intrusion.  These dragons are fond of coins, and like all "true" dragons, are active at any time of day and can eat literally anything on the face of the earth.
+
+*
+
+BLUE HATCHLING
+LE (Lawful Evil)
+AGE 5
+HP 45
+MR nil
+INT 12
+F10
+ML 40
+NA 4/2
+DMG 1D8+1/3D8+1
+THACO 8
+AC 3
+MV 30
+EXP 6,000
+
+DRAGON LIGHTNING, SEE INVISIBLE
+
+Blues prefer arid, dry climates to live in.  They are extremely territorial and voracious.  They hate brass dragons and will not stop until any brass dragons in their territories are destroyed or driven away.  They lair in vast underground caverns and their preferred foods are herd animals.
+
+*
+
+GREEN HATCHLING
+LE
+AGE 5
+HP 40
+MR nil
+INT 14
+F9
+ML 37
+NA 4/2
+DMG 1D8+1/2D10+1
+THACO 8
+AC 3
+MV 30
+EXP 5,000
+I poison
+
+DRAGON POISON, SEE INVISIBLE
+
+Greens choose sub-tropical and temperate forests and caverns as their homes. They are bad-tempered, mean, cruel, and rude.  They love intrigue and seek to enslave other creatures, destroying those who refuse to become slaves.  They hate goodness, but their main enemies are Hill Giants, who live in the same areas and consider green dragon to be a delicacy.  They prefer to eat elves.
+
+*
+
+RED HATCHLING
+CE
+AGE 5
+HP 49
+MR nil
+INT 16
+F11
+ML 45
+NA 4/2
+DMG 1D10+1/3D10+1
+THACO 7
+AC 0
+MV 30
+EXP 7,000
+
+DRAGON FIRE, IMMUNE TO FIRE, SEE INVISIBLE
+
+Reds live in tropical, sub-tropical, and temperate hills and mountains.  They are the most covetous and greedy of all dragons, and keep a mental inventory of their wealth accurate to the last copper.  They are exceptionally vain, considering themselves superior to all other forms of life.  They prefer to eat (demi) human maidens, and sometimes use 'charm' spells to get key villagers to regularly sacrafice maidens to them.
+
+*
+
+WHITE HATCHLING
+CE
+AGE 5
+HP 32
+MR nil
+INT 5
+F7
+ML 38
+NA 4/2
+DMG 1D6+1/2D8+1
+THACO 9
+AC 4
+MV 40
+EXP 3,000
+
+DRAGON COLD, IMMUNE TO COLD, SEE INVISIBLE
+
+The smallest and weakest of evil dragons, Whites are slow witted, impulsive, vicious, and animalistic, considering only the needs of the moment and having no foresight or regret.  White dragons live in arctic plains and hills; mountains; and subterranean regions.  They tend to collect gems; their most hated enemies are frost giants and fiery creatures.
+
+*
+
+YOUNG BLACK
+CE
+AGE 63
+HP 59
+MR 10%
+INT 13
+F13/W10 (F13/Wizard 10)
+ML 42
+NA 4/2
+DMG 1D6+5/3D6+5
+THACO 5
+AC 0
+MV 30
+EXP 12,000
+I poison
+
+DRAGON ACID, SEE INVISIBLE, 2 1ST LEVEL WIZARD SPELLS 
+
+*
+
+YOUNG BLUE
+LE
+AGE 59
+HP 68
+MR 20%
+INT 15
+F15/W12
+ML 43
+NA 4/2
+DMG 1D8+5/3D8+5
+THACO 4
+AC -1
+MV 30
+EXP 15,000
+
+DRAGON LIGHTNING, IMMUNE ELEC, 2 1ST LEVEL WIZARD SPELLS
+
+*
+
+YOUNG GREEN
+LE
+AGE 72
+HP 63
+MR 15%
+INT 15
+F14/W11
+ML 41
+NA 4/2
+DMG 1D8+5/2D10+5
+THACO 4
+AC -1
+MV 30
+EXP 13,000
+I poison
+
+DRAGON POISON, SEE INVISIBLE, 2 1ST LEVEL WIZARD SPELLS, *charm monster* (BONUS SPELL)
+
+At this age, green dragons gain the ability to breathe water at will, and may be encountered in an underwater setting.
+
+*
+
+YOUNG RED
+CE
+AGE 69
+HP 72
+MR 30%
+INT 17
+F16/W14
+ML 47
+NA 4/2
+DMG 1D10+5/3D10+5
+THACO 3
+AC -4
+MV 30
+EXP 14,000
+
+DRAGON FIRE, IMMUNE FIRE, SEE INVISIBLE, 2 1ST LEVEL MAGE SPELLS, *burning hands x3*
+
+*
+
+YOUNG WHITE
+CE
+AGE 51
+HP 54
+MR 5%
+INT 7
+F12
+ML 40
+NA 4/2
+DMG 1D6+5/2D8+5
+THACO 5
+AC 0
+MV 40
+EXP 10,000
+
+DRAGON COLD, IMMUNE COLD, SEE INVISIBLE
+
+*
+Adult statistics below are for the dragons included with FRUA, except the dragon riders and the deep dragon.  Dragon riders use the dragon stats. that come with FRUA, except for the yellow rider.
+*
+
+BLACK ADULT (WYRM)
+CE
+AGE 603 (1,134)
+HP 72 (90)
+MR 25% (45%)
+INT 14 (17)
+R16/W13 (R20/W17)
+ML 44 (47)
+NA 4/2
+DMG 1D6+8/3D6+8 (+12/+12)
+THACO 3 (1)
+AC -3 (-7)
+MV 30
+EXP 15,000 (20,000)
+I poison (, death, charm, vorpal)
+
+RND BONUS ATTACKS, DRAGON ACID, SEE INVISIBLE, 5 (9) 1ST LEVEL MAGE SPELLS, *entangle* (, *charm monster x3*)
+
+*
+
+BLUE ADULT (WYRM)
+LE
+AGE 625 (1,172)
+HP 81 (101)
+MR 35% (55%)
+INT 16 (18)
+F18/W15 (F22/W19/C19)
+ML 45 (48)
+NA 4/2
+DMG 1D8+8/3D8+8 (+12/+12)
+THACO 2 (0)
+AC -4 (-8)
+MV 30
+EXP 18,000 (23,000)
+(I death, charm, vorpal)
+
+RND BONUS ATTACKS, DRAGON LIGHTNING, IMMUNE ELEC, SEE INVISIBLE, 3 1ST LEVEL MAGE SPELLS, 2 (3) 2ND LEVEL MAGE SPELLS  (, 3 3RD LEVEL MAGE SPELLS, 3 1ST LEVEL CLERIC SPELLS), *silence 15' radius x3*, *cause blindness*  (, *confusion*)
+
+*
+
+GREEN ADULT (WYRM)
+LE
+AGE 597 (1,098)
+HP 77 (95)
+MR 30% (55%)
+INT 17 (19)
+R17/W14 (R21/W18)
+ML 43 (46)
+NA 4/2
+DMG 1D8+8/2D10+8 (+12/+12)
+THACO 2 (0)
+AC -4 (-8)
+MV 30
+EXP 16,000 (22,000)
+I poison (, death, charm, vorpal)
+
+RND BONUS ATTACKS, DRAGON POISON, SEE INVISIBLE, 4 (5) 1ST LEVEL MAGE SPELLS, 1 (4) 2ND LEVEL MAGE SPELLS, *charm monster*, *entangle (x2)*
+
+*
+
+RED ADULT (WYRM)
+CE
+AGE 666 (1,195)
+HP 86 (107)
+MR 45% (65%)
+INT 18 (21)
+F19/W17 (F23/W21/C21)
+ML 47 (50)
+NA 4/2
+DMG 1D10+8/3D10+8 (+12/+12)
+THACO 0 (-2)
+AC -7 (-11)
+MV 30
+EXP 19,000 (24,000)
+(I death, charm, vorpal)
+
+RND BONUS ATTACKS, DRAGON FIRE, IMMUNE FIRE, SEE INVISIBLE  (, +2D6 FIRE DMG.), 2 1ST & 2ND LEVEL MAGE SPELLS, 1 (2) 3RD LEVEL MAGE SPELL  (, 2 4TH LEVEL MAGE SPELLS, 1 5TH LEVEL MAGE SPELL, 2 1ST LEVEL CLERIC SPELLS, 1 2ND LEVEL CLERIC SPELL), *burning hands x4 (x5)*, *charm monster (x2)*
+
+*
+
+WHITE ADULT (WYRM)
+CE
+AGE 543 (1,021)
+HP 68 (91)
+MR 20% (40%)
+INT 10 (13)
+F15/W13 (F19/W17)
+ML 42 (45)
+NA 4/2
+DMG 1D6+8/2D8+8 (+12/+12)
+THACO 3 (1)
+AC -3 (-7)
+MV 40
+EXP 14,000 (19,000)
+(I death, vorpal)
+
+RND BONUS ATTACKS, DRAGON COLD, IMMUNE COLD, SEE INVISIBLE, 2 (4) 1ST LEVEL MAGE SPELLS, *slow x3*, *ice storm x2 (x4)*
+
+*
+
+DEEP DRAGON (WYRM)
+CE
+AGE 621 (1,133)
+HP 81 (102)
+MR 40% (60%)
+INT 18 (20)
+F18/W17/C17 (F22/W21/C21)
+ML 45 (48)
+NA 4/2
+DMG 3D4+8/3D8+8 (+12/+12)
+THACO 1 (-1)
+AC -4 (-8)
+MV 30
+EXP 16,000 (20,000)
+I poison, hold/charm (, death, vorpal)
+
+RND BONUS ATTACKS, DRAGON POISON, SEE INVISIBLE, TROLL REGENERATE HP, RESIST FIRE/COLD, 4 1ST LEVEL MAGE SPELLS, 2 (3) 2ND LEVEL MAGE SPELLS, 1 (3) 3RD LEVEL MAGE SPELL  (, 2 4TH LEVEL MAGE SPELLS, 1 5TH LEVEL MAGE SPELL), 1 (3) 1ST LEVEL CLERIC SPELLS  (, 3 2ND LEVEL CLERIC SPELLS, 1 3RD LEVEL CLERIC SPELL), *dispel magic x2*, *flesh to stone x2*, *stone to flesh x2*  (, *fear x3*, *disintegrate x3*)
+
+Deep dragons roam the Underdark and are great explorers.  They are usually found in well defended lairs in the Underdark.  They can assume the form of both a giant snake and a human or drow, allowing them to get places not many other creatures could reach - this also allows for elaborate deceptions.  Deep dragons avoid confrontations with other dragons and never fight or steal from others of their own kind; they prefer to eat kuo-toa and aboleth.
+
+*
+
+DRAGON ZOMBIE
+NE
+AGE 25
+HP 65
+MR 15%
+INT 10
+F13
+UNDEAD TYPE special
+ML 50
+NA 4/2
+DMG 2D4/4D6
+THACO 8
+AC 0
+MV 15
+EXP 10,000
+I poison, death, vorpal, charm/hold
+
+RND BONUS ATTACKS, MUMMY DISEASE, IMMUNE COLD, +2 WEAPON TO HIT, 1/2 DMG EDGED WEAPONS.              
+
+Dragon zombies are constructed from the remains of good dragons.  Through a dark ritual, the dragon's spirit is peverted and its mortal remains are animated.  Because of its undead condition, it hates all living beings, and will seek out and destroy any and all of its former friends and enemies.  Dragon zombies serve no purpose in any ecology save to destroy.
+
+*
+
+YELLOW RIDER
+CE
+AGE 157
+HP 68
+MR 10%
+INT 14
+F15/W13/C13
+ML 41
+NA 4/2
+DMG 1D8+6/2D8+6
+THACO 6
+AC -2
+MV 30
+EXP 11,000
+
+RND BONUS ATTACKS, DRAGON FIRE, IMMUNE TO FIRE, SEE INVISIBLE, 2 1ST LEVEL MAGE SPELLS, 1 2ND LEVEL MAGE SPELL, *silence, 15' radius x3*, *invisibility x2*, *cause blindness x3*
+
+Yellow dragons prefer to live in the desert regions.  They are quite rare, and rarer still is the one who has been tamed to be a mount.  Their main enemies are brass dragons, who actively hunt the yellow dragons.  Their prefered foods are (Demi)humans and the unhatched eggs of brass dragons (they rarely get to enjoy this latter feast).
+
+
+*
+GOOD DRAGONS
+*
+
+
+BRONZE DRAGON (WYRM)
+LG
+AGE 593 (1,134)
+HP 81 (99)
+MR 35% (55%)
+INT 17 (19)
+F18/W16/C16 (F22/W20/C20)
+ML 43 (46)
+NA 4/2
+DMG 1D8+8/4D6+8 (+12/+12)
+THACO 5 (2)
+AC -6 (-10)
+MV 30
+EXP 20,000 (25,000)
+
+RND BONUS ATTACKS, DRAGON LIGHTNING, IMMUNE ELEC, SEE INVISIBLE, 2 1ST & 2ND LEVEL MAGE SPELLS, 1 (2) 3RD LEVEL MAGE SPELL  (, 2 4TH LEVEL MAGE SPELLS, 1 5TH LEVEL MAGE SPELL), 1 (2) 1ST LEVEL CLERIC SPELLS  (, 2 2ND LEVEL CLERIC SPELLS, 1 3RD LEVEL CLERIC SPELL), *fear x3*
+
+Bronze dragons are inquisitive and fond of (demi)humans.  They often polymorph into small, friendly animals so they can unobtrusively observe adventurers.  They thrive on simple challenges such as riddles and harmless contests.  They are fascinated by warfare and will eagerly join an army if the cause is just and the pay is good.  They breathe water and prefer lairs that, though dry, are accessible only from underwater.  Sahuagin and pirates are their most hated enemies.  They prize shark meat.
+
+*
+
+COPPER DRAGON (WYRM)
+CG
+AGE 601 (1,099)
+HP 77 (96)
+MR 25% (45%)
+INT 16 (18)
+F17/W15/C15 (F21/W19/C19)
+ML 44 (47)
+NA 4/2
+DMG 1D6+8/5D4+8 (+12/+12)
+THACO 5 (3)
+AC -5 (-9)
+MV 30
+EXP 17,000 (23,000)
+I poison
+
+RND BONUS ATTACKS, DRAGON ACID, SEE INVISIBLE, 3 1ST LEVEL MAGE SPELLS, 2 (3) 2ND LEVEL MAGE SPELLS, 1 (2) 3RD LEVEL MAGE SPELL  (, 1 4TH LEVEL MAGE SPELL), 1 (3) 1ST LEVEL CLERIC SPELLS  (, 3 2ND LEVEL CLERIC SPELLS), *slow x3*, *neutralize poison x3*, *flesh to stone*, *stone to flesh*
+
+Copper dragons are incorrigible pranksters, joke tellers, and riddlers.  They are prideful and aren't good losers, though they are reasonable good winners.  They are rather selfish and greedy, and have a neutral alignment as far as wealth is concerned.  Coppers like to taunt and annoy their opponents.  Their main rivals are red dragons, because they inhabit the same areas; coppers will usually run for cover until they can equal the odds.
+
+*
+
+GOLD DRAGON (WYRM)
+LG
+AGE 555 (1,111)
+HP 90 (108)
+MR 50% (70%)
+INT 19 (21)
+F20/W19/C19 (F24/W23/C23)
+ML 47 (50)
+NA 4/2
+DMG 1D10+8/6D6+8 (+12/+12)
+THACO 1 (-1)
+AC -8 (-12)
+MV 40
+EXP 20,000 (25,000)
+I poison
+
+RND BONUS ATTACKS, DRAGON FIRE, DRAGON POISON, IMMUNE FIRE, SEE INVISIBLE, 2 1ST-4TH LEVEL MAGE SPELLS  (, 2 5TH-7TH LEVEL MAGE SPELLS, 1 8TH LEVEL MAGE SPELL), 1 (2) 1ST LEVEL CLERIC SPELL  (, 2 2ND-4TH LEVEL CLERIC SPELLS), *bless x3*, *monster summoning*, luck stone
+
+Golds are wise, judicious, and benevolent.  They often embark on quests to promote goodness, and aren't easily distracted from them.  Their lairs are secluded and always made of solid stone.  As w/ any good dragon, the experience is listed only in case of the ultra-rare evil loners - otherwise, the experience value should be 0.  Golds dine on small gems, and their main opponents are the evil red dragons.  Golds can live literally anywhere.
+
+*
+
+YOUNG SILVER (SILVER ADULT) <SILVER WYRM>
+LG
+AGE 77 (544) <1,191>
+HP 72 (86) <104>
+MR 25% (40%) <60%>
+INT 17 (18) <19>
+F16/W11 (F19/W14/C14) <F23/W18/C18>
+ML 43 (45) <47>
+NA 4/2
+DMG 1D8+5/5D6+5 (+8/+8) <+12/+12>
+THACO 5 (2) <-1>
+AC -4 (-7) <-11>
+MV 30
+EXP 14,000 (19,000) <24,000>
+
+RND BONUS ATTACKS, DRAGON COLD, IMMUNE COLD, SEE INVISIBLE, MIRROR EQUIPPED, 2 1ST & 2ND LEVEL MAGE SPELLS (, 2 3RD LEVEL MAGE SPELLS, 1 <2> 4TH LEVEL MAGE SPELL  <, 2 5TH LEVEL MAGE SPELLS, 1 6TH LEVEL MAGE SPELL>, 2 1ST LEVEL CLERIC SPELLS  <, 2 2ND & 3RD LEVEL CLERIC SPELLS, 1 4TH LEVEL CLERIC SPELL> ), *cause blindness x1*, *hold monster x2*
+
+Silver dragons are kind and helpful.  They will cheerfully assist good creatures if their need is genuine.  Silvers prefer aerial lairs on secluded mountain peaks, or amid the clouds themselves.  Silvers seem to prefer human form to their own, and often share deep friendships w/ mortals.  Inevitably, however, they reveal their true form & go off to live a dragon's life for a time.  The worst foes of silvers are the evil red dragons.
+
+
+*
+NEUTRAL DRAGONS
+*
+
+
+AMPHIBIOUS DRAGON
+N
+AGE 513
+HP 72
+MR 25%
+INT 8
+F16
+ML 39
+NA 4/2
+DMG 1D6+8/3D6+8
+THACO 5
+AC 0
+MV 30
+EXP 12,000
+I poison
+
+RND BONUS ATTACKS, DRAGON ACID, SEE INVISIBLE, DRAGON FEAR
+
+Amphibious dragons tend to live in swampy regions.  They are believed to be the result of crossbreeding between a rogue black dragon and a sea dragon.  They are relatively unintelligent and are fairly easy to defeat.
+
+
+*
+GOD LEVEL DRAGON
+*
+
+
+TIAMAT
+NE
+AGE 1,200
+HP 255
+MR nil
+F40/W40/C40
+ML 50
+NA 2
+DMG 10D10+10
+THACO -10
+AC -15
+MV 50
+EXP 65,000
+I poison, death, vorpal, hold/charm
+
+DRAGON FEAR, DRAGON FIRE, DRAGON COLD, DRAGON LIGHTNING, DRAGON ACID, DRAGON POISON, IMMUNE FIRE, IMMUNE COLD, SEE INVISIBLE, IRON GOLEM MR, 9 1ST-9TH LEVEL MAGE SPELLS, 7 1ST-7TH LEVEL CLERIC SPELLS
+
+Tiamat/Takhisis is the queen of the evil dragons.  As she is tremendously powerful, she is not recommended for use by any adventure that will end up with characters below the 40th level of experience at the end of the game.
+She is the mortal enemy of Bahamut/Paladine.

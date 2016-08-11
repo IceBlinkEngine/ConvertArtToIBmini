@@ -1,0 +1,16 @@
+Subj:  PCXART: From upcoming "Adventures in Tethyr"
+Date:  Oct 27, 1996
+From:  Debbi Rapp
+
+File:  TET_ART1.ZIP
+AUTHOR:    Debbi Rapp
+EQUIPMENT: IBM
+NEEDS:     Unlimited Adventures 
+Type:      Freely distributed
+
+
+tethyr.pcx	Map of the Tethyr region
+tethyr2.pcx	Enlarged map of Southeastern Tethyr
+zstar_c.pcx	Zaranda Star combat icon
+zstar_p.pcx	Zaranda Star picture
+

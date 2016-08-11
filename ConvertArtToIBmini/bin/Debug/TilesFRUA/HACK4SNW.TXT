@@ -1,0 +1,68 @@
+More stuff...  They go over Adobe sets...
+
+W_SNOW?.PCX    Wallsets with template info stored in them.  My original ones
+uploaded eons ago should be completely replaced by these; they are much more
+accurate.
+DUNGSNOW.PCX   Dungeon combat art.  (slot 4)
+WILDSNOW.PCX   These came with WILD (by Peter Kos).  They're his.
+D_SNWDAY.PCX   Daytime backdrop.  (slot 16)
+D_SNWNIT.PCX   Nighttime backdrop.  (slot 17)
+D_INDSNW.PCX   Indoor backdrop.  (slot 7)
+
+INSTALLATION:
+
+You must have all/some of the following:
+
+WALLEDIT  by James Blair.  Available at his site:
+ftp://users.aol.com/JCB4907/
+BACKEDIT  by James Blair.  Available at his site:
+ftp://users.aol.com/JCB4907/
+DUNGEDIT  by James Blair.  Available at his site:
+ftp://users.aol.com/JCB4907/
+WILD      by Peter Kos.  Available on AOL and at Caltech and Berkeley
+
+To install these files:
+
+From DOS (in the FRUA directory):
+
+(Make sure you make backups!)
+
+WALLS - 
+type WALLEDIT F=ART\W_SNOW?.PCX (where ART is where the walls should be and
+the ? represents each file (0-4)
+
+BACKDROPS - 
+type BACKEDIT F=ART\D_SNWDAY.PCX then answer the question provided with "16"
+type BACKEDIT F=ART\D_SNWNIT.PCX then answer the question provided with "17"
+type BACKEDIT F=ART\D_INDSNW.PCX then answer the question provided with "7"
+
+DUNGEONS-
+type DUNGEDIT F=ART\DUNGSNOW.PCX then answer the question with "4"
+
+WILDERNESS-
+this one is tricky:
+
+1. Copy WILDSNOW.PCX and WILD.EXE to the DISK2 directory.
+2. In the DISK2 directory, type WILD.
+3. Select the WILDSNOW.PCX file.
+4. Select the slot you want it in.
+5. Go for it!
+
+To make this all compatible with UATOOLS, simply copy the following files to
+your .DSN directory:
+
+DISK2\WILDCOM.TLB
+DISK2\DUNGCOM.TLB
+DISK2\BACK.TLB
+DISK2\8X8DB.TLB
+
+That's it!
+
+**** UASHELL 2.00 (in beta on Kaviyd's ftpsite:  ftp://users.aol.com/kaviyd)
+will help make the chore easier; I suggest picking up a copy. ****
+
+FYI, These hacks are made for my convenience, but I assumed that the FRUA
+public has wanted to "romp in the snow" for awhile, thus I decided to release
+this (IMHO) incredibly useful set of graphics.  Most of them are simply major
+template re-hauls of the adobe sets :).
+

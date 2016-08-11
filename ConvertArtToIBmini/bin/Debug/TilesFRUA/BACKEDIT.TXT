@@ -1,0 +1,47 @@
+BACKEDIT - v1.0 UA Backdrop Importer (PCX)
+
+OVERVIEW
+
+As many of you have noticed by now, there is already a utility out that
+allows you to edit backdrops.  Unfortunately, it only works for LBM graphics,
+and PCX is the more accessible and popular of the two styles of graphics UA
+accepts.  This utility allows you to import a PCX as a backdrop.  The
+backdrops cannot color-cycle, but you ARE allowed some palette slot changes.
+In fact, you are allowed to use the same slots the LBM version did.
+
+I have included a PCX version of the "draw background" template for your use,
+as well as three samples culled out from the many backdrops uploaded to AOL
+over the last 2 years.  It is VERY likely that PCC JohnR did all three of
+them, since he is responsible for about 90% of the 'drops currently out
+there.  They were converted from LBM by the VPIC program.
+
+INSTRUCTIONS FOR USE
+
+Make sure BACKEDIT.EXE is in your main FRUA directory, or set up to run from
+Kaviyd's UASHELL.  Otherwise, it won't work.
+
+The format for the command line is:
+
+BACKEDIT <filename> <slot#>
+
+where <filename> is the full name of the PCX file you want to import, and
+<slot#> is a value between 1 and 19.  The slot numbers correspond to the
+same slots the LBM utility used.  If you missed either argument, you will be
+prompted for the missing information.
+
+The backdrops cannot be made to color-cycle, and the palette slots reserved
+for backdrops are: 144-175.  The same ones the LBM editor allowed.
+
+FEEDBACK
+
+I don't expect much to go wrong with this program, nor is it so exciting
+that I plan future versions and autograph signings.  Nonetheless, if you
+want to comment on it, send E-mail to jgb4907@aol.com.
+
+If you haven't done so yet, please check out my Web page at
+http://users.aol.com/jgb4907/index.htm.
+
+Enjoy!
+
+
+

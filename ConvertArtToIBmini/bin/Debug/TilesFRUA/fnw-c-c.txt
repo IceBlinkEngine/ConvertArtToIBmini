@@ -1,0 +1,53 @@
+---------------------------------------------------------------------
+
+COLOR-CYCLING NOTES:  
+
+For those who may be thinking of one day using color-cycling 
+combat icons, but have no clue about how they work, I'll try to 
+answer your questions here:
+
+FYI:  To call this type of combat icon "color-cycling" is actually 
+a misnomer.  This is because the icons themselves can carry *no* 
+color-cycling information of their own into UA.  Rather, they can 
+only reflect the palette information of whatever dungeon they find 
+themselves in.  This is why these types of icons can only be used in 
+a dungeon that they have been specifically tailored for, and can only 
+be seen correctly (with colors cycling right) in that particular 
+dungeon!  I will try to explain the reason for this:  
+
+Combat icons normally use colors 64-255 in the .PCX palette, 
+at set (unchangeable) values with 255 being transparent.  
+
+Dungeons use colors 32-63 (which can be can be changed and 
+made to cycle), plus the normal Combat Icons palette, 64-255 
+(tho these cannot be changed, and must comply to the normal 
+Combat Icon palette values).  
+
+By extending a combat icon's palette range into the dungeon 
+colors 32-63, color-cycling icons can be created;  but, as 
+those colors (32-63) change from dungeon to dungeon, and any
+color-cycling settings also vary from dungeon to dungeon, 
+color-cycling combat icons must be tailored with a specific 
+dungeon in mind.  If placed in any other dungeon but the one 
+they've been tailored for, the effect is lost, and the colors 
+are all wrong.  
+
+For example, if you have a dungeon which cycles colors 33-44, 
+you could make a combat icon which also includes those colors. 
+In that particlar dungeon, that combat icon would color-cycle 
+exactly as intended, because everywhere on the screen colors 
+33-44 of the 256 color palette would all be cycling in exactly 
+the same order;  but in another dungeon, the colors would be 
+different, and any color-cycling settings bound to be set 
+differently, as well...
+
+To my knowledge, there has only been one other color-cycling 
+combat icon created, as of this writing:  JQuick000@AOL.COM's 
+Cycleman from his "dungeons.zip" --and that was quite a while 
+back.  I hope that "fnw" will serve to spark new interest and 
+activity in this vein...  
+
+hans.
+
+---------------------------------------------------------------------
+---------------------------------------------------------------------

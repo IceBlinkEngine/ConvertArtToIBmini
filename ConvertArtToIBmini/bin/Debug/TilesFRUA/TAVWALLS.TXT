@@ -1,0 +1,77 @@
+Salutations once again fellow UA'ers.
+
+It tis one of everyones favorite artist and alterers bringin' to ya yet another piece of fine
+art for ya'll! (Not to mention poor slang and missing my spell-checker, so bare with me.)
+
+In this, my second art download for UA, I have included both what I think is need in wall
+art as well as something that has yet to be made. (I think it has not been made.)
+
+In case you missed it by the way, these are tavern walls. (Best used as, that is.)
+
+In this .ZIP file you will find the following......
+
+
+Tavwalls.TXT: Maybe I'm a bit crazy, but I'll bet good money you're reading it right now.:)
+
+W_TVBRK0.pcx: This is a clear wood table. But there are two problems with this wall...
+1): There are no side views of this table, so if you turn to the side when facing it...POOF!
+its gone. My recommendation on fixing this, make an area in the wall and then place
+this in the middle of that space...like a booth.
+2): If you install this into your UA, the edges of the table will show up behind all but the
+second set of walls in the same group. Recommendation: Either use WALLCOPY to copy the wall frame to another frame after you put this wall in or just use this wall alone.
+
+W_TVBRK1.pcx: What tavern would be complete without swinging doors? This is a pair
+of swinging doors I made for those who want an inn or tavern to have a saloon like
+entrance, have a kitchen entryway, or entrance to a private room in the tavern.
+
+
+AH! Look! Found my spell-checker! I'll just leave the rest as-is and use this now.
+
+
+W_TVBRK2.pcx: This is no stairway to heaven, but it could be to an upstairs tavern or
+even go to a shop. And with a sign hanging from the top you can know where it goes.
+
+W_TVBRK3.pcx: I took that strange looking door with the ring doorknob and made it
+into either a doorway you can push open, or maybe as a cabinet for food or whatever.
+
+W_TVBRK4.pcx: Have you ever tried to find someones room and have to search around
+the house to find it? Or maybe you wanted to search everywhere BEFORE you entered
+that special room? Well, now we have that problem solved. (At least somewhat.) This
+could be used for anything really. Use it to find one "L. Croft" or "Room #13", maybe as
+the sign to a shop...whatever. If you have a reason to mark a door as something......
+
+W_BRKWN0.pcx: How many times have you entered an inn or bar or whatever and
+thought. "Where the H*** are the windows?" while looking around? Well try this for size!
+This is really just a window frame with white streaks in the glass. (Mostly to make it
+look either old and somewhat dirty or gleaming in the light...maybe both.)
+
+W_CBKWN0.pcx: Same as above (W_BRKWN0.pcx) except without the streaks in
+case you're looking for something cleaner or the streaks are just annoying to you.
+
+(Note: Both these windows suffer the same problem with showing up behind doors that
+the wooden table (W_TVBRK0.pcx) does. So you may want to follow the same advise
+about WALLCOPY from W_TVBRK0.pcx for this one too. On the bright side, you can
+turn to the side and they will still be there.)
+
+I also forgot to add these all go over the "Brick" wallset. The #'s at the end tell where.
+
+If anything, these are my first try at non-altered-non-coverted kinds of art. If they look a
+little fake to you, don't worry, I'm sure someone like Dika or someone with good skills
+will either make there own...or better mine. ( :> )
+
+If you have any Questions, Comments, Ideas or Worship (The latters nice.) send them
+to:
+
+          EMPIRE B@AOL.COM
+
+
+One final note: In case you did not know, this is best used with a hack called
+"WALL IMPORT UTILITY V.2.00" by JGB4907@aol.com or any other wall importer.
+
+           Untill next time
+
+                 Das EMP.
+
+
+OH! And also check out my other art download "FF2 Airships" and my soon-to-be
+finished first adventurer for UA "Escape from Zanzers Dungeon" coming soon. (I hope)

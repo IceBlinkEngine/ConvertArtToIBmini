@@ -1,0 +1,276 @@
+WRAITH DRAGON
+
+FRUA STATS
+NAME: Wraith Dragon (Terror dragon, Dragon of the dead)
+RACE:Monster
+GENDER:Any
+ALIGNMENT:As in life, but always Evil
+CLASS:Fighter
+HIT POINTS:varies.  Use HP on table.
+AGE:varies (start age over from time of death)
+MAGIC RESISTANCE:varies.  Same as MR on table
+
+STATS
+Use stats of base dragon, though Int. and Wiz may be higher at designer's
+discression.
+
+FIGHTER LEVEL:varies.  Same as HD on table.
+Levels in other classes vary depending on the dragon's spell use
+in life, and it's current HD.
+
+EXP: At designer's discression
+UNDEAD TYPE: 16-18 HD, lich.  19-23, special.  24+ HD, not undead (actually
+it's undead, but it can't be turned)
+
+MORALE: Wraith Dragons NEVER flee or surrender.
+
+ATTRIBUTE OPTIONS:  All four immunities are the only options selected.
+Everything else is not dotted in.
+
+ATTACKS: 2 claws and 1 bite.  In FRUA terms, use 4 in attack type 1, and
+2 in attack type 2.
+
+DAMAGE PER ATTACK: varies.  Use DMG on the table.
+
+THAC0: varies.  Use TH on table.
+
+AC: varies.  Use AC on table.
+
+BASE MOVEMENT: 8 (Wraith Dragon can float through air)
+
+MONSTER ITEMS: Wraith dragons don't usually cary anything.  Any treasure
+hoards should be set up as a COMBAT TREASUE event.
+
+SPECIALS:
+SEE INVISIBLE (it can sense life energy and it hates it)
+IMMUNE SLEEP/CHARM (It's undead)
+
+MUMMY FEAR ATTACK (This thing is a lot scarier then a reqular dragon and
+                   mummy fear works on high level attackers)
+
+IMMUNE TO FEAR (It has nothing to fear, it's already dead)
+
+IMMUNE TO DISEASE: (It's already dead, what can you expect)
+
+IMMUNE TO PSN\PARAL ('nuff said)
+
+IMMUNE TO COLD (It likes cold dead things)
+
+DRAGON COLD (It breathes the chill of death onto its victims)
+
+IMMUNE TO WEAPONS <+2 (It's a powerful beastie, not for the faint of heart)
+
+DRAIN 1 LEVEL (That is, one level every time it touches you.  With 3
+        possible attacks per round and a great THAC0, the creature can
+        turn a whole party into its servants very fast)
+
+SPELLS: varies
+
+Attribute table
+
+HD      HP*     AC      DMG             TH      MR   
+16      115     -7      1d5/2d10        3       55
+17      120     -8      1d5/2d10        2       60
+18      125     -9      1d6/3d10        1       65
+19      130     -10     1d6/3d10        0       70
+20      135     -11     1d6/3d10        -1      75
+21      140     -12     1d6/3d10        -2      80      
+22      145     -13     1d8/3d10        -3      80
+23      150     -13     1d8/4d10        -4      85
+24      155     -14     1d8/4d10        -5      85
+25      160     -14     1d8/4d10        -6      85
+26      165     -15     1d10/4d10       -7      85
+27      170     -15     1d10/4d10       -8      85
+28      175     -16     1d10/5d10       -9      90
+29      180     -16     1d10/5d10       -10     90
+30      185     -17     1d12/5d10       -11     92
+31      190     -17     1d12/5d10       -12     94
+32      200     -18     1d12/5d10       -13     96      
+33      205     -18     1d12/5d10       -14     97
+34      210     -18     1d20/6d10       -15     97
+35      215     -19     1d20/6d10       -16     97
+36      220     -19     1d20/6d10       -17     98
+37      225     -19     1d20/6d10       -18     98
+38      230     -19     1d20/7d10       -19     98
+39      235     -19     1d20/7d10       -20     99
+40      240     -20     1d20/7d10       -20     99
+
+* Exact number of hit points may vary.
+Note on above table:  All the valies are base numbers.  A higher level
+Wraith Dragon may acquire magic items or effects that might increase
+its abilities.  Such an "enchanted" Wraith Dragon may have a better
+THAC0, better AC, extra hit points, and possible spell immunities.  Also
+such magic may alter the monster's stats (STR, DEX, etc.
+
+AGE: It takes a variable length of time for a Wraith Dragon to gain hit
+dice.
+HD      Time it takes to gain new HD
+16-19   1d5 years
+20-24   2d5 years
+25-32   3d5 years
+33-38   4d5 years
+38-40   5d5 years
+
+DESCRIPTION
+        Wraith Dragons appear as dark forms that resembles what
+they looked like in life.  Their forms are vaporous and they can alter
+their size and shape to allow for easy passage frough tiny openings, grates,
+and even pourous stone.  Regardless of the type of dragon it was in life,
+Wraith Dragons are always dark and shadowy in form, with luminous red 
+eyes.  
+
+COMBAT
+        Wraith Dragons attack with the basic claw/claw/bite routine as
+regular dragons.  In addition, each hit drains one life level from its  
+victim.  A victim drain of all life energy, will become a Juju zombie  
+under the control of the Wraith Dragon (as per the magic user ENERGY
+DRAIN spell).  Its breath weapon is a freezing blast of cold that can 
+freeze an adventurer solid, leaving the body in perfect condition to raise 
+as undead.  All Wraith dragons of 18 or more hit dice gain the ability
+to use mage spells, and at 25 HD, they gain clerical spells.  If 
+a Spellcasting Dragon dies, it becomes a 16 HD Wraith Dragon with all of 
+its former magical knowlage intact.
+
+SPELL PROGRESSION
+        When a Wraith Dragon reaches 18 HD, it gains a mage level (this 
+is in addition to the spell ability the Wraith Dragon already possessed).  
+Each additional HD, the Wraith Dragon gains another mage level.  At 25 HD, 
+the Wraith Dragon gains a cleric level (in addition to any it may have had
+in life) and it gains a cleric level per HD in a way that is similar to
+mage level increases.  Spell progression is similar to that of player
+characters, except that they get no bonus cleric spells for high wisdom
+scores.
+
+BEHAVIOR AND OTHER SPECIAL ABILITIES
+        Dragon cults exist in nearly all worlds.  Often these clerics raise
+undead dragons to do their bidding.  Dracoliches, death dragons, and other
+undead horrors infect the Realms, Krynn, Oreth, and other places.  Once
+in a while, an evil individual will use a diferent ritual to bring forth
+a non-corporal dragon spirit of great evil.  A Wraith dragon will only work
+with its summener for a short time, before slaying him or her.
+Regardless of the type of dragon summoned, it will always start with 16
+hit dice.  The Wraith Dragon gains all physical abilities of its new
+form, but retians all of its mental abilities (INT WIS, and spells).
+Unlike most undead, including Dracoliches, Wraith Dragons begin to
+increase in power in a way similar to other characters, by performing
+evil deads.  As time goes on, it will learn new spells (or gain spell-  
+casting ability if it couldn't cast spells in life).  At 25 HD, a Wraith 
+Dragon gains its most dangerous and terrifying ability, the ability to
+bring corpses to (un)life at will.
+        Before it reaches 25 HD, it will have a small army of
+undead, but they always Juju zombies, created by draining victims
+of their life forces.  At 25 HD, they gain the ability to raise corpses
+at will.  The effect is seemingly unlimited.  All the Wraith Dragon has
+to do is contact a grave site for a period of time, depending on the type
+of undead the Wraith Dragon desires.  For souless undead (skeletons,
+zombies, ect.) the effect may take place from the Wraith Dragon simply
+walking over the desired graves.  For more powerful undead, the Wraith
+Dragon may have to sit on a grave and concentrate for over an hour so
+that its will can yank the soul of the victim back from an outer plane, 
+to the gravesite (good souls get a saving throw vs. petrification 
+using the stats that the character had in life, evil souls get no 
+saving throws, and arrive at the grave site in half the time as a good 
+souls, and neutral souls get saving throws, but arrive in half the time 
+as good ones).  Wraith Dragons can also bring a body out of the 
+ground as a soulless undead, and march it to its lair to later attempt soul
+recall.  To make matters even more bleak, Wraith Dragons aren't limited  
+to standard undead types, and can create any known undead, and even
+make up its own undead types (adding powers to an undead corpse to
+create a more powerful monster causes the undead to save vs. death, or
+be disintegrated, freeing its soul to return to an outer planes, but on
+success, the new undead is created).  The number of undead a Wraith
+Dragon can control is virtually limitless (there are a few dead worlds
+where Wraith Dragons held supreme power over vast numbers of undead,
+and there's nothing left alive).  Unless killed, a Wraith Dragon can
+overrun a world in a few short years.
+        Though fearsome, they are VERY rare.  A typical world may only
+have a couple of these horrors on it, and they're usually less than
+25 HD.  They often aren't considered a real threat since even evil
+dragons will attack them on sight and will often show a rare instance of
+teamwork to dispose of these abominations.  Note that a high level
+Wraith Dragon (25+ HD) tends to be a unique creature on a world, since
+two high level Wraith Dragons will ether fight to the death, or one of
+them will leave the world (they can move through wildspace and the
+phlogestin at will).
+        Wraith Dragons often take over a world using the following
+stratagy.  First, they build up strength, often with the help of the
+evil cleric or mage that brought it into the world.  When it reaches
+about 18 or 19 hit dice, and built up a small contingnent of Juju
+zombies, then it slays its former master and makes him or her undead.
+Then it lays somewhat low for a while, occasionally killing people
+to make more zombies for its army.  When it reaches 25 HD, and gains
+the power to create undead at will, it will raid cemeteries at night
+to raise corpses.  How it goes about this is determined by the amount
+of knowledge the Wraith Dragon perceives that the population has of
+Wraith Dragons (if the Wraith Dragon knows that the people are watching
+for Wraith Dragons, it will raid grave sites cautiously by raising
+only a few corpses in a cemetery, but if it feels that the people are
+ignorant, then it will plunder whole regions for corpses).  During
+this time, the Wraith Dragon will tend to live in an isolated area
+as it consolidates power, leaving only to perform some night raids for
+corpses and possible treasure.  When it reaches about 35 to 40 HD, then
+it begins to invade with its army of undead.  It will also taunt
+adventuring parties (often personally) to attempt to force them to give
+up any quests that involve the Wraith Dragon.  Its invasions are
+often slow paced, so it and its army can render the area uninhabitable
+before moving on.  Slowly, but surely, over the period of a decade or
+so, the Wraith Dragon and its undead army will divide, conquer, and
+kill, the world.  Once the world is destroyed, then evil dieties move
+in and create a power base on the prime material plane.
+        
+PROTECTING THE DEAD
+        Bodies can be protected from Wraith Dragons by performing any 
+of the following:
+1.  A body can be embalmed in a mixture containing holy water.  This 
+    doesn't prevent the corpse from being raised, but the resulting
+    undead will take 1d8 points of damage per round until it dies.
+2.  Using sanctified earth and wards vs. evil on or around the grave
+    site.  This won't prevent the Wraith Dragon from raising the corpse,
+    but the wraith dragon takes 1d4 points of damage per round on such
+    a holy site.  This repells most Wraith Dragons, but higher level
+    Wraith Dragons may still enter the site, (though they still suffer
+    damage), and they leave before they get too badly hurt.
+3.  The best way, is to destroy the body through disintegration or total
+    cremation.  A Wraith Dragon cannot animate ashes.
+4.  Some complex cleric rituals may also protect a corpse, but a persistant
+    Wraith Dragon can often, still, animate the corpse.
+
+DESIGNER NOTES
+1.  Wraith Dragons should NOT be used in ramdom encounters, even
+    low level (16 HD) ones.  In a whole game world, there should only
+    be a handful of these monsters.
+2.  Do not use in low level games (less than 8th level characters) 
+    except for maybe as an optional encounter (like the beholder horde 
+    in Curse of the Azure Bonds).
+3.  Encounters of Wraith Dragons of less then 25th level should include
+    a number of Juju zombies.
+4.  Higher level Wraith Dragons should include ever increasing numbers
+    of undead.  Higher level Wraith Dragons should have more powerful
+    undead guards (sort of elite troops).  Often Dracolich varients are
+    favorate guards (try fire breathing ones with paralyze gazes and fire
+    touch attacks, like the ones in Curse of the Azure Bonds).
+5.  This is the perfect way to have a campaign with a lot of undead.  
+6.  A maxed out party of 40th level characters would have a very tough
+    time fighting a solo 40th hit dice Wraith Dragon.  This doesn't
+    include the undead army that would also be present.
+
+
+ 
+                                    --Gregg Abbott/Lutrian
+                                      Depending on what online
+                                      service or BBS you're on
+                                            8/26/92
+
+FRUA is a registered trademark of SSI
+Advanced Dungeons and Dragons is a registered trademark of TSR.
+
+The artwork of the Wraith Dragon was modified from FRUA images
+through palate and image manipulation.
+
+The concept of the Wraith Dragon is purely the work of the author of this
+text.  This monster, artwork, and associated information is released as
+freeware for the use in FRUA or in any other Advanced Dungeons and Dragons
+products.
+
+
+

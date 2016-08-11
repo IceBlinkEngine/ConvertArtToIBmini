@@ -1,0 +1,60 @@
+                            ***Demons#2***
+
+Name:           Cambion         Chasme          Herozu        Wastrilith     
+Race:           Monster         Monster         Monster       Monster
+Gender:         Male            Male            Male          Male
+Alignment:      Chaotic Evil    Chaotic Evil    Chaotic Evil  Chaotic Evil
+Class:          Fighter         Fighter         Fighter       Fighter
+
+Hit Points:     22              42              45            60
+Age:            25              25              25            25
+Magic Resist:   30%             50%             70%           25%
+
+Strength:       18              10              18            10
+Intelligence:   10              10              10            14
+Wisdom:         10              10              10            10
+Dexterity:      10              10              10            10
+Constitution:   10              10              10            10
+Charisma:       6               10              10            10
+ 
+Level:          Fig4/Thf4/Mg4   Fig8/Mage6      Fig9/Mage7    Fighter 15
+Experience:     4000            14000            14000         19000
+Undead Type:    Not Undead      Not Undead      Not Undead    Not Undead
+Morale:         0               0               0             0 
+
+Form:           None            None            None          Large
+Penalties:      None            None            None          None
+Immune To:      Poison          Poison          Poison        Poison
+Misc Options:   May be held     May be held     May be held   May be held
+
+Attack Type #1:
+	# blows every two rounds of # # sided dice plus #.
+
+                4/1/4/0         4/2/4/0         4/1/6/1       4/1/8/0
+
+Attack Type #2:
+	# blows every two rounds of # # sided dice plus #.
+
+                0/0/1/0         2/1/4/0         2/4/4/0       2/1/12/0
+
+
+Base THAC0:     17              13              11            5
+Base AC:        6               -5              -6            -1
+Base Movement:  15              24              12            15
+
+Treasure:       None            None            None          None
+Items:          Long Sword +2   None            None          None
+
+Effects:        Imn Norm Weap   Imn Norm Weap   Imn Nrm Weap  Imn Nrm Weap
+                Half Dmg Fire   Half Dmg Fire   Half Dmg Fire Imn Fire
+                Imn Electric    Imn Electric    Imn Electric  Imn Cold
+                                See Invisible   Ghast Stench  Acid Breath
+                                                              
+
+Spells:         Fear(2)         Ray of Enfble   Blink                      
+
+NOTE:  Wastriliths are Immune to fire only when they are submerged in water.
+           If they are out of the water, fire inflicts Extra Damage.
+           so replace [Immune Fire] with [Vuln Fire].                                                                                                       B    €   ®   ÿÿ°   ÿÿò   ÿÿ+  ÿÿa  ÿÿž  ÿÿ×  ÿÿÙ  ÿÿ  ÿÿA  ÿÿv  ÿÿx  ÿÿ¬  ÿÿà  ÿÿ  ÿÿI  ÿÿ}  ÿÿ±  ÿÿ´  ÿÿð  ÿÿ  ð  &  ÿÿb  ÿÿ•  ÿÿ—  ÿÿÍ  ÿÿ  ÿÿ;  ÿÿx  ÿÿz  ÿÿ‹  ÿÿÀ  ÿÿÂ  ÿÿû  ÿÿý  ÿÿ  ÿÿC  ÿÿE  ÿÿ~  ÿÿ€  ÿÿ‚  ÿÿ  ‚  ¶  ÿÿé  ÿÿ  ÿÿ  ÿÿU  ÿÿ‹  ÿÿ  ÿÿË  ÿÿ	  ÿÿE  ÿÿƒ  ÿÿ…  ÿÿ½  ÿÿú  ÿÿü  ÿÿ5	  ÿÿq	  ÿÿœ	  ÿÿž	  ÿÿÖ	  ÿÿ  Ö	  
+  ÿÿ>
+  ÿÿ  ÿÿ  ÿÿU  ÿÿ‹  ÿÿ  ÿÿË  ÿÿ	  ÿÿE  ÿÿƒ  ÿÿ…  ÿÿ½  ÿÿú  ÿÿü  ÿÿ5	  ÿÿq	  ÿÿœ	  ÿÿž	  ÿÿÖ	  ÿÿ    0Roman 10cpi                                                                                                                

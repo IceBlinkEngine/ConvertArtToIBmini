@@ -1,0 +1,40 @@
+Well, here they are.  ANOTHER batch of artwork.
+
+TO USE (Walls and backdrops, in case you don't know how)
+
+-Walls-
+
+1.Type walledit (from the FRUA main directory)
+
+2.The program will prompt you to tell it where the wall file you wish to 
+import is located (e.g. C:\art\w_body1.pcx).
+
+3.The computer will ask which wall slot you wish to place this in.  Answer 9.
+
+4.Now it will ask which slot you wish to fill.  W_body1.pcx goes in slot 1, 
+w_body2.pcx in slot 2, and w_body3.pcx in slot 3.  DO NOT IMPORT WALL FILES
+INTO ANY SLOT OTHER THAN THOSE GIVEN, AS IT WILL NOT IMPORT CORRECTLY AND 
+SCREW UP YOUR WALL FILE!
+
+-Backdrops-
+
+1.Type backedit (from the FRUA main directory) 
+
+2.The program will prompt you to tell it where the backdrop file you wish to 
+import is located (e.g. C:\art\b_body.pcx).
+
+3.The computer will now ask which slot you want to fill.  It doesn't 
+particularly matter, but I would advise you to cover up one of the more 
+"specialized" backdrops, i.e. swamp, lava, or dark coral.
+
+
+C_MOTH.PCX            Giant Moth icon            
+C_CNTR.PCX            Centaur icon
+W_BODY?.PCX           Walls from Moander's body in POD.  Intended to go over
+                      wasteland set.
+B_BODY.PCX            Backdrop from Moander's body.
+
+Enjoy!
+
+-BigBang103
+

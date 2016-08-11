@@ -1,0 +1,53 @@
+MODERN2.ZIP:  This collection contains 27 icons and 2 related pics for
+use with modern (or maybe scifi) adventures.  Most of these are
+obviously retouched art done by others.  The rest are retouched from
+others' work as well -- for example, the G.I.'s are all based on an
+archer icon.
+
+"Americans":  Dangerous-looking armed Americans
+c_ameri1.pcx:  Was default 2Hsword paladin (black); now has rifle + dreads
+c_ameri2.pcx:  Was default ponytail thief; now kickboxer
+c_ameri3.pcx:  Was default green/gold archeress; now shutgunner
+c_ameri4.pcx:  Was default redhead fighter; now has braid + uzi
+c_ameri5.pcx:  Was default purple-robe cleric (black); now has jumpsuit+uzi
+c_ameri6.pcx:  Was miniskirt girl (black); now has uzi
+c_ameri7.pcx:  Was Willett wand wizardess; now black woman w/pistol
+c_ameri8.pcx:  Was default redhead fighter; now has short hair + hvy rifle
+c_ameri9.pcx:  Was thief icon (Asian); now has an uzi
+p_korean.pcx:  Pic to go with c_ameri9.pcx
+
+"Germans":  Germanic-looking paranoid white people
+c_germn1.pcx:  Was default blonde archer; now has assault rifle
+c_germn2.pcx:  Was default half-naked wizardess; now uzi + ski jacket
+c_germn3.pcx:  Was Willett wand wizardess; now has pistol
+
+"Soldiers":  All of these are soldiers in green army fatigues.  Some of
+ them look kinda 1970's.  The first three make good Russians.  All of
+ them do well as Americans, and #4 could pass for Jamaican.
+
+c_gi1.pcx:  Kneeling white soldier w/Assault Rifle, pack + helmet
+c_gi2.pcx:  Standing white soldier w/Assault Rifle, pack + helmet
+c_gi3.pcx:  White guy with pistol + helmet
+c_gi4.pcx:  Standing black soldier w/Assault Rifle, pack + helmet
+c_gi5.pcx:  White guy with pistol
+c_gi6.pcx:  Redneck-looking white guy with two pistols
+c_gi7.pcx:  Hairy biker-type white guy w/thumbsup + Assault Rifle
+c_gi8.pcx:  White woman soldier w/Assault Rifle, pack + helmet
+
+"Pan-Africans":  Done for the mod "Panafrican Glory", which I might finish
+ one of these days (maybe).  Most are based on drow icons, and they range
+ in skin color from jet black to milk chocolate to help represent the
+ diversity of peoples in the (fictitious) Pan-African Republic.  There
+ are some pictures that work well as Panafrican soldiers in armor in
+ the Azure Bonds picture set as well.
+c_panaf.pcx     -       Panafrican with armor and pistol
+c_panaf2.pcx    -       Panafrican with armor and rifle
+c_panaf3.pcx    -       Panafrican in robe with shotgun
+c_panaf4.pcx    -       Panafrican w/orange helmet and two pistols
+c_panaf5.pcx    -       Panafrican grenadier
+c_panaf6.pcx    -       Panafrican in gold trim suit w/Assault Rifle
+c_pankni.pcx    -       Panafrican robed assassin with combat knife
+p_panaf3.pcx    -       Picture to go with c_panaf.pcx
+
+-- delaney@psy.fsu.edu
+

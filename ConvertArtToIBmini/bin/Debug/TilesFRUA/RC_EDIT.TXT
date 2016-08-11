@@ -1,0 +1,59 @@
+RC_EDIT - UA Race/Class Editor v1.0
+
+WARNING - Please be aware that this file tampers with the main UA executable,
+CKIT.EXE, and can thus seriously mess up your game if you're not careful.
+It is strongly advised that you either back up your CKIT.EXE file, or install
+the UASHELL package (which creates its own backups when you install it).  I
+am NOT to held responsible for any damage this program might cause, so
+consider yourself warned.
+
+OVERVIEW
+
+RC_EDIT is intended to be a quick and easy way to do major race and class
+editing without doing things a single value at a time like UGE would force
+you to do.  Some of the functions have their own generator routines so you
+can build a table without entering all of its values.  However, if you DO
+want to enter all the values, you can.
+
+INSTRUCTIONS FOR USE
+
+1.  Place RC_EDIT.EXE in the main UA directory (where CKIT.EXE resides),
+unless your current version of UASHELL supports RC_EDIT (in which case
+you follow UASHELL's directions.
+
+2.  Type RC_EDIT to start.  It takes no command arguments.
+
+3.  Look at the main menu.  Enter some value between 1 and 13, or Q to quit.
+
+4.  Some sort of display will show the current values dealing with the area
+you just chose to edit.  To edit something, you enter a number in the
+indicated range, or one of the letters in parentheses.  Two options to all
+sub-menus are (S)ave and (Q)uit, activated by entering S or Q, respectively.
+
+5.  After you edit something, you will see an updated display and a chance
+to edit more stuff, save, or quit.  NOTE:  If you Quit before Saving, all
+changes done since the last time you saw the main menu are LOST!  If you go
+there again, you'll see the old values.  Please remember to Save any data
+BEFORE returning to the main menu.  Unless you messed up royally and you
+WANT the old data back, of course!
+
+6.  As you might have noticed by now, Quit from a sub-menu kicks you back
+out to the main menu.  From there you can edit some other category, or quit
+for real.
+
+LIMITATIONS OF USE
+
+The only limitation that I am aware of is that this program does NOT bend
+over backwards to make sure your data is valid.  If you give all Paladins
+a special ability that crashes the machine, RC_EDIT will cheerfully let you
+do it.  Similarly, there's nothing keeping you from giving something a THAC0
+of 100 or 100 memorizable 9th level spells to 1st level Mages.  In short,
+everything will be okay if you enter reasonable data.
+
+If there are any problems, or there's some other race/class related thing
+that I might have forgotten, please E-mail me at jgb4907@aol.com.  I will
+determine if a fix or addition is possible (and feasible), and if so I
+will release another version.
+
+Enjoy!
+

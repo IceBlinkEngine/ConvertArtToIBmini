@@ -1,0 +1,36 @@
+Miscellaneous artwork
+
+Here are a large number of items, many of them Sci fi in nature...misc. walls,
+Interior combat art, and combat icons.
+
+Walls - 
+
+W_LibryX - Walls intended to go over the Adobe Set, includes a wooden wall,
+a door, and bookshelves
+
+W_BluesX - Sci-fi type Walls to go over the Bricks set, includes the basic 
+wall and an arch
+
+W_Red0 - To go over firebricks, a horizontally shaded, red sci-fi type wall
+
+W_Webs0 - Goes over webs slot 0, web covered wall similar to those in POD
+
+Dungeon combat art - 
+
+D_Webs - Web covered walls, similar to POD
+
+D_Metal and D_Metal2 - Metallic type interior combat art
+
+D_Wood1 and D_Wood2 - Wooden interior combat art
+
+D_Blucyc and Blucy2 - Blue. sci fi interior combat art
+
+D_Green - Green, sci fi interior combat art
+
+D_Redcyc - Red, sci fi interior combat art
+
+Icons - Various sci fi/Modern icons. Most converted from Autery's elves,
+Males, females and armored guards/robots in various poses with various types 
+of firearms.
+
+Enjoy, and EMail all comments, etc. to JQuick000@AOL.COM

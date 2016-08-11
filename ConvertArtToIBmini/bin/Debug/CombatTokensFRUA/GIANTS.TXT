@@ -1,0 +1,32 @@
+Giants and their pets for UA - by Rob Hays
+
+Monster: 	Frost	Frost	Polar	Stone	Stone	Cave
+		Giant	G'ess	Bear	Giant	G'ess	Bear
+Alignment:	CE	CE	N	N	N	N
+HP:		60	47	40	58	45	30
+Level:		F10	F8	F8	F10	F8	F6
+EXP:		7000	3000	1400	7000	3000	650
+
+Attributes:	Lrg	Lrg	Lrg	Lrg	Lrg	Lrg
+		DA	DA	Mam	DA	DA	Mam
+		GA	GA	Anim	GA	GA	Anim
+		RD	RD		RD	RD	
+		Held	Held	Held	Held	Held	Held
+
+Damage 1:	2/2/8/9	2/2/6/7	4/1/10	2/2/6/8	2/2/6/7	4/1/8
+Damage 2:			2/2/6			2/1/12
+
+THAC0:		7	9	11	7	9	13
+AC:		0	5	6	0	0	6
+Move:		12	12	12	12	12	12
+
+Effects:	IC	IC	IC	IS	IS
+		SI	SI
+
+
+Abbreviations:	DA = Dwarf AC
+		GA = Gnome AC
+		RD = Ranger Damage
+		IC = Immune to Cold
+		IS = Iron Skin
+		SI = See Invisible

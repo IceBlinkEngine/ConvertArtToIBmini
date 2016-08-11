@@ -1,0 +1,143 @@
+Subj:  Art from "Fire and Water: a color-cycling combat icons demo-mod"
+From:  hans
+
+File:      fnw_art.zip
+AUTHOR:    hans (DHanson111@aol.com.)
+EQUIPMENT: IBM PC/Comp, VGA
+NEEDS:     IBM PC/Comp, VGA, UA or PCX file viewer, PKUNZIP, Walledit,
+           (and possibly Wallcopy), Backedit, Cspredit, Titledit, and 
+           likely more...
+Type:      Freely distributed
+
+
+Here is the art I used in "fnw".  If you have not played that demo-mod, 
+I encourage you to do so before you examine the enclosed art files.  The 
+color-cycling combat icons, in particular, must be viewed in actual combat
+for you to enjoy the full effect.  This .zip contains the new art that was 
+actually used in "fnw"'s adventure;  there are other pieces of art hidden 
+in the .tlbs of that game which saw no action, and which I will save for 
+inclusion in future, more appropriate, uploads.
+
+Specifically, the zip contains:
+
+*Walls*:
+
+A-Tea(0-4).pcx     Tea-house wallset A which replaces the Wood A 
+                   wallset.
+
+B-Tea(0-4).pcx     Tea-house wallset B which also replaces the Wood A 
+                   wallset.  If you would like to use both Tea-house 
+                   sets in one mod as in "fnw", you will need to use 
+                   James Blair's Wallcopy program.  Note: the Tea-house 
+                   sets share a single palette, so it is possible to 
+                   mix & match between them.  Example:  you could 
+                   replace A-Tea3.pcx in the A wallset with B-Tea3.pcx.  
+
+                   (Special thanks & credit must go to Debbi Rapp for 
+                   inspiring pieces B-Tea1.pcx and B-Tea4.pcx.)
+
+N-Hot!3.pcx        This replaces OO-Hot!3.pcx in my OO-Hot wall set
+                   which can be found in my "Asiawalz.zip" art pack.  
+                   That set replaced the Rock B set (cycling info at:
+                   63, 6, 8). N-Hot!3.pcx is only a minor revision of 
+                   the orignal, and untrained eyes may not discern 
+                   any difference.
+
+P-Cave(0-4).pcx    My purple cave wallset.  It replaces the normal 
+                   Cave wallset, and the color-cycling settings are: 
+                   64-5-8.
+
+
+*Backdrops*:
+
+Firezone.pcx       Rather dark, smokey, 'plane of fire' type back. 
+
+Mudday2.pcx 
+Mudnyt2.pcx        New day & night versions of my outdoor mud/dirt backs.  
+
+Stone-d.pcx 
+Stone-n.pcx        My day & night versions of the outdoor stone backs.  
+
+Wet.pcx            A purple cave with a floor covered with green liquid.  
+
+Wooden.pcx         Wooden interior of the "fnw" tea house. 
+
+
+*Combat Sprites*:  
+
+fwcomspr.pcx       My template used to create fnw's new comspr.tlb file.  
+
+
+*Color-cycling combat icons*:  
+
+C_cycle1.pcx       A set of 4 c/c icons; B=Charcoal Golem, T=Pillar of 
+                   Fire, W=Phoenix Harpy, N=Wildfire.  
+
+C_cycle2.pcx       Another set of 4; B=Melting Thing, T=Blazing Skull, 
+                   W=Fire Kunoichi, N=Little Hot Head.  
+
+C_cycle3.pcx       Again a set of 4; B=Liquid Moon, T=Thunderhead, 
+                   W=Undertow Ghost, N=Water Ninja.  
+
+C_cycle4.pcx       Final set of 4; B=Hand of Brine, T=Moana Makuahine, 
+                   W=Scaly Beast, N=Rolling Wave. 
+
+(Warning:  These icons do not color-cycle by themselves, but can only 
+reflect the color-cycling of the dungeon they appear in.  Therefore, you 
+should *only* use them in my D_fire dungeon (for the C_cycle1 & C_cycle2 
+icons) and my D_wet dungeon (for the C_cycle3 & C_cycle4 icons).  Those 
+two dungeon templates may be found in my "Asianart.zip".  Please refer 
+to the "fnw-c-c.txt" file for more info on color-cycling combat icons.)  
+
+
+*Pics*:
+
+In the interest of saving space, I shall not give itemized descriptions.
+There are 53 pics in all.
+
+
+*Title Images*  (Color-cycling info is listed as D=direction, Sp=speed, 
+                1stC=first color to start cycling, R=cycling range.)  
+
+fnw_t2.pcx        Phoenix Harpy with 4 color-cycling ranges.  
+                   1. D=reverse, Sp=17, 1stC=112, R=16. 
+                   2. D=reverse, Sp=10, 1stC=208, R=12. 
+                   3. D=reverse, Sp=10, 1stC=192, R=12. 
+                   4. D=reverse, Sp=10, 1stC= 64, R=12.  
+
+fnw_t3a.pcx       Fire over Water with 2 color-cycling ranges.  
+                   1. D=forward, Sp=10, 1stC= 32, R=32.  
+                   2. D=reverse, Sp=12, 1stC= 80, R=32.  
+
+fnw_t3b.pcx       Fire over Water + steam with 3 color-cycling ranges. 
+                   1. D=forward, Sp=10, 1stC= 32, R=32.  
+                   2. D=reverse, Sp=12, 1stC= 80, R=32.  
+                   3. D=reverse, Sp=14, 1stC=112, R=16.  
+
+fnw_t4.pcx        Water Ninja with 4 color-cycling ranges.  
+                   1. D=reverse, Sp=10, 1stC=143, R=10. 
+                   2. D=reverse, Sp=12, 1stC=219, R=10. 
+                   3. D=reverse, Sp=15, 1stC= 95, R= 8. 
+                   4. D=reverse, Sp=20, 1stC= 62, R= 6. 
+
+fnw_t5.pcx        Ch'ih-chih Wa'r.  
+
+fnw_t6.pcx        Red-in-Snow.                        
+
+
+
+I had to keep track of a lot of information in making this zip, and 
+though I tried to double check my facts, I can't guarantee that I didn't 
+flub-up somewheres.
+
+If you have not played "Fire and Water", and like the art you see here, 
+I encourage you to see it all in the proper context.  "fnw" is a very 
+hacked mod requiring UASHELL, but it only takes about a half an hour to 
+play.  You can download it at:  
+
+  http://www.giga.or.at/pub/ua/pc/demos/fnw.zip
+
+All of the art in this collection may be used or changed in any UA 
+way you like.
+
+hans.

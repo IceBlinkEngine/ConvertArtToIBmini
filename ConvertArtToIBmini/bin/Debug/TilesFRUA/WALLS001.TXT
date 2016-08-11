@@ -1,0 +1,76 @@
+Subj:  Wall and Backdrop Art
+Date:  September 28, 1996
+From:  Debbi Rapp
+
+File:  	   WALLSETS.ZIP (67519 bytes)
+AUTHOR:    Debbi Rapp
+EQUIPMENT: IBM
+NEEDS:     Unlimited Adventures & UAShell
+Type:      Freely distributed
+
+
+Included are wall sets, including some with matching backgrounds.
+I hope you find them useful.
+
+CLAYBRICK - Wall Set & Backdrop  
+-------------------------------
+These walls were adapted from a set by Rob.  I did some minor color changes, 
+adapted them to the firebrick set and added a firepit in slot 4.  Color 
+cycling is #64, 4 colors, 11 speed.
+   * w_clayb0.pcx  --  Replaces firebrick slot 0
+   * w_clayb1.pcx  --  Replaces firebrick slot 1
+   * w_clayb2.pcx  --  Replaces firebrick slot 2
+   * w_clayb3.pcx  --  Replaces firebrick slot 3
+   * w_clayb4.pcx  --  Replaces firebrick slot 4
+
+The backdrop is original, using the same colors that are in the wall set.  
+   * bg_clayb.pcx
+
+
+WOODA - 2 Wall changes
+----------------------
+These are changes made to the existing wallset WOODA.  
+   * w_woodA1.PCX -- Replaces woodA slot 1, changing the window to a fence.
+   * w_woodA4.PCX -- Replaces woodA slot 4, a smaller version of the window 
+		     that was replaced by the above wall.
+
+CAGE - 2 Wall Changes
+---------------------
+These were edited from UAGANSTA'S Jail set.  They replace 2 slots in the
+CoralA set.  (I realize this leaves a 3 virtually unusable slots in the wall set, 
+but unless you have an underwater setting, you are not likely to use
+this set anyway.)
+   * W_CAGE0.PCX   REPLACES CORALA SLOT 0
+   * W_CAGE4.PCX   REPLACES CORALA SLOT 4
+
+
+BROWNSTONE - New Backdrop
+-------------------------
+A recolor of a stone backdrop, giving it warm gray-brown tones.  Looks good with
+the woodA walls.
+   * bg_brnst.pcx
+
+
+LIBRARY - Wall Set 
+------------------
+An original set including a bookcase, a wall shelf/table, & a bulletin board.
+Replaces the RockA slots.
+   * w_libry0.pcx  --  Replaces rocka slot 0
+   * w_libry1.pcx  --  Replaces rocka slot 1
+   * w_libry2.pcx  --  Replaces rocka slot 2
+   * w_libry3.pcx  --  Replaces rocka slot 3
+   * w_libry4.pcx  --  Replaces rocka slot 4
+
+
+GRAY CAVE - Wall Set & Backdrop  
+-------------------------------
+An original set of gray cave walls and matching backdrop.
+   * w_grycv0.pcx  --  Replaces coralb slot 0
+   * w_grycv1.pcx  --  Replaces coralb slot 1
+   * w_grycv2.pcx  --  Replaces coralb slot 2
+   * w_grycv3.pcx  --  Replaces coralb slot 3
+   * w_grycv4.pcx  --  Replaces coralb slot 4
+
+The backdrop is original, using the same colors that are in the wall set.  
+   * bg_grycv.pcx
+

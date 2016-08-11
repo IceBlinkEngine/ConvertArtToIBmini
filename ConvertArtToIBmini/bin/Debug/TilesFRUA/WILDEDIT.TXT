@@ -1,0 +1,42 @@
+WILDEDIT - v1.0 Wilderness Combat Map Import Utility
+
+OVERVIEW
+
+Peter Kos wrote an excellent utility to replace wilderness maps in UA, so
+some people might ask way I felt the need to write my own version of it.
+Part of it is that Peter did not make WILD exactly as I would have, and it
+fit in rather oddly with my other utilities.  The second, and primary, reason
+is that I wanted a utility that you could run entirely from the command line,
+like my other stuff.  At any rate, for better or for worse, I wrote my own
+version of WILD.
+
+
+FILE LIST
+
+WILDEDIT.TXT - This file.
+WILDEDIT.EXE - The WILDEDIT executable.
+WD_MARS.PCX  - A wilderness graphic set with tiles captured from Ultima:
+ Martian Dreams game, done by yours truly.
+
+
+INSTRUCTIONS FOR USE
+
+You must either have WILDEDIT.EXE in your main FRUA directory, or have it
+set up for use with David Knott's UASHELL program (available via AOL).
+Otherwise, I cannot guarantee that it will work.
+
+The program accepts up to 2 arguments: PCX filename to import, and the
+wilderness art slot you wish to import to (usually 1-4, but due to Peter
+Kos' GROWWILD program there may be more in there).  If you leave out one or
+both arguments, the program will prompt you for the needed info.
+
+
+EXAMPLE
+
+WILDEDIT WILD.PCX 1
+
+This replaces the current slot 1 wilderness graphic with the contents of
+WILD.PCX.  Note that if you want to leave the filename out, leave the slot
+number out, otherwise the program will die a horrible death trying to find
+a file called 1.
+

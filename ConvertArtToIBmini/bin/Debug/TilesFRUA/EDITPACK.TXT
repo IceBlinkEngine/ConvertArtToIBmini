@@ -1,0 +1,28 @@
+EDITPACK II - 11 UA Graphics Utilities
+
+This is a collection of all the UA editing programs I have done to date.
+These programs are generally easy to use and most can be run completely
+from DOS command line with no further input (good if you want to put
+graphics editing commands in a batch file, for instance).
+
+This package contains the following programs:
+
+        BACKEDIT - PCX Backdrop Import Utility
+        CSPREDIT - Combat Sprite Import Utility
+        DUNGEDIT - Dungeon Combat Art Import Utility
+        ICONEDIT - PC Icon Import Utility
+        IT_BATCH - Item String Editor
+        TEXTEDIT - General CKIT.EXE Text Editor
+        WALLEDIT - Wall Art Import Utility
+        WALLREND - Wall Art Render Utility
+        WILDEDIT - Wilderness Combat Art Import Utility
+        WALLCOPY - Wall Art Slot Copy Utility
+        RC_EDIT  - Race/Class Info Editor
+
+If you have UASHELL, put all these files into the DOWNLOAD subdirectory,
+then follow the UASHELL instructions for installing them.  If you don't
+have UASHELL, copying all the files to the main UA directory should work.
+You may want to stash the various art and text files somewhere else.
+
+If you have any problems with any of these utilities, contact me at
+JGB4907@aol.com.

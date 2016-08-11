@@ -1,0 +1,73 @@
+				BEETLES
+
+Name  :	Bombardier	Fire		Rhinoceros	Stag		Water
+Race  :	Monster		Monster		Monster		Monster		Monster
+Sex   :	Male		Male		Male		Male		Male
+Algn  :	Nuetral		Neutral		Neutral		Neutral		Neutral
+Clss  :	Ftr		Ftr		Ftr		Ftr		Ftr
+
+HP    :	12		6		55		30		18
+Age   :	7		7		7		7		7
+MagRst:	--		--		--		--		--
+
+Str   :	10		10		10		10		10	
+Int   :	3		3		3		3		3
+Wis   :	10		10		10		10		10
+Dex   :	10		10		10		10		10
+Con   :	10		10		10		10		10
+Cha   :	10		10		10		10		10
+
+Lvl   :	F3		F2		F12		F7		F4
+Exp   :	120		35		4000		975		120
+Undead:	no		no		no		no		no
+Morale:	--		--		--		--		--
+
+Form  :	Animal		Animal		Animal		Animal		Animal
+Pnltys:	--		--		--		--		--
+Immune:	Poison		--		--		--		--
+Misc  :	--		--		--		--		--
+
+Att #1:	2/2 2d6		2/2 2d4		2/2 3d6		2/2 4d4		2/2 3d6
+
+Att #2:	-- 		--		2/2 2d8		4/2 1d10	--
+	
+
+THAC0 :	19		19		9		13		17
+AC    :	4		4		2		3		3
+Move  :	9		12		6		6		9
+
+Treas :	--		--		--		--		--
+Items :	--		--		--		--		--
+
+Effect:	Drg Acid	--		1/2 dam-cut	1/2 dam-cut	1/2 dam-cut
+									1/2 dam-blnt
+									Vuln Fire
+
+Spells:	--		--		--		--		--
+
+
+Descriptions:
+
+Bombardier: Usually found above ground in wooded areas. Carrion eater. AD&D stats give it 	                        	      50% chance per combat round of spraying 8'x8'x8' cloud of reddish acid vapor    
+                  from it's abdomen. I gave it Dragon Acid to simulate this. It attacks with  it's  	          		      mandibles, as well. Approx. 4' long...
+
+Fire          : Found above and below ground, almost anywhere. It has no fire attacks despite 
+                 it's name. Two glands above their eyes and back of abdomens give off a red  glow.
+                The light is a 'cold' light and prized by many. They are 2 1/2' long, although the icon
+                 is not to scale. They attack with powerful mandibles.
+
+Rhinoceros: Lives in jungles.Eats fruits and vegetables, but crushes anything that gets in it's          	      way. The shells are prized for thier iridescent carapaces. They total 12' feet in length, 
+	      with a 6' horn. They attack with mandibles and the horn. I gave them 1/2 damage to 
+	      cutting weapons due to the hardness of thier shells.
+
+Stag	    : Found in woodlands. They are fond of grains and most crops, so they may be found   
+                  raiding cultivated areas. They do eat carrion, so livestock is at risk, as well. They are 
+                  10' long with 8' twins horns. They attack with mandibles and horns. They have 1/2 
+                  damage to cutting weapons due to hard carapace.
+
+Water     : These are found in and on fresh water less than 30 feet deep. They are voracious, 
+                and will prey on any slow animal. Slow on land, but fast in water. Sometimes attack 
+                small boats. They  are air breathers but can stay underwater for long times by catching 
+                air under thier wings. They are 6' long and attack with mandibles. I gave them 1/2 
+                damage tocutting and blunt weapons since they will most likely be encountered in an 
+                aquatic setting. They are also vulnerable to fire, if on land.

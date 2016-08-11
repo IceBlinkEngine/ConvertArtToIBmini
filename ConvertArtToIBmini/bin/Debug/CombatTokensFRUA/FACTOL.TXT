@@ -1,0 +1,57 @@
+Greetings planescape fans!
+   This archive consists of the factols to all factions and some of the 
+sects that dot the planes. There is no factol to the Free League or the
+Revolutionary League, though I included a member of the latter. 
+Included are:
+
+
+c_alison.pcx = Factol of the mercykillers, Alison Nilesia 
+               (planar/female tiefling/wizard 8/LE)
+c_ambar.pcx  = Factol of the Believers of the Source, Ambar Vergrove 
+               (planar/male halfelf/ranger 19/NG)
+c_anarch.pcx = A member of the Anarch's Guild, a sect based in Limbo. This
+               member is a female githzerai and looks to be a mage.
+c_darius.pcx = Factol of the Sign of One, Darius the Veyl
+               (planar/female human/diviner 11/NG)
+c_erin.pcx   = Factol of the Society of Sensation, Erin 'Darkflame' Montgomery
+               (planar/female human/priestess of Diancecht 9/LG)
+c_gith2.pcx  = Just another githzerai. :)
+c_haskar.pcx = Factol of the Fraternity of Order, Hashkar
+               (planar?/male dwarf/sage 0/LN)*some people think he's a 
+               petitioner of Sigil, or even of the Lady of Pain herself!*
+c_ingwe.pcx  = Factol of the Ring Givers, Ingwe
+               (planar?/female dwarf?/commoner 0?/NG?)*no stats for Ingwe,
+               All that's known is that she leads the ring giver sect out
+               on Ysgard*
+c_karan.pcx  = Factol of the Xaositects, Karan *most of the time, anyways!*
+               (planar/male githzerai/fighter 9/CN)*chaotic neutral? Who'da
+               thunk it?!?*
+c_lhar.pcx   = Factol of the Bleak Cabal, Lhar
+               (planar/male Half-orc/fighter 8/CN)
+c_mrcy3.pcx  = Factor of the Mercykillers, Arwyl Swan's son
+               (prime/male human/paladin 17/LG)*a high-up person of the red
+               death*
+c_pentar.pcx = Factol of the Doomguard, Pentar
+               (planar/female human/ranger 20/CN)*how she got chaotic neutral
+               being a ranger is beyond me :P)
+c_revo2.pcx  = Factotem of the Revolutionary League, Beringe
+               (planar/male human/fighter 13, thief 13/NE)*though they have 
+               no factol, they do have some high-ups... here's one of 'em.*
+c_rhys.pcx   = Factol of the Transcendent Order, Rhys
+               (planar/female tiefling/fighter 15, mage 15/N)
+c_rowan.pcx  = Factol of the Fated, Duke Rowan Darkwood
+               (prime/male human/ranger 19, priest of Heimdall 20/CG)
+c_sarin.pcx  = Factol of the Harmonium, Sarin
+               (Prime/male human/paladin 16/LG)*from the prime world Ortho.*
+c_skall2.pcx = Factol of the Dustmen, Skall
+               (planar/male lich, former human?/wizard 19/NE) *alignment is
+               only in the eyes of others, Skall doesn't act evil*
+c_teranc.pcx = Factol of the Athar, Terrance
+               (planar/male human/priest of greater unknown 19/LG)
+factols.txt  = this file
+
+Please enjoy and send questions, comments, jink, or bub to:
+Rasnil@aol.com
+    or
+aa5901@lcfn.org
+

@@ -1,0 +1,17 @@
+HANSART.ZIP
+By hans
+
+        Here are all the icons I used in my 'hanspcs.zip' Cbody  
+        (c_hans1.pcx to c_hans49.pcx).  They are a mixture of 
+        originals along with many heavily reworked SSI icons.  
+
+        For your convenience, I've also included a screen-cap of 
+        the player-character icon sheet (icon_map.pcx) for you 
+        to refer to in finding a particular favorite.  
+
+        You can use them as they are, or make any changes you 
+        like --I won't mind! 
+        
+        hans
+        DHanson111@aol.com.
+

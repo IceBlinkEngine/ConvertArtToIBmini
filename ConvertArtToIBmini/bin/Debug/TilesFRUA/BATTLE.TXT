@@ -1,0 +1,25 @@
+these are wall replacements for the brick wallset.  that i have used for my castle in my mod i'm working on.  i would suggest using wall copy to  copy the brickset over something you don't wish to use.like the coral or adobe.
+included is two screen captures that show the order they should be in.
+ i hope you enjoy these. =)
+Sakuel 
+
+CONTENTS:
+-----------
+W_BATLE1.pcx :: the half height battlement wall to be placed in second slot    
+W_BATLE0.pcx :: the full height battlement wall 
+W_grate1.pcx :: the gate 
+
+--The two files below should not be imported into ua --
+example.pcx ::  the first of two pictures to show how the wall set should look once installed 
+example1.pcx ::  the second of two pictures to show how the wall set should look once installed 
+-----------------------------------------
+
+i used wallcopy to copy the bricks over the coral wallsets then imported my battlments wallset into these two wall sets.
+
+refer to example1.pcx this will show that the two battlment walls are put into on wallset the other  W_GRATE1.PCX IS OPTIONAL  and would be imported into a second brickset in the second slot 
+as seen in example.pcx  this will allow you to use all the bricks battlements and have a gate to.
+
+i hope this helps  explain
+being my new version of battlements that are meant to look like they have more depth  or  three dimensional if you will..
+if you want let me know what you think 
+Sakuel@aol.com 

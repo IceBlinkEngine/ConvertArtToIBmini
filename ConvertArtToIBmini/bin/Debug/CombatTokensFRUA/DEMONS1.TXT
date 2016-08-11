@@ -1,0 +1,62 @@
+                            ***Demons#1***
+
+Name:           Mane            Alu Fiend       Babau         Moldeyus     
+Race:           Monster         Monster         Monster       Monster
+Gender:         Male            Female          Male          Male
+Alignment:      Chaotic Evil    Chaotic Evil    Chaotic Evil  Chaotic Evil
+Class:          Fighter         Fighter         Fighter       Fighter
+
+Hit Points:     5               20              54            60
+Age:            25              25              25            25
+Magic Resist:   10%             30%             50%           90%
+
+Strength:       10              10              19            19
+Intelligence:   10              17              17            14
+Wisdom:         10              10              10            10
+Dexterity:      10              10              10            10
+Constitution:   10              10              10            10
+Charisma:       10              10              10            10
+ 
+Level:          Fighter 1       Fig4/Mage5      Fig9/Thf9/Mg8 Fig12/Mage10
+Experience:     975             5000            17000         21000
+Undead Type:    Not Undead      Not Undead      Not Undead    Not Undead
+Morale:         0               0               0             0 
+
+Form:           None            None            None          Large
+Penalties:      None            None            None          None
+Immune To:      Poison          Poison          Poison        Poison
+Misc Options:   May be held     May be held     May be held   May be held
+
+Attack Type #1:
+	# blows every two rounds of # # sided dice plus #.
+
+                4/1/2/0         4/1/2/0         4/1/4/1       4/3/6/0
+
+Attack Type #2:
+	# blows every two rounds of # # sided dice plus #.
+
+                1/1/4/0         0/0/1/0         2/2/4/0       2/2/2/0
+
+
+Base THAC0:     20              17              13            9
+Base AC:        8               3               -3            -5
+Base Movement:  6               15              15            15
+
+Treasure:       None            None            None          None
+Items:          None            Long Sword +2   Spear +2      Vorpal Sword
+
+Effects:        Imn Norm Weap   Imn Norm Weap   Imn Nrm Weap  Imn Nrm Weap
+                Half Dmg Fire   Half Dmg Fire   Half Dmg Fire Half Dmg Fire
+                Imn Electric    Imn Electric    Imn Electric  Imn Electric
+                Imn Slp/Chrm                    Confusn Gaze  Lethal Poison
+                                                              See Invisible
+
+Spells:                         Charm Person(5) Fear(2)       Lghtng Blt(5) 
+                                Dimension Dr(3)               Chrm person(5) 
+                                                              Fear(2)
+
+NOTE:  After defeating a Molyedus,  make sure the No Treasure Recieved
+           option is enabled since their weapon disappear upon their
+           deaths.                                                                                                     B    €   ®   ÿÿ°   ÿÿò   ÿÿ+  ÿÿa  ÿÿž  ÿÿ×  ÿÿÙ  ÿÿ  ÿÿA  ÿÿv  ÿÿx  ÿÿ¬  ÿÿà  ÿÿ  ÿÿI  ÿÿ}  ÿÿ±  ÿÿ´  ÿÿð  ÿÿ  ð  &  ÿÿb  ÿÿ•  ÿÿ—  ÿÿÍ  ÿÿ  ÿÿ;  ÿÿx  ÿÿz  ÿÿ‹  ÿÿÀ  ÿÿÂ  ÿÿû  ÿÿý  ÿÿ  ÿÿC  ÿÿE  ÿÿ~  ÿÿ€  ÿÿ‚  ÿÿ  ‚  ¶  ÿÿé  ÿÿ  ÿÿ  ÿÿU  ÿÿ‹  ÿÿ  ÿÿË  ÿÿ	  ÿÿE  ÿÿƒ  ÿÿ…  ÿÿ½  ÿÿú  ÿÿü  ÿÿ5	  ÿÿq	  ÿÿœ	  ÿÿž	  ÿÿÖ	  ÿÿ  Ö	  
+  ÿÿ>
+  ÿÿ  ÿÿ  ÿÿU  ÿÿ‹  ÿÿ  ÿÿË  ÿÿ	  ÿÿE  ÿÿƒ  ÿÿ…  ÿÿ½  ÿÿú  ÿÿü  ÿÿ5	  ÿÿq	  ÿÿœ	  ÿÿž	  ÿÿÖ	  ÿÿ    0Roman 10cpi                                                                                                                

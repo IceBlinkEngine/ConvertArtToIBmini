@@ -1,0 +1,39 @@
+Subject:  Wall Art: 
+		Set: 1
+		Color Cycle: Start=65 Number of colors=4 Speed=11
+			Ice_0
+			Ice_1
+			Ice_2
+			Ice_3
+			Ice_4
+		Set: 2
+			Ice2_0.pcx
+			Ice2_1.pcx
+			Ice2_2.pcx
+			Ice2_3.pcx
+			Ice2_4.pcx
+	  Backdrop: IceCave
+	  Dungeon Art: D_Ice.pcx
+
+Author:   Mari Magus
+Uploaded By:  Mari Magus (marimagus@aol.com)
+Date:  09/08/98
+
+File:  Ice.ZIP (45.0 kb) 
+Equipment: Any PCX editor
+Needs:     FRUA
+
+Walls:
+	Ice_0.pcx - Ice_3.pcx replaces Cave
+	Ice2_0.pcx - Ice2_4.pcx replaces Brick
+
+Backdrop:
+	IceCave.pcx
+
+Dungeon:
+	D_Ice.pcx	Replaces Lava
+			First Color=60
+			Speed=30
+			Number of Colors=3
+
+				Mari Magus

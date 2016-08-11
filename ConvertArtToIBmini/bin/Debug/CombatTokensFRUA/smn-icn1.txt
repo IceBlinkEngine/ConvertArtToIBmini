@@ -1,0 +1,27 @@
+
+[simoN]'s silly icon retouches
+==============================
+
+ok... rooting around in my huge icon stash i stumbled across
+  a few of my edits which weren't too bad and might be useful
+  to some of you... as such i'm presenting them here...
+
+these are all edits... not really very original... but unique
+  enough to warrant the upload... and not so bad to look at...
+
+the archive contains:
+
+	c_ancala.pcx	- HUGE icon of "Ancalagon the Black" of
+			  J.R.R. Tolkien fame (re: Silmarillion).
+			  adapted from SSI's original "FreezeFire"
+			  icon.
+	c_death.pcx	- Death of Sandman comic book fame.
+			  Adapted from DETHGRL.PCX.
+	c_octops.pcx	- an octopus.  recolored and fixed (no
+			  pointy squid-head) to look like one.
+	c_sphin1.pcx	- an andro-sphinx.  added wings and fixed
+			  the colorization a little.
+
+hope you like 'em...
+
+[simoN] <simontdd@netzero.net>

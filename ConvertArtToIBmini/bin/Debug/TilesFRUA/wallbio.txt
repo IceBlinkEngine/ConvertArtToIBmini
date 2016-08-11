@@ -1,0 +1,14 @@
+This art collection contains a wallset, a background, and a dungeon. All
+work together (else why make a collection? :) ) to make a biological-experiment-
+gone-awry theme. It could be used in some secret lab, an alien world filled
+with biotechnology, etc. Use your imagination!
+
+dn_bio  .pcx    The biotech dungeon
+bg_bio  .pcx    The biotech background
+w_bio?  .pcx    The biotech walls, which replace the Adobe set.
+
+
+
+Enjoy!
+Merle
+<jservey@clemson.edu>

@@ -1,0 +1,19 @@
+These are icons for characters appropiate to TSR's Masque of the Red
+Death setting, which is an expansion on Ravenloft. Masque of the Red
+Death is a setting for gothic horror adventures set in the real world's
+late nineteenth century. Obviously, icons for such a setting have
+hitherto been few and far between. I hope this set inspires someone
+out there to do a Masque of the Red Death mod - but if not, you may
+find some of the icons here useful as swashbucklers in a more generic
+fantasy setting.
+
+C_FENCR*.PCX    icons of fencers and duellists
+C_SOLDR*.PCX    icons of cavalrymen and riflemen
+C_SCOUT*.PCX    icons of explorers and rangers
+C_ROGUE*.PCX    icons of shady characters with revolvers
+C_PROF*.PCX     icons of older men with guns
+
+
+Enjoy
+ James Rand <williams@europa.com>
+

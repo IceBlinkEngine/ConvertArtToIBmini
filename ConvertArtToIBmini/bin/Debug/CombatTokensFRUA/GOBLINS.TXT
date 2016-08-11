@@ -1,0 +1,17 @@
+Goblin Combat Icons
+
+There are 17, drawn mostly by me.  I'm not sure if I drew the amazon, but
+I think I did.  It's been a long time.  Most use parts from Autery's
+dwarves and elves.  A few were used in Lhado's Messengers, my upcoming mod.
+
+c_gbarc*.pcx:   Goblin Archers
+c_gbaxe*.pcx:   Goblin Axemen
+c_gbfla1.pcx:   Goblin with Flail [Goblin Priest?]
+c_gbmac1.pcx:   Goblin with Mace [Goblin Priest?]
+c_gbswd*.pcx:   Goblins with Swords
+                (includes Goblin Sarge & Captain from Lhado's Messengers)
+c_gbxbw*.pcx:   Goblins with Crossbows (incl. goblin "colonel")
+c_gbwiz*.pcx:   Goblin Wizards
+
+                                        - delaney@psy.fsu.edu
+

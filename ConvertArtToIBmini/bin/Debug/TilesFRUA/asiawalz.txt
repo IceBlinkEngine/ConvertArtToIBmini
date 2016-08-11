@@ -1,0 +1,73 @@
+Subj:  Walls in an Oriental vein
+From:  hans
+
+File:      asiawalz.zip
+AUTHOR:    hans (DHanson111@aol.com.)
+EQUIPMENT: IBM PC/Comp, VGA
+NEEDS:     IBM PC/Comp, VGA, UA or PCX file viewer, PKUNZIP, Walledit,
+           and possibly Wallcopy.
+Type:      Freely distributed
+
+
+To further encourage the production of Oriental-type modules, I've put
+together some wall art.  There are four complete wall sets (the asian,
+eastern, orient, and oo-hot! series sets) plus some indivdual wall 
+pieces which can be placed in the existing (default) wall sets.  The 
+latter (singles) are denoted by an 'X' prefix followed by the title 
+and number of the wall slot they are meant to replace.
+
+Specifically, the zip contains:
+Complete wall sets:
+
+Asian(0-4).pcx     This replaces the Firebrick set.  The cycling info
+                   is:  Start at 66, Range at 3, and Speed at 38.
+
+Eastern(0-4).pcx   This also is meant to replace the Firebrick set. 
+                   (If you wish to use both this and the Asian series in 
+                   the same module, use Wallcopy.)  No cycling this time.
+
+Orient(0-4).pcx    This replaces the Wood B set.  Cycling info is:
+                   65, 4, 18.  (Note:  Orient4 is designed to complement 
+                   the Cave wall set, but it cannot be included in that 
+                   particular set because of it's different cycling 
+                   requirements.) 
+
+Oo-hot!(0-4).pcx   This replaces the Rock B set.  Cycling info is:
+                   63, 6, 8.  (I encourage you to experiment with 
+                   oo-hot!3, the raging fire.  It can be 'blocked', or 
+                   'open' which may give the player the excitement of 
+                   having to leap through roaring flames!  It can be
+                   a wall of it's own, or by placing them strategically 
+                   in a normal room, especially a copy of a room the 
+                   player has already visited, can create the illusion 
+                   that the room is now burning down around them!)
+
+
+Individual wall pieces:
+
+(Note: with these, if it replaces a slot in a color-cycling wall set, 
+keep the color-cycling going at it's normal levels.)
+
+X_adobe2.pcx
+X_brick1.pcx
+X_cave3.pcx
+X_marb2.pcx
+X_rocka4.pcx
+X_rockb2.pcx
+X_rockb3.pcx
+X_treea2.pcx
+X_treeb1.pcx
+X_treeb2.pcx
+X_waste1.pcx
+X_waste2.pcx
+X_waste3.pcx
+ 
+I had to keep track of a lot of information in making this zip, and 
+though I tried to double check my facts, I can't guarantee that I didn't 
+flub-up somewheres, so keep your Disk 2 8x8db & 8x8dc.tlbs backup copies 
+handy.
+ 
+Should they work as I'm expecting, however, please feel free to use any 
+of them anywhere, in anyway you like, and make any changes you wish.
+
+hans.

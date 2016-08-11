@@ -1,0 +1,23 @@
+Walls Sci-fi Collection #2
+
+This collection includes three wallsets: High Rise A, High Rise B and
+Ice Mines. It also comes with six backdrops, three for use with the
+High Rise wallsets, and three for use with the Ice Mines. These walls
+are designed for sci-fi or modern designs, and if you're looking for
+more of the same, I recommend my first sci-fi wallset collection
+(xxx.zip) and VixenKitty's sci-fi wallset collection (xxx.zip).
+
+The High Rise wallsets use the Coral wall slots (High Rise A goes
+into Coral A, and High Rise B goes into Coral B). The High Rise
+wallsets started out to be used as the interior of an high rise office
+or apartment, but they can be used for many other things as well. The
+main thing that sets it apart as a possible High Rise is the one wall
+which features a window showing a cityspace.
+
+The Ice Mines use the Rock B wall slots. There is an option wall,
+w_icem1a, which can be used in place of w_icem1. Both these walls
+are a sheet of ice, the only difference being that w_icem1a is
+semi-transparent.
+
+Enjoy!
+Merle <jservey@clemson.edu>

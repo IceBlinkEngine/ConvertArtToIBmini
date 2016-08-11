@@ -1,0 +1,33 @@
+HALLS OF DESPAIR
+
+By Ghaaroth
+
+This is theme collection of 4 wallsets, all containing faces of doomed,
+tortured entities inside their cold stone surfaces. 2 of them are brand new,
+2 were uploaded before, but now are edited specially for this theme pack.
+
+Contents:
+
+DEATH - Hall of Death, for Adobe wall slot. Previously uploaded as
+                 "Wall of skulls". For this edition I improved secondary
+                 slot 1, with crumbled wall. Other secondary slots have
+                 new palette, comparing to original Adobe.
+DEMONS - Hall of Demons, for Wood-A wall slot. Previously uploaded as "Wall
+                 of Souls". For this edition I switched from Rock-A slot of
+                 first edition to Wood-A, to free space for new wallset and
+                 to make Souls/Demons different from it. Secondary slots have
+                 new palette, comparing to original Wood-A. Also there is
+                 second variant for slot 1 (window) - besides original non-
+                 transparent window with grey glass (w_demon1.pcx), I added
+                 same window made transparent (w_demot1.pcx)
+PAINS - Hall of Pains, for Rock-A wall slot. Made from cover picture of book
+                 by H.P. Lovecraft. Palette is unchanged from original UA.
+                 Slots 2 and 4 were slightly altered (pieces of original
+                 stone framework removed), slots 1 and 3 were left completely
+                 unchanged and thus are not included into pack.
+SUFFER - Hall of Suffer, for Rock-B wall slot. Made from another part of that
+                 cover, and is intended to be used together with Pains.
+                 Palette is unchanged, slots 1, 2 and 4 are slightly
+                 retouched, slot 3 is left intact.
+
+ghaaroth@geocities.com

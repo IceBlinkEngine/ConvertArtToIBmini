@@ -1,0 +1,67 @@
+ICONEDIT - v1.2 PC Combat Icon Import Utility
+
+OVERVIEW
+
+Why write another PC icon editor?  If you used the other one, you KNOW why!
+In order to replace an icon, you had to import it as a monster icon, somehow
+locate what file you just wrote within your design directory, rename it, and
+run the other utility.  Whew!  Did I get it all?
+
+Well, this one's a LOT simpler.  It uses the same PCX files as you use to
+import into the monster icon slots.  In fact, as long as it is a small icon,
+ANY of your monster/elf/whatever icon art can be imported as a PC icon!
+
+CHANGES SINCE LAST VERSION
+
+All 49 slots are now legal and fully usable.  Many thanks to autrey@aol.com
+for figuring out how those last 5 slots were done (actually, I found a better
+way to do them, but his efforts made me look at the right place).
+
+INSTRUCTIONS FOR USE
+
+There are 2 ways to use this program:  with command line arguments, and
+without them.  With arguments, it is activated by typing at the DOS prompt:
+
+ICONEDIT <PCX filename> <slot number>
+
+Without the filename and slot number specified by the command line (ie: just
+typing ICONEDIT), you will be prompted for the information.  The first
+argument is always the filename; if you only feel like entering one argument,
+please make it the filename (otherwise you'll feel a bit silly when the
+program tells you it can't find a file called 22).
+
+When entering the filename, make sure the full path and the .PCX extension
+is included.  The slot number can be any value between 1 and 49.  For real!
+They all work this time!
+
+EXAMPLE
+
+ICONEDIT C_ELF01.PCX 1
+
+This places the icon in the file C_ELF01.PCX into slot 1.  If you had left
+off the 1, the program would have asked you for a slot number.  If you left 
+BOTH arguments out, the program asks for both filename and slot number.  If
+you left out the filename, but included the 1, the program will kindly inform
+you that it can't open a file called "1", because you probably don't have 
+such a file.
+
+LIMITATIONS
+
+1. Put the program in your main FRUA directory.  I know it's cluttered up
+with a bunch of other stuff, but it's the only place I know that all of you
+will have.  If the program tells you it can't open the icon file, it is
+because you have failed to do this.  
+
+(UPDATE: if you have UASHELL already installed, put this file and the
+others in this package into the DOWNLOAD subdirectory of UA, and run UASHELL.
+Then select Utilities | Install.)
+
+2. Be sure the filename you type in is a PCX graphic.  While it might be
+interesting to see what this program does with a WordPerfect document, you
+can be rest assured it won't be pretty...
+
+PROBLEMS?  COMMENTS?
+
+You can E-mail me at JGB4907@aol.com.  AOL has thoughtfully provided me an
+FTP site at users.aol.com\jgb4907, so you can find my latest stuff there.
+I must warn you that some of it's beta, so use at your own risk.

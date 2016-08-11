@@ -1,0 +1,25 @@
+NEW SNOW WALLS AND WATER WILDERNESS v2
+
+Here is a nice offering from WodahsEht1:
+
+It is my new SNOW WALL and WATER COMBAT set.  It includes:
+
+W_SNOW0-4.PCX           A simple color-modification from adobe.  To be used
+                        with WALLEDIT.  This is to go over the adobe wallset.
+
+WILDWATR.PCX            An overwater view of a river.  Contains floating logs,
+                        jagged rocks, and some floating moss.  To be used with
+                        WILD and (optionally) GROWWILD.
+
+WILDOCEN.PCX            An overwater view of an ocean.  Contains lots of 
+                        seaweed.
+
+In case you do not have WILD and/or WALLEDIT, these files are USELESS to you.
+I suggest you download these great utilities, available on AOL and the 'Net.
+
+Thanx for downloading these.  Be expecting more from me in the future...
+
+To use, consult your WILD and WALLEDIT manuals.
+
+NOTE:  The last version's text was messed up...  That is all that is new in 
+this one.

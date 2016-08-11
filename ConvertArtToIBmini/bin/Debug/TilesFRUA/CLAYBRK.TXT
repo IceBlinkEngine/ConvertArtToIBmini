@@ -1,0 +1,11 @@
+NAME:  CLAYBRK.ZIP
+DESC:  Clay Brick Wall Set & Backdrop
+AUTHOR: D Rapp
+
+The walls were adapted from a set by Rob.  I did some minor color changes,
+adapted them to the firebrick set and added a firepit in slot 4.  Color
+cycling is #64, 4 colors, 11 speed.
+
+The backdrop (bg_clayb.pcx) is original, using the same colors that are in
+the wall set.  
+

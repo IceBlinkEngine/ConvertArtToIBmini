@@ -13,6 +13,7 @@ namespace ConvertArtToIBmini
 {
     public partial class Form1 : Form
     {
+        //just a note to trigger a new commit from new laptop
         public ImagePcx imagepcx;
         public string combatTokenFruaPath = "";
         public string combatTokenIB2Path = "";
